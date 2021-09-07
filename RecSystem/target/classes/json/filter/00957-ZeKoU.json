@@ -1,0 +1,6419 @@
+{
+  "id" : 957,
+  "handle" : "ZeKoU",
+  "countHistoryTasks" : 28,
+  "historyTasks" : [ {
+    "id" : 30062437,
+    "name" : "Topcoder - Add Endpoints To Populating Marathon Matches And SRMs Into Elasticsearch",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Java", "Docker", "SQL", "Elasticsearch" ],
+    "status" : "Completed",
+    "postingDate" : "2018-01-23",
+    "registrationEndDate" : "2018-01-25",
+    "submissionEndDate" : "2018-01-28",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 31,
+    "registrants" : [ {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "amber.j",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "k.mas",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "anuradev",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "hi4sandy",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "gets0ul",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "dubeynidhi007",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "krish1997",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "talesforce",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "gvir",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "phoenix1992",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "Bende",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "binarysurface",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "oa414",
+      "registrationDate" : "2018-01-23"
+    }, {
+      "handle" : "VietHTran",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "aarishr",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "andyphysics2",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "Harsh.Goel",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "laruona",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "lihui1625",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "chicuong123",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "duy_sau_rom",
+      "registrationDate" : "2018-01-24"
+    }, {
+      "handle" : "moses13",
+      "registrationDate" : "2018-01-24"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "gets0ul",
+      "placement" : 1,
+      "score" : 97.75,
+      "submissionDate" : "2018-01-26"
+    }, {
+      "handle" : "tuxing",
+      "placement" : 2,
+      "score" : 97.5,
+      "submissionDate" : "2018-01-25"
+    } ]
+  }, {
+    "id" : 30061637,
+    "name" : "Factory Fabric Web App - Implement Java Backend Challenge",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Java", "Spring", "JSON", "MySQL", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2018-01-15",
+    "registrationEndDate" : "2018-01-20",
+    "submissionEndDate" : "2018-01-20",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 61,
+    "registrants" : [ {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "anuradev",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "murali.rade",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "amber.j",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "MKuk",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "ljsf_cc",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "veshu",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "linuxuser",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "[es]",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "TheOni1976",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "k.mas",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "VietHTran",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "benoitrion",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "Marvolo",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "torghul",
+      "registrationDate" : "2018-01-15"
+    }, {
+      "handle" : "jiangliwu",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "ouyangki",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "evilkyro1965",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "bannie2492",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "infinite24",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "ngoctay",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "virtual.coder",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "amoxibos",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "rubenjgarciab",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "abinashn",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "gets0ul",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "gvir",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "alecn2002",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "pacer97",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "avbngera",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2018-01-16"
+    }, {
+      "handle" : "arkadyark",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "afrisalyp",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "rahulranjanmca",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "Rakesh.Sa",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "sophie0308",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "gentaliti",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "gmagniez",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "dtriebw",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "phoenix1992",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "mmueller301",
+      "registrationDate" : "2018-01-17"
+    }, {
+      "handle" : "jason_top_demo",
+      "registrationDate" : "2018-01-18"
+    }, {
+      "handle" : "makarfi",
+      "registrationDate" : "2018-01-18"
+    }, {
+      "handle" : "dubeynidhi007",
+      "registrationDate" : "2018-01-19"
+    }, {
+      "handle" : "mukhtiar_ahmed",
+      "registrationDate" : "2018-01-20"
+    }, {
+      "handle" : "osip",
+      "registrationDate" : "2018-01-20"
+    }, {
+      "handle" : "kapeed",
+      "registrationDate" : "2018-01-20"
+    }, {
+      "handle" : "andyphysics2",
+      "registrationDate" : "2018-01-20"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "jiangliwu",
+      "placement" : 1,
+      "score" : 95.5,
+      "submissionDate" : "2018-01-19"
+    }, {
+      "handle" : "ljsf_cc",
+      "placement" : 2,
+      "score" : 94.5,
+      "submissionDate" : "2018-01-20"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 3,
+      "score" : 73.5,
+      "submissionDate" : "2018-01-19"
+    }, {
+      "handle" : "alecn2002",
+      "placement" : 4,
+      "score" : 51.17,
+      "submissionDate" : "2018-01-20"
+    } ]
+  }, {
+    "id" : 30050243,
+    "name" : "Cisco DevNet OpenStack on Your Laptop Sweepstakes Challenge",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Cisco" ],
+    "status" : "Completed",
+    "postingDate" : "2015-05-26",
+    "registrationEndDate" : "2015-06-26",
+    "submissionEndDate" : "2015-06-26",
+    "prizes" : [ 5000.0 ],
+    "numRegistrants" : 394,
+    "registrants" : [ {
+      "handle" : "Ksys",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "savon_cn",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "forpod11",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "patka",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "serfire",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "macs054",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "LudoVdB",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "klo86min",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "basav_com",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "gauravind",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "ahmed.seddiq",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "brunch",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "vivekp01",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "sunhong",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "gabrielfreire",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "souravdas452",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "anhtuannd",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "Colinh84",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "vivu493",
+      "registrationDate" : "2015-05-26"
+    }, {
+      "handle" : "Bent92",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "thothling",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "shubha1593",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "AkashSurti",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "shobhuaa",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "jzh08",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "marshallmutiso",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "jorje.b",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "asusta",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "spandanaz",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "rominirani",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "nomad16",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "karthikbecse",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "shashwat0001",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "Dantengs",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "sparshgunner12",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "fengyindiehun",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "Shilpas281",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "siddhanjay",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "Sanjivani",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "yfalah",
+      "registrationDate" : "2015-05-27"
+    }, {
+      "handle" : "cloudybay",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "ygovind",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "brucardoso2",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "agna13",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "Jake1164",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "Killua95",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "dianluxiaozi",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "aakinola",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "Kuhan",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "abhicloudstalk",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "chandra2012mca",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "juely09",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "trol117",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "erhanuman9010",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "animesfl",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "saggy_93",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "nomo_kazza",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "brtiller",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "salapag",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "Kaushik_TC",
+      "registrationDate" : "2015-05-28"
+    }, {
+      "handle" : "mieczyslaw",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "tjons",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "mitin001",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "zenanalyst",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "nirmoy.aiemd",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "inggova",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "dex13",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "ramavundela",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "sumanbgl",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "prashantjangid",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "rashmitneo20",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "pun_aga",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "adi03",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "iogufere",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "r.saiprasad",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "mghebran",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "aminerahj",
+      "registrationDate" : "2015-05-29"
+    }, {
+      "handle" : "vserg",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "Strog",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "skater2464",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "gowrinath",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "himan999",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "sls",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "janux",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "javierv",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "frank-borkin",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "krachtusk",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "Aumnayan",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "norcimo5",
+      "registrationDate" : "2015-05-30"
+    }, {
+      "handle" : "Emending",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "trinitrotoluene",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "rabotha",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "khunshan",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "swktopcoder1",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "kyleo",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "DeepKaur",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "n1rvana",
+      "registrationDate" : "2015-05-31"
+    }, {
+      "handle" : "hkalra1",
+      "registrationDate" : "2015-06-01"
+    }, {
+      "handle" : "vardhanw",
+      "registrationDate" : "2015-06-01"
+    }, {
+      "handle" : "anjeas4",
+      "registrationDate" : "2015-06-01"
+    }, {
+      "handle" : "antslag",
+      "registrationDate" : "2015-06-01"
+    }, {
+      "handle" : "sergeevii123",
+      "registrationDate" : "2015-06-01"
+    }, {
+      "handle" : "diogenesjcs",
+      "registrationDate" : "2015-06-01"
+    }, {
+      "handle" : "noahsark",
+      "registrationDate" : "2015-06-01"
+    }, {
+      "handle" : "emmanuel.ugwu21",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "gthedreamer",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "bobmshannon",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "ruwantha.joel",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "rrr_guru",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "f0rc0d3r",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "Pemmasani",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "lagarwal",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "Carlos.Macedo",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "dsroyster",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "ycui",
+      "registrationDate" : "2015-06-02"
+    }, {
+      "handle" : "splatonov",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "PleiadesSoft",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "david.gamez",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "crkumaresh24",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "holistic.js09",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "RITESH812",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "ketz.js",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "Wizziee",
+      "registrationDate" : "2015-06-03"
+    }, {
+      "handle" : "Rushikesh.Deshp",
+      "registrationDate" : "2015-06-04"
+    }, {
+      "handle" : "forcedevp",
+      "registrationDate" : "2015-06-04"
+    }, {
+      "handle" : "agh",
+      "registrationDate" : "2015-06-04"
+    }, {
+      "handle" : "sustcoderboy",
+      "registrationDate" : "2015-06-04"
+    }, {
+      "handle" : "pbeta",
+      "registrationDate" : "2015-06-04"
+    }, {
+      "handle" : "gsingla294",
+      "registrationDate" : "2015-06-04"
+    }, {
+      "handle" : "sribee",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "sriddhi",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "rajithamenon",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "marcus.voltolim",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "Pooja_B",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "yjyfrombnu",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "baba.chandan11",
+      "registrationDate" : "2015-06-05"
+    }, {
+      "handle" : "herodolphin",
+      "registrationDate" : "2015-06-06"
+    }, {
+      "handle" : "bosszhang",
+      "registrationDate" : "2015-06-06"
+    }, {
+      "handle" : "okuni",
+      "registrationDate" : "2015-06-06"
+    }, {
+      "handle" : "Jatin.Arora",
+      "registrationDate" : "2015-06-06"
+    }, {
+      "handle" : "akh64bit",
+      "registrationDate" : "2015-06-07"
+    }, {
+      "handle" : "inder.swami",
+      "registrationDate" : "2015-06-07"
+    }, {
+      "handle" : "stardust12138",
+      "registrationDate" : "2015-06-07"
+    }, {
+      "handle" : "Towhid",
+      "registrationDate" : "2015-06-07"
+    }, {
+      "handle" : "LizaSheina",
+      "registrationDate" : "2015-06-07"
+    }, {
+      "handle" : "alexnz",
+      "registrationDate" : "2015-06-08"
+    }, {
+      "handle" : "substance9",
+      "registrationDate" : "2015-06-08"
+    }, {
+      "handle" : "mm2012mm",
+      "registrationDate" : "2015-06-08"
+    }, {
+      "handle" : "jamesssun",
+      "registrationDate" : "2015-06-08"
+    }, {
+      "handle" : "skysarthak11",
+      "registrationDate" : "2015-06-08"
+    }, {
+      "handle" : "VynHart",
+      "registrationDate" : "2015-06-09"
+    }, {
+      "handle" : "alik",
+      "registrationDate" : "2015-06-09"
+    }, {
+      "handle" : "profficv",
+      "registrationDate" : "2015-06-10"
+    }, {
+      "handle" : "psmurthy",
+      "registrationDate" : "2015-06-10"
+    }, {
+      "handle" : "wmetzel",
+      "registrationDate" : "2015-06-10"
+    }, {
+      "handle" : "Safadurimo",
+      "registrationDate" : "2015-06-10"
+    }, {
+      "handle" : "fy.1",
+      "registrationDate" : "2015-06-10"
+    }, {
+      "handle" : "jaijitendra",
+      "registrationDate" : "2015-06-11"
+    }, {
+      "handle" : "fengxiaohao520",
+      "registrationDate" : "2015-06-11"
+    }, {
+      "handle" : "hcl",
+      "registrationDate" : "2015-06-11"
+    }, {
+      "handle" : "leopardo",
+      "registrationDate" : "2015-06-11"
+    }, {
+      "handle" : "vasumaniram",
+      "registrationDate" : "2015-06-11"
+    }, {
+      "handle" : "proficient",
+      "registrationDate" : "2015-06-11"
+    }, {
+      "handle" : "yhl",
+      "registrationDate" : "2015-06-12"
+    }, {
+      "handle" : "mac007",
+      "registrationDate" : "2015-06-12"
+    }, {
+      "handle" : "ccqblade",
+      "registrationDate" : "2015-06-13"
+    }, {
+      "handle" : "nishath",
+      "registrationDate" : "2015-06-13"
+    }, {
+      "handle" : "demo.b",
+      "registrationDate" : "2015-06-13"
+    }, {
+      "handle" : "aarifjindani",
+      "registrationDate" : "2015-06-13"
+    }, {
+      "handle" : "iamadayumboy",
+      "registrationDate" : "2015-06-13"
+    }, {
+      "handle" : "Derwish",
+      "registrationDate" : "2015-06-13"
+    }, {
+      "handle" : "maydayuiui",
+      "registrationDate" : "2015-06-13"
+    }, {
+      "handle" : "undeniable",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "precker.unix",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "novacoder",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "aestamper",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "myaccount2014",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "malipivo",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "bestplayer2014",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "ios7osx",
+      "registrationDate" : "2015-06-14"
+    }, {
+      "handle" : "zeverix",
+      "registrationDate" : "2015-06-15"
+    }, {
+      "handle" : "incomplete",
+      "registrationDate" : "2015-06-15"
+    }, {
+      "handle" : "chris438",
+      "registrationDate" : "2015-06-15"
+    }, {
+      "handle" : "narenkmano",
+      "registrationDate" : "2015-06-15"
+    }, {
+      "handle" : "vlad_D",
+      "registrationDate" : "2015-06-16"
+    }, {
+      "handle" : "leanne63",
+      "registrationDate" : "2015-06-16"
+    }, {
+      "handle" : "xeixas",
+      "registrationDate" : "2015-06-16"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2015-06-16"
+    }, {
+      "handle" : "xiulin_li",
+      "registrationDate" : "2015-06-16"
+    }, {
+      "handle" : "mohit.bhansali",
+      "registrationDate" : "2015-06-16"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "yashubhat.gv",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "bikini5k",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "hadooper",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "mattishii",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "funny1234567",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "lovelysuperman",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "susiak",
+      "registrationDate" : "2015-06-17"
+    }, {
+      "handle" : "jessicaleadunn",
+      "registrationDate" : "2015-06-18"
+    }, {
+      "handle" : "abhi45",
+      "registrationDate" : "2015-06-18"
+    }, {
+      "handle" : "Raphael.Stroe",
+      "registrationDate" : "2015-06-18"
+    }, {
+      "handle" : "mennaya",
+      "registrationDate" : "2015-06-18"
+    }, {
+      "handle" : "zeasratwde",
+      "registrationDate" : "2015-06-18"
+    }, {
+      "handle" : "hullarb",
+      "registrationDate" : "2015-06-18"
+    }, {
+      "handle" : "workout365day",
+      "registrationDate" : "2015-06-19"
+    }, {
+      "handle" : "orirmi",
+      "registrationDate" : "2015-06-19"
+    }, {
+      "handle" : "fpu",
+      "registrationDate" : "2015-06-19"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2015-06-20"
+    }, {
+      "handle" : "rjsk",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "Shah.637",
+      "registrationDate" : "2015-06-20"
+    }, {
+      "handle" : "DPARK",
+      "registrationDate" : "2015-06-20"
+    }, {
+      "handle" : "FireIce",
+      "registrationDate" : "2015-06-20"
+    }, {
+      "handle" : "m_medhat",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "scotia4444",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "vsai",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "paritoshmmmec",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "joel.dsouza",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "iCare",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "Gauhar.Aya",
+      "registrationDate" : "2015-06-21"
+    }, {
+      "handle" : "xBernikov",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "ode2k",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "mardicod",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "suraj_narayan",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "tapas.nathpaul",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "sachingiri",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "kashif.zeya",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "mmukherjee46",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "kishan.bhansali",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "abhansali",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "khush.rokz",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "mb.rokz",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "prabha.jain",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rahul.jain",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "imrankhan12",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rohitbhagalpur",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "pronomidibrugar",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "shyamgiri",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "punamsingh",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "soaibsur",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "pansinghtomer",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "roshniwalia16",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rawisijack",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "nishagori21",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "abhijeetgogoi28",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "romajainsingh",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "panasomicsamsun",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "hitechraja10",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "pashupatishina",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "jksharmayoyo",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "kischansingh",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "Siarhei.Brazil",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "piyaroy",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "lovishdogra",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rimajha",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rajveersharma",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "o.kaya",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "ravirajs",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "raviveer",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "Animeshs4",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rimjhimsha43",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rohit.soni",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "devasishsoni",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "rahulsrivastav",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "manoj.khurrana",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "saloni84",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "chauhanraghav",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "praveensethia07",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "krishnadutta416",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "sakshisinha",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "lokeshshonkar",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "ayushi199",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "hemantagarwal",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "ag791118",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "vp50771",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "akkidas8",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "tmk.pratap",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "animesh87",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "lovesurekha7",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "vivekjalota5",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "adityagoswami",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "pt74255",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "mahesh.shonkar",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "soniakakde",
+      "registrationDate" : "2015-06-22"
+    }, {
+      "handle" : "buchanaw",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "lveyvinson",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "nanaabhishek",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "surupade",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "alinifaz1",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "smandal21",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "mayank8888",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "nahid34",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "twinklej56",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "umesh.agrawal23",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "omer77",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "galaxy.kadi11",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "sahil.surya",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "vic23",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "bohojewels",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "gabrielleorcutt",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "Jarvis14",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "Beringer",
+      "registrationDate" : "2015-06-23"
+    }, {
+      "handle" : "kubapb",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "timmantuana",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "julia93",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "jwlhc172",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "pharic",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "himanshudhote96",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "helenanaslund",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "chrisdangtran",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "jessicalea",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "shivamarathe123",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "lolcndoublekill",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "longboringstory",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "goodmoringlove",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "learnswiftgood",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "starwarsbatman",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "quintessaring",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "chinabestloler",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "opfunny",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "pocketsuperman",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "kildressring",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "pizzahutlover",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "shuizhuroufansh",
+      "registrationDate" : "2015-06-24"
+    }, {
+      "handle" : "malkeni30",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "eliman",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "rajkumari19803",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "smtryingcode",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "jai.janarthanan",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "jhaa12",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "planaruk",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "skhan90",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "abcstudiodrama",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "iamgood1988",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "ackerleygarden",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "aethelred",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "Ucefgeek",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "Lourayad",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "trylar",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "mhuetter",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "prizeslist",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "adolfwolf1",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "nadezhda5",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "anson8",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "tadaaki",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "haneulqq",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "wells.uu",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "philomenax",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "mynameispp",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "liangyuantoday",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "computerisdog",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "uitableview",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "bbqchihuo",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "formulawin",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "howlingabyss",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "debain2010",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "gmarketvip",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "ttfancy",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "yyetsmoive",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "angelfallin",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "numbertostr",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "mnetep",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "ufobbcream",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "drwhovip",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "troublehouse",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "salomep",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "sigmau",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "aixivip",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "greenbig",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "TejDuggi",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "tarotfate",
+      "registrationDate" : "2015-06-25"
+    }, {
+      "handle" : "xxyyzzqwr",
+      "registrationDate" : "2015-06-25"
+    } ],
+    "numSubmitters" : 208,
+    "submitters" : [ {
+      "handle" : "vivekp01",
+      "placement" : 2,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-28"
+    }, {
+      "handle" : "salapag",
+      "placement" : 3,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-28"
+    }, {
+      "handle" : "rominirani",
+      "placement" : 4,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-29"
+    }, {
+      "handle" : "ramavundela",
+      "placement" : 5,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-30"
+    }, {
+      "handle" : "frank-borkin",
+      "placement" : 6,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-30"
+    }, {
+      "handle" : "malipivo",
+      "placement" : 34,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "Jake1164",
+      "placement" : 7,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-31"
+    }, {
+      "handle" : "mieczyslaw",
+      "placement" : 8,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-31"
+    }, {
+      "handle" : "kishan.bhansali",
+      "placement" : 33,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "kubapb",
+      "placement" : 32,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-23"
+    }, {
+      "handle" : "antslag",
+      "placement" : 31,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-23"
+    }, {
+      "handle" : "ccqblade",
+      "placement" : 30,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-23"
+    }, {
+      "handle" : "buchanaw",
+      "placement" : 29,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-23"
+    }, {
+      "handle" : "arvind81983",
+      "placement" : 9,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-04"
+    }, {
+      "handle" : "pbeta",
+      "placement" : 10,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-05"
+    }, {
+      "handle" : "sunhong",
+      "placement" : 28,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-22"
+    }, {
+      "handle" : "precker.unix",
+      "placement" : 27,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-22"
+    }, {
+      "handle" : "muzehyun",
+      "placement" : 11,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-06"
+    }, {
+      "handle" : "thothling",
+      "placement" : 12,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-07"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 13,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-08"
+    }, {
+      "handle" : "m_medhat",
+      "placement" : 26,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-22"
+    }, {
+      "handle" : "onsky",
+      "placement" : 25,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-22"
+    }, {
+      "handle" : "cloudybay",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-28"
+    }, {
+      "handle" : "shubha1593",
+      "placement" : 24,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-22"
+    }, {
+      "handle" : "myaccount2014",
+      "placement" : 48,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "VynHart",
+      "placement" : 23,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-19"
+    }, {
+      "handle" : "mattishii",
+      "placement" : 22,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-18"
+    }, {
+      "handle" : "maydayuiui",
+      "placement" : 14,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-14"
+    }, {
+      "handle" : "bosszhang",
+      "placement" : 15,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-14"
+    }, {
+      "handle" : "aestamper",
+      "placement" : 16,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-14"
+    }, {
+      "handle" : "demo.b",
+      "placement" : 17,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-14"
+    }, {
+      "handle" : "abhi45",
+      "placement" : 21,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-18"
+    }, {
+      "handle" : "ruwantha.joel",
+      "placement" : 20,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-16"
+    }, {
+      "handle" : "Derwish",
+      "placement" : 18,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-15"
+    }, {
+      "handle" : "vlad_D",
+      "placement" : 19,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-16"
+    }, {
+      "handle" : "rajkumari19803",
+      "placement" : 35,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "soaibsur",
+      "placement" : 36,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "smtryingcode",
+      "placement" : 37,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "abcstudiodrama",
+      "placement" : 38,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "aethelred",
+      "placement" : 39,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "bestplayer2014",
+      "placement" : 40,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "bohojewels",
+      "placement" : 41,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "chinabestloler",
+      "placement" : 42,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "chrisdangtran",
+      "placement" : 43,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "funny1234567",
+      "placement" : 44,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "helenanaslund",
+      "placement" : 45,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "jessicalea",
+      "placement" : 46,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "kildressring",
+      "placement" : 47,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "Lourayad",
+      "placement" : 49,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "Ksys",
+      "placement" : 50,
+      "score" : 100.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "xxyyzzqwr",
+      "placement" : 207,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "Colinh84",
+      "placement" : 208,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-26"
+    }, {
+      "handle" : "tarotfate",
+      "placement" : 206,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "greenbig",
+      "placement" : 205,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "siddhanjay",
+      "placement" : 77,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-21"
+    }, {
+      "handle" : "Gauhar.Aya",
+      "placement" : 78,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-21"
+    }, {
+      "handle" : "DeepKaur",
+      "placement" : 79,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-21"
+    }, {
+      "handle" : "nishath",
+      "placement" : 62,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-13"
+    }, {
+      "handle" : "macs054",
+      "placement" : 80,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-22"
+    }, {
+      "handle" : "profficv",
+      "placement" : 61,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-10"
+    }, {
+      "handle" : "Jatin.Arora",
+      "placement" : 60,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-10"
+    }, {
+      "handle" : "mm2012mm",
+      "placement" : 59,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-08"
+    }, {
+      "handle" : "sergeevii123",
+      "placement" : 58,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-06"
+    }, {
+      "handle" : "crkumaresh24",
+      "placement" : 57,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-06"
+    }, {
+      "handle" : "agh",
+      "placement" : 56,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-04"
+    }, {
+      "handle" : "mayank8888",
+      "placement" : 81,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-23"
+    }, {
+      "handle" : "splatonov",
+      "placement" : 55,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-03"
+    }, {
+      "handle" : "mohit.bhansali",
+      "placement" : 82,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-23"
+    }, {
+      "handle" : "bobmshannon",
+      "placement" : 54,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-01"
+    }, {
+      "handle" : "himanshudhote96",
+      "placement" : 83,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "diogenesjcs",
+      "placement" : 53,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-01"
+    }, {
+      "handle" : "rohit.soni",
+      "placement" : 84,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "rimajha",
+      "placement" : 85,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "punamsingh",
+      "placement" : 86,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "hemantagarwal",
+      "placement" : 87,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "rahul.jain",
+      "placement" : 88,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "chauhanraghav",
+      "placement" : 89,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "romajainsingh",
+      "placement" : 90,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "suraj_narayan",
+      "placement" : 91,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "animesh87",
+      "placement" : 92,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "saloni84",
+      "placement" : 93,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "soniakakde",
+      "placement" : 94,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "prabha.jain",
+      "placement" : 95,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "sachingiri",
+      "placement" : 96,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "nishagori21",
+      "placement" : 97,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "rimjhimsha43",
+      "placement" : 98,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "mitin001",
+      "placement" : 52,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-31"
+    }, {
+      "handle" : "khush.rokz",
+      "placement" : 99,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "nanaabhishek",
+      "placement" : 100,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "surupade",
+      "placement" : 101,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "alinifaz1",
+      "placement" : 102,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "Animeshs4",
+      "placement" : 103,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "smandal21",
+      "placement" : 104,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "piyaroy",
+      "placement" : 105,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "shyamgiri",
+      "placement" : 106,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "roshniwalia16",
+      "placement" : 107,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "imrankhan12",
+      "placement" : 108,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "pashupatishina",
+      "placement" : 109,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "jksharmayoyo",
+      "placement" : 110,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "nahid34",
+      "placement" : 111,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "twinklej56",
+      "placement" : 112,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "umesh.agrawal23",
+      "placement" : 113,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "galaxy.kadi11",
+      "placement" : 114,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "ravirajs",
+      "placement" : 115,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "mb.rokz",
+      "placement" : 116,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "javierv",
+      "placement" : 51,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-30"
+    }, {
+      "handle" : "kashif.zeya",
+      "placement" : 117,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "aixivip",
+      "placement" : 204,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "tapas.nathpaul",
+      "placement" : 118,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "abhansali",
+      "placement" : 119,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "krishnadutta416",
+      "placement" : 120,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "lokeshshonkar",
+      "placement" : 121,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "vp50771",
+      "placement" : 122,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "vivekjalota5",
+      "placement" : 123,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "pt74255",
+      "placement" : 124,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "rahulsrivastav",
+      "placement" : 125,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "saggy_93",
+      "placement" : 126,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "vic23",
+      "placement" : 127,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "sahil.surya",
+      "placement" : 128,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "rohitbhagalpur",
+      "placement" : 129,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "pansinghtomer",
+      "placement" : 130,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "rawisijack",
+      "placement" : 131,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "abhijeetgogoi28",
+      "placement" : 132,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "hitechraja10",
+      "placement" : 133,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "kischansingh",
+      "placement" : 134,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "rajveersharma",
+      "placement" : 135,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "raviveer",
+      "placement" : 136,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "mmukherjee46",
+      "placement" : 137,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-24"
+    }, {
+      "handle" : "tmk.pratap",
+      "placement" : 138,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "manoj.khurrana",
+      "placement" : 139,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "devasishsoni",
+      "placement" : 140,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "mahesh.shonkar",
+      "placement" : 141,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "malkeni30",
+      "placement" : 142,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "praveensethia07",
+      "placement" : 143,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "sakshisinha",
+      "placement" : 144,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "ayushi199",
+      "placement" : 145,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "ag791118",
+      "placement" : 146,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "akkidas8",
+      "placement" : 147,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "lovesurekha7",
+      "placement" : 148,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "adityagoswami",
+      "placement" : 149,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "xeixas",
+      "placement" : 66,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-16"
+    }, {
+      "handle" : "timmantuana",
+      "placement" : 150,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "pronomidibrugar",
+      "placement" : 151,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "leanne63",
+      "placement" : 67,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-16"
+    }, {
+      "handle" : "panasomicsamsun",
+      "placement" : 152,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "nomad16",
+      "placement" : 153,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "trinitrotoluene",
+      "placement" : 154,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "klo86min",
+      "placement" : 68,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-17"
+    }, {
+      "handle" : "undeniable",
+      "placement" : 155,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "basav_com",
+      "placement" : 156,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "mhuetter",
+      "placement" : 157,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "novacoder",
+      "placement" : 158,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "lovelysuperman",
+      "placement" : 69,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-17"
+    }, {
+      "handle" : "ackerleygarden",
+      "placement" : 159,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "susiak",
+      "placement" : 70,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-17"
+    }, {
+      "handle" : "shobhu",
+      "placement" : 71,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-18"
+    }, {
+      "handle" : "bikini5k",
+      "placement" : 160,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "inder.swami",
+      "placement" : 65,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-14"
+    }, {
+      "handle" : "hullarb",
+      "placement" : 72,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-18"
+    }, {
+      "handle" : "brunch",
+      "placement" : 64,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-14"
+    }, {
+      "handle" : "renqingwei123",
+      "placement" : 63,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-13"
+    }, {
+      "handle" : "gabrielleorcutt",
+      "placement" : 161,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "goodmoringlove",
+      "placement" : 162,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "swengko",
+      "placement" : 73,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-19"
+    }, {
+      "handle" : "iamgood1988",
+      "placement" : 163,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "ios7osx",
+      "placement" : 164,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "aarifjindani",
+      "placement" : 74,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-20"
+    }, {
+      "handle" : "jessicaleadunn",
+      "placement" : 165,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "mennaya",
+      "placement" : 75,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-20"
+    }, {
+      "handle" : "learnswiftgood",
+      "placement" : 166,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "lolcndoublekill",
+      "placement" : 167,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "longboringstory",
+      "placement" : 168,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "lveyvinson",
+      "placement" : 169,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "gjw99",
+      "placement" : 76,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-21"
+    }, {
+      "handle" : "opfunny",
+      "placement" : 170,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "pizzahutlover",
+      "placement" : 171,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "pocketsuperman",
+      "placement" : 172,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "quintessaring",
+      "placement" : 173,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "shuizhuroufansh",
+      "placement" : 174,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "starwarsbatman",
+      "placement" : 175,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "workout365day",
+      "placement" : 176,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "prizeslist",
+      "placement" : 177,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "adolfwolf1",
+      "placement" : 178,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "nadezhda5",
+      "placement" : 179,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "anson8",
+      "placement" : 180,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "tadaaki",
+      "placement" : 181,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "haneulqq",
+      "placement" : 182,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "wells.uu",
+      "placement" : 183,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "philomenax",
+      "placement" : 184,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "mynameispp",
+      "placement" : 185,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "liangyuantoday",
+      "placement" : 186,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "computerisdog",
+      "placement" : 187,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "uitableview",
+      "placement" : 188,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "bbqchihuo",
+      "placement" : 189,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "formulawin",
+      "placement" : 190,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "howlingabyss",
+      "placement" : 191,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "debain2010",
+      "placement" : 192,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "gmarketvip",
+      "placement" : 193,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "ttfancy",
+      "placement" : 194,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "yyetsmoive",
+      "placement" : 195,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "angelfallin",
+      "placement" : 196,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "numbertostr",
+      "placement" : 197,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "mnetep",
+      "placement" : 198,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "ufobbcream",
+      "placement" : 199,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "drwhovip",
+      "placement" : 200,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "troublehouse",
+      "placement" : 201,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "salomep",
+      "placement" : 202,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    }, {
+      "handle" : "sigmau",
+      "placement" : 203,
+      "score" : 90.0,
+      "submissionDate" : "2015-06-25"
+    } ]
+  }, {
+    "id" : 30049244,
+    "name" : "Cisco DevNet Network APIs warm up sweepstakes Challenge",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Python", "API", "Cisco" ],
+    "status" : "Completed",
+    "postingDate" : "2015-03-16",
+    "registrationEndDate" : "2015-05-18",
+    "submissionEndDate" : "2015-05-18",
+    "prizes" : [ 5000.0 ],
+    "numRegistrants" : 362,
+    "registrants" : [ {
+      "handle" : "Safadurimo",
+      "registrationDate" : "2015-03-16"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2015-03-16"
+    }, {
+      "handle" : "Victor.Coffee",
+      "registrationDate" : "2015-03-16"
+    }, {
+      "handle" : "macs054",
+      "registrationDate" : "2015-03-16"
+    }, {
+      "handle" : "pbp38",
+      "registrationDate" : "2015-03-16"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2015-03-16"
+    }, {
+      "handle" : "jorje.b",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "jzh08",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "Geeshang",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "sjbr",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "albusshin",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "tc_jiangping",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "ifox",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "agna13",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "campaigner",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "brian68",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "Raphael.Stroe",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "jamesssun",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "CezaryV",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "karthikbecse",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "gregorygray",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "rubgape",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "ksavinash",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "mess",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "PleiadesSoft",
+      "registrationDate" : "2015-03-17"
+    }, {
+      "handle" : "yash123",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "mac007",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "ufarruh",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "gthedreamer",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "miaomaocat",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "wk1948",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "grswdev",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "elielzamora",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "tosha5252",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "shobhuaa",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "abhicloudstalk",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "Yochanan",
+      "registrationDate" : "2015-03-18"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "mattmaybs",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "Wxalex98",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "shubha1593",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "brandonb2019",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "AnhQuan",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "aswmtjdsj",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "crazygo",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2015-03-19"
+    }, {
+      "handle" : "sri02",
+      "registrationDate" : "2015-03-20"
+    }, {
+      "handle" : "CodeSnake",
+      "registrationDate" : "2015-03-20"
+    }, {
+      "handle" : "BlueCat56",
+      "registrationDate" : "2015-03-20"
+    }, {
+      "handle" : "abhinavairi09",
+      "registrationDate" : "2015-03-20"
+    }, {
+      "handle" : "SPChoria",
+      "registrationDate" : "2015-03-20"
+    }, {
+      "handle" : "avidcoder",
+      "registrationDate" : "2015-03-21"
+    }, {
+      "handle" : "Brunall",
+      "registrationDate" : "2015-03-21"
+    }, {
+      "handle" : "rushabhshah10",
+      "registrationDate" : "2015-03-21"
+    }, {
+      "handle" : "iCare",
+      "registrationDate" : "2015-03-21"
+    }, {
+      "handle" : "sunhong",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "AltoRare",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "lakpatashi",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "arjun_singh",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "BananaTree",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "Revels",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "xin135",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "net_buster",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "praneethjonna",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "yogi2sony",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "mikearo",
+      "registrationDate" : "2015-03-22"
+    }, {
+      "handle" : "avishay89051",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "Colinh84",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "churi.amay",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "vikasverma",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "Thatprogramkid",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "ycui",
+      "registrationDate" : "2015-03-23"
+    }, {
+      "handle" : "phaniram",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "2ooom",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "prashh",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "kyerise",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "samot",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "naimish_randeri",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "vkstechnoguru",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "niro56",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "TICKET_30311",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "michaelyyang",
+      "registrationDate" : "2015-03-27"
+    }, {
+      "handle" : "mieczyslaw",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "feynman_canon",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "keshavgupta",
+      "registrationDate" : "2015-03-28"
+    }, {
+      "handle" : "vishal_vitz",
+      "registrationDate" : "2015-03-27"
+    }, {
+      "handle" : "iam_aaditya",
+      "registrationDate" : "2015-03-27"
+    }, {
+      "handle" : "SarthakU",
+      "registrationDate" : "2015-03-27"
+    }, {
+      "handle" : "maxlipsky",
+      "registrationDate" : "2015-03-28"
+    }, {
+      "handle" : "mohit.bhansali",
+      "registrationDate" : "2015-03-28"
+    }, {
+      "handle" : "jiejie312",
+      "registrationDate" : "2015-03-28"
+    }, {
+      "handle" : "ccqblade",
+      "registrationDate" : "2015-03-28"
+    }, {
+      "handle" : "dudu63026",
+      "registrationDate" : "2015-03-28"
+    }, {
+      "handle" : "strollhy",
+      "registrationDate" : "2015-03-31"
+    }, {
+      "handle" : "Derwish",
+      "registrationDate" : "2015-03-29"
+    }, {
+      "handle" : "yjyfrombnu",
+      "registrationDate" : "2015-03-29"
+    }, {
+      "handle" : "daga_sumit",
+      "registrationDate" : "2015-03-29"
+    }, {
+      "handle" : "vivekjaiswal",
+      "registrationDate" : "2015-03-30"
+    }, {
+      "handle" : "Stool_Monster",
+      "registrationDate" : "2015-03-30"
+    }, {
+      "handle" : "CrazyCoderLZB",
+      "registrationDate" : "2015-03-30"
+    }, {
+      "handle" : "Adithya.Sankar",
+      "registrationDate" : "2015-03-30"
+    }, {
+      "handle" : "jaythaceo",
+      "registrationDate" : "2015-03-30"
+    }, {
+      "handle" : "tajisetia",
+      "registrationDate" : "2015-03-31"
+    }, {
+      "handle" : "zzjbewi",
+      "registrationDate" : "2015-03-31"
+    }, {
+      "handle" : "miguel_clean",
+      "registrationDate" : "2015-03-31"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-03-31"
+    }, {
+      "handle" : "nomo_kazza",
+      "registrationDate" : "2015-03-31"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2015-04-01"
+    }, {
+      "handle" : "youtux",
+      "registrationDate" : "2015-04-01"
+    }, {
+      "handle" : "mosessoh",
+      "registrationDate" : "2015-04-01"
+    }, {
+      "handle" : "v.samineni",
+      "registrationDate" : "2015-04-01"
+    }, {
+      "handle" : "donge",
+      "registrationDate" : "2015-04-02"
+    }, {
+      "handle" : "lzam",
+      "registrationDate" : "2015-04-02"
+    }, {
+      "handle" : "Ksys",
+      "registrationDate" : "2015-04-02"
+    }, {
+      "handle" : "0coolonline",
+      "registrationDate" : "2015-04-02"
+    }, {
+      "handle" : "hajmoh",
+      "registrationDate" : "2015-04-02"
+    }, {
+      "handle" : "P3t3r_Hu",
+      "registrationDate" : "2015-04-03"
+    }, {
+      "handle" : "reddevild271",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "Venkat.Sai",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "Shivam99",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "itdolmatov",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "Roccy",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "alazyrabbit",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "maystya",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "pun_aga",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "Khairul.Fahmi",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "felipegs",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "montychanda91",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "sudptachowdhury",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "sapna1980",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "birajmandal1984",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "luckychanda",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "vivab1990",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "jwanjohi95",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "saggy_93",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "hikerclimber",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "arghavs",
+      "registrationDate" : "2015-04-11"
+    }, {
+      "handle" : "Shivam57",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "callahammer",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "taniyathakur83",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "janavithakur88",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "krishnacurl88",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "kishanu8077",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "jaminabegum34",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "surbhipathak99",
+      "registrationDate" : "2015-04-10"
+    }, {
+      "handle" : "david.gamez",
+      "registrationDate" : "2015-04-11"
+    }, {
+      "handle" : "nitz4",
+      "registrationDate" : "2015-04-11"
+    }, {
+      "handle" : "sartals",
+      "registrationDate" : "2015-04-11"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "jksharmayoyo",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "kamdhenubasak77",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "kischansingh",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "chanchalyadav18",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "himanshudhote96",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "rupamdasg980",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "piyaroy",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "rimajha",
+      "registrationDate" : "2015-04-12"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2015-04-13"
+    }, {
+      "handle" : "muhammad.daif",
+      "registrationDate" : "2015-04-13"
+    }, {
+      "handle" : "orirmi",
+      "registrationDate" : "2015-04-14"
+    }, {
+      "handle" : "xiulin_li",
+      "registrationDate" : "2015-04-14"
+    }, {
+      "handle" : "HuangSuoyuan",
+      "registrationDate" : "2015-04-15"
+    }, {
+      "handle" : "nanaabhishek",
+      "registrationDate" : "2015-04-15"
+    }, {
+      "handle" : "surupade",
+      "registrationDate" : "2015-04-15"
+    }, {
+      "handle" : "nspatel1986",
+      "registrationDate" : "2015-04-15"
+    }, {
+      "handle" : "pawel147",
+      "registrationDate" : "2015-04-15"
+    }, {
+      "handle" : "spirituallife",
+      "registrationDate" : "2015-04-16"
+    }, {
+      "handle" : "alinifaz1",
+      "registrationDate" : "2015-04-16"
+    }, {
+      "handle" : "augustomna2010",
+      "registrationDate" : "2015-04-16"
+    }, {
+      "handle" : "satarupa13",
+      "registrationDate" : "2015-04-16"
+    }, {
+      "handle" : "meghlee57",
+      "registrationDate" : "2015-04-16"
+    }, {
+      "handle" : "anilm23",
+      "registrationDate" : "2015-04-16"
+    }, {
+      "handle" : "mitulb90",
+      "registrationDate" : "2015-04-17"
+    }, {
+      "handle" : "dhar.me13",
+      "registrationDate" : "2015-04-17"
+    }, {
+      "handle" : "caoweiquan322",
+      "registrationDate" : "2015-04-17"
+    }, {
+      "handle" : "gauravind",
+      "registrationDate" : "2015-04-17"
+    }, {
+      "handle" : "Manoj85",
+      "registrationDate" : "2015-04-17"
+    }, {
+      "handle" : "DeepKaur",
+      "registrationDate" : "2015-04-18"
+    }, {
+      "handle" : "J08nY",
+      "registrationDate" : "2015-04-19"
+    }, {
+      "handle" : "nagarajan85",
+      "registrationDate" : "2015-04-19"
+    }, {
+      "handle" : "codeomnitrix",
+      "registrationDate" : "2015-04-21"
+    }, {
+      "handle" : "mra",
+      "registrationDate" : "2015-04-22"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2015-04-22"
+    }, {
+      "handle" : "zeuz",
+      "registrationDate" : "2015-04-22"
+    }, {
+      "handle" : "antslag",
+      "registrationDate" : "2015-04-23"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2015-04-23"
+    }, {
+      "handle" : "roiti46",
+      "registrationDate" : "2015-04-23"
+    }, {
+      "handle" : "jojomcbobo",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "pnomarev",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "vaaz123",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "RohitErande",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "Kaushik_TC",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "Kuhan",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "mayank8888",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "aloks2573",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "vikasgodiyal",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "afathy",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "himu",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "rominirani",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "santhu221633",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "top_punk",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "shank_punk",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "tcoder123",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "isha18.09",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "afrhu",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "demo.b",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "thothling",
+      "registrationDate" : "2015-04-24"
+    }, {
+      "handle" : "ibun",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "Rohsk",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "sumanbgl",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "HumbleButAmbitious",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "Towhid",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "bsingh0211",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "Bhupendrasingh",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "srcshelton",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "deshant",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "timrau",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "ajit100",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "ged",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "fine_plain",
+      "registrationDate" : "2015-04-25"
+    }, {
+      "handle" : "Wuuuuu",
+      "registrationDate" : "2015-04-26"
+    }, {
+      "handle" : "upbod",
+      "registrationDate" : "2015-04-26"
+    }, {
+      "handle" : "Ana.Rodrigues",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "marshallmutiso",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "genuineabhinav",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "dexy",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "Zyan",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "neo2311",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "mnorouzi",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "xuwf",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "wrfb",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "chris438",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "iAbhinav",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "nahid34",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "bitwurx",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "twinklej56",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "siddhanjay",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "cloudeecn",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "topcodder02",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "debashreekol",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "cgordon1045",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "nattyddubbs",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "taz1988",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "dombits",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "noahsark",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "mm2012mm",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "callahri",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "myaccount2014",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "rnivash",
+      "registrationDate" : "2015-05-01"
+    }, {
+      "handle" : "LifeIsCode",
+      "registrationDate" : "2015-05-01"
+    }, {
+      "handle" : "jessicaleadunn",
+      "registrationDate" : "2015-05-01"
+    }, {
+      "handle" : "lovelysuperman",
+      "registrationDate" : "2015-05-01"
+    }, {
+      "handle" : "svmsys",
+      "registrationDate" : "2015-05-01"
+    }, {
+      "handle" : "blackholesufo",
+      "registrationDate" : "2015-05-02"
+    }, {
+      "handle" : "funny1234567",
+      "registrationDate" : "2015-05-02"
+    }, {
+      "handle" : "bestplayer2014",
+      "registrationDate" : "2015-05-02"
+    }, {
+      "handle" : "ios7osx",
+      "registrationDate" : "2015-05-02"
+    }, {
+      "handle" : "firodj",
+      "registrationDate" : "2015-05-03"
+    }, {
+      "handle" : "louy2",
+      "registrationDate" : "2015-05-03"
+    }, {
+      "handle" : "basav_com",
+      "registrationDate" : "2015-05-04"
+    }, {
+      "handle" : "m8",
+      "registrationDate" : "2015-05-03"
+    }, {
+      "handle" : "yogen",
+      "registrationDate" : "2015-05-03"
+    }, {
+      "handle" : "Pemmasani",
+      "registrationDate" : "2015-05-04"
+    }, {
+      "handle" : "stevelvovo",
+      "registrationDate" : "2015-05-04"
+    }, {
+      "handle" : "ketandesai",
+      "registrationDate" : "2015-05-05"
+    }, {
+      "handle" : "workout365day",
+      "registrationDate" : "2015-05-05"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2015-05-06"
+    }, {
+      "handle" : "yaric_om",
+      "registrationDate" : "2015-05-06"
+    }, {
+      "handle" : "carl1088",
+      "registrationDate" : "2015-05-07"
+    }, {
+      "handle" : "leopardo",
+      "registrationDate" : "2015-05-07"
+    }, {
+      "handle" : "Rita_L",
+      "registrationDate" : "2015-05-07"
+    }, {
+      "handle" : "xiangsanzi",
+      "registrationDate" : "2015-05-07"
+    }, {
+      "handle" : "achilleslinux",
+      "registrationDate" : "2015-05-07"
+    }, {
+      "handle" : "Saketh.Mohan",
+      "registrationDate" : "2015-05-09"
+    }, {
+      "handle" : "ngoctay",
+      "registrationDate" : "2015-05-08"
+    }, {
+      "handle" : "toanmdang",
+      "registrationDate" : "2015-05-09"
+    }, {
+      "handle" : "baba.chandan11",
+      "registrationDate" : "2015-05-09"
+    }, {
+      "handle" : "smandal21",
+      "registrationDate" : "2015-05-09"
+    }, {
+      "handle" : "Spyros.Tom",
+      "registrationDate" : "2015-05-09"
+    }, {
+      "handle" : "KtMcGnly",
+      "registrationDate" : "2015-05-10"
+    }, {
+      "handle" : "ecnu_haozi",
+      "registrationDate" : "2015-05-10"
+    }, {
+      "handle" : "roel.stone11",
+      "registrationDate" : "2015-05-10"
+    }, {
+      "handle" : "smitha.sen21",
+      "registrationDate" : "2015-05-10"
+    }, {
+      "handle" : "jallemon",
+      "registrationDate" : "2015-05-10"
+    }, {
+      "handle" : "dsroyster",
+      "registrationDate" : "2015-05-10"
+    }, {
+      "handle" : "lohitbisht2010",
+      "registrationDate" : "2015-05-11"
+    }, {
+      "handle" : "ankit.gadgil21",
+      "registrationDate" : "2015-05-11"
+    }, {
+      "handle" : "debloper11",
+      "registrationDate" : "2015-05-12"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2015-05-13"
+    }, {
+      "handle" : "precker.unix",
+      "registrationDate" : "2015-05-13"
+    }, {
+      "handle" : "bosszhang",
+      "registrationDate" : "2015-05-13"
+    }, {
+      "handle" : "norcimo5",
+      "registrationDate" : "2015-05-14"
+    }, {
+      "handle" : "herodolphin",
+      "registrationDate" : "2015-05-14"
+    }, {
+      "handle" : "umesh.agrawal23",
+      "registrationDate" : "2015-05-14"
+    }, {
+      "handle" : "hullarb",
+      "registrationDate" : "2015-05-14"
+    }, {
+      "handle" : "galaxy.kadi11",
+      "registrationDate" : "2015-05-14"
+    }, {
+      "handle" : "abhi.16",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "sukanya.16",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "sayak.15",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "wiki15",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "vss109",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "mehul.patel11",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "sujhan.17",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "rahul.dut44",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "tubai.dutta13",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "KyDev",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "jeff.beatty14",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "andres.gal13",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "kdm.15",
+      "registrationDate" : "2015-05-15"
+    }, {
+      "handle" : "rajkumari19803",
+      "registrationDate" : "2015-05-16"
+    }, {
+      "handle" : "mm90",
+      "registrationDate" : "2015-05-16"
+    }, {
+      "handle" : "smartsarkar90",
+      "registrationDate" : "2015-05-16"
+    }, {
+      "handle" : "malkeni30",
+      "registrationDate" : "2015-05-17"
+    }, {
+      "handle" : "ritaorau88",
+      "registrationDate" : "2015-05-17"
+    }, {
+      "handle" : "suryapratap1761",
+      "registrationDate" : "2015-05-17"
+    }, {
+      "handle" : "klo86min",
+      "registrationDate" : "2015-05-17"
+    }, {
+      "handle" : "forcedevp",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "smtryingcode",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "cleytoncrejo55",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "eshwarram456",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "triyakarn897",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "yosunmir",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "RanjanDy",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "amitkanji14",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "ritanandy1981",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "rabindranandy82",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "jhumki11",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "jhaa12",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "brunch",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "sahil.surya",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "rita.nandy1983",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "jhumki.chanda83",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "vic23",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "julia93",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "sandeepbhadra83",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "skhan90",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "brijeshsingh83",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "aziz.faisal",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "debjaniroy",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "aksam5800",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "freddy_flash",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "vp90",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "bhanu.11",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "jai.janarthanan",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "sahil.ahuja",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "chiru.13",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "ray78",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "karan.34",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "dhalu.15",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "milan.17",
+      "registrationDate" : "2015-05-18"
+    }, {
+      "handle" : "riyo.18",
+      "registrationDate" : "2015-05-18"
+    } ],
+    "numSubmitters" : 150,
+    "submitters" : [ {
+      "handle" : "yjyfrombnu",
+      "placement" : 2,
+      "score" : 100.0,
+      "submissionDate" : "2015-03-29"
+    }, {
+      "handle" : "ycui",
+      "placement" : 3,
+      "score" : 100.0,
+      "submissionDate" : "2015-03-30"
+    }, {
+      "handle" : "precker.unix",
+      "placement" : 28,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-13"
+    }, {
+      "handle" : "vkstechnoguru",
+      "placement" : 4,
+      "score" : 100.0,
+      "submissionDate" : "2015-03-31"
+    }, {
+      "handle" : "renqingwei123",
+      "placement" : 27,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-13"
+    }, {
+      "handle" : "jzh08",
+      "placement" : 5,
+      "score" : 100.0,
+      "submissionDate" : "2015-04-01"
+    }, {
+      "handle" : "debloper11",
+      "placement" : 26,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-12"
+    }, {
+      "handle" : "ankit.gadgil21",
+      "placement" : 25,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-11"
+    }, {
+      "handle" : "demo.b",
+      "placement" : 24,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-10"
+    }, {
+      "handle" : "pun_aga",
+      "placement" : 6,
+      "score" : 100.0,
+      "submissionDate" : "2015-04-06"
+    }, {
+      "handle" : "gthedreamer",
+      "placement" : 7,
+      "score" : 100.0,
+      "submissionDate" : "2015-04-07"
+    }, {
+      "handle" : "smitha.sen21",
+      "placement" : 23,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-10"
+    }, {
+      "handle" : "satarupa13",
+      "placement" : 22,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-10"
+    }, {
+      "handle" : "roel.stone11",
+      "placement" : 21,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-10"
+    }, {
+      "handle" : "shobhu",
+      "placement" : 8,
+      "score" : 100.0,
+      "submissionDate" : "2015-04-15"
+    }, {
+      "handle" : "mitulb90",
+      "placement" : 20,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "Shivam57",
+      "placement" : 9,
+      "score" : 100.0,
+      "submissionDate" : "2015-04-16"
+    }, {
+      "handle" : "meghlee57",
+      "placement" : 19,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "xiangsanzi",
+      "placement" : 18,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "Saketh.Mohan",
+      "placement" : 17,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "baba.chandan11",
+      "placement" : 16,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "dhar.me13",
+      "placement" : 15,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-08"
+    }, {
+      "handle" : "workout365day",
+      "placement" : 14,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-05"
+    }, {
+      "handle" : "BananaTree",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2015-03-22"
+    }, {
+      "handle" : "rominirani",
+      "placement" : 10,
+      "score" : 100.0,
+      "submissionDate" : "2015-04-25"
+    }, {
+      "handle" : "Colinh84",
+      "placement" : 50,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 13,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-03"
+    }, {
+      "handle" : "bestplayer2014",
+      "placement" : 12,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-02"
+    }, {
+      "handle" : "onsky",
+      "placement" : 11,
+      "score" : 100.0,
+      "submissionDate" : "2015-04-30"
+    }, {
+      "handle" : "kdm.15",
+      "placement" : 29,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-15"
+    }, {
+      "handle" : "birajmandal1984",
+      "placement" : 30,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "luckychanda",
+      "placement" : 31,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "sudptachowdhury",
+      "placement" : 32,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "sapna1980",
+      "placement" : 33,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "vivab1990",
+      "placement" : 34,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "rajkumari19803",
+      "placement" : 35,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "janavithakur88",
+      "placement" : 36,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "surbhipathak99",
+      "placement" : 37,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "kamdhenubasak77",
+      "placement" : 38,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "chanchalyadav18",
+      "placement" : 39,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "himanshudhote96",
+      "placement" : 40,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "rimajha",
+      "placement" : 41,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "smartsarkar90",
+      "placement" : 42,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "forcedevp",
+      "placement" : 43,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "smtryingcode",
+      "placement" : 44,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "DeepKaur",
+      "placement" : 45,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "triyakarn897",
+      "placement" : 46,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "marshallmutiso",
+      "placement" : 47,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "klo86min",
+      "placement" : 48,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "Ksys",
+      "placement" : 49,
+      "score" : 100.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "alinifaz1",
+      "placement" : 87,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-08"
+    }, {
+      "handle" : "firodj",
+      "placement" : 88,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "top_punk",
+      "placement" : 64,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-24"
+    }, {
+      "handle" : "smandal21",
+      "placement" : 89,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "kalc",
+      "placement" : 63,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-23"
+    }, {
+      "handle" : "mra",
+      "placement" : 62,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-23"
+    }, {
+      "handle" : "agna13",
+      "placement" : 61,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-19"
+    }, {
+      "handle" : "net_buster",
+      "placement" : 60,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-18"
+    }, {
+      "handle" : "nahid34",
+      "placement" : 90,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "ketandesai",
+      "placement" : 91,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-09"
+    }, {
+      "handle" : "shubha1593",
+      "placement" : 59,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-15"
+    }, {
+      "handle" : "Shivam99",
+      "placement" : 58,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-15"
+    }, {
+      "handle" : "ecnu_haozi",
+      "placement" : 92,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-10"
+    }, {
+      "handle" : "zzjbewi",
+      "placement" : 57,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-09"
+    }, {
+      "handle" : "youtux",
+      "placement" : 56,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-08"
+    }, {
+      "handle" : "dsroyster",
+      "placement" : 93,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-11"
+    }, {
+      "handle" : "surupade",
+      "placement" : 94,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-11"
+    }, {
+      "handle" : "twinklej56",
+      "placement" : 95,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-11"
+    }, {
+      "handle" : "alazyrabbit",
+      "placement" : 55,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-06"
+    }, {
+      "handle" : "yaric_om",
+      "placement" : 96,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-12"
+    }, {
+      "handle" : "sunhong",
+      "placement" : 54,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-06"
+    }, {
+      "handle" : "strollhy",
+      "placement" : 53,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-05"
+    }, {
+      "handle" : "nomo_kazza",
+      "placement" : 52,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-01"
+    }, {
+      "handle" : "miguel_clean",
+      "placement" : 51,
+      "score" : 90.0,
+      "submissionDate" : "2015-03-31"
+    }, {
+      "handle" : "hullarb",
+      "placement" : 97,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-14"
+    }, {
+      "handle" : "riyo.18",
+      "placement" : 150,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "Wuuuuu",
+      "placement" : 70,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-27"
+    }, {
+      "handle" : "bosszhang",
+      "placement" : 98,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-15"
+    }, {
+      "handle" : "sayak.15",
+      "placement" : 99,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "sukanya.16",
+      "placement" : 100,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "debashreekol",
+      "placement" : 101,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "Zyan",
+      "placement" : 71,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-27"
+    }, {
+      "handle" : "gjw99",
+      "placement" : 72,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-28"
+    }, {
+      "handle" : "muzehyun",
+      "placement" : 73,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-28"
+    }, {
+      "handle" : "david.gamez",
+      "placement" : 69,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-26"
+    }, {
+      "handle" : "thothling",
+      "placement" : 74,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-30"
+    }, {
+      "handle" : "mm2012mm",
+      "placement" : 75,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-30"
+    }, {
+      "handle" : "taniyathakur83",
+      "placement" : 102,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "myaccount2014",
+      "placement" : 76,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-30"
+    }, {
+      "handle" : "krishnacurl88",
+      "placement" : 103,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "kishanu8077",
+      "placement" : 104,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "jessicaleadunn",
+      "placement" : 77,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-01"
+    }, {
+      "handle" : "jksharmayoyo",
+      "placement" : 105,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "genuineabhinav",
+      "placement" : 78,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-01"
+    }, {
+      "handle" : "kischansingh",
+      "placement" : 106,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "lovelysuperman",
+      "placement" : 79,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-01"
+    }, {
+      "handle" : "funny1234567",
+      "placement" : 80,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-01"
+    }, {
+      "handle" : "rupamdasg980",
+      "placement" : 107,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "piyaroy",
+      "placement" : 108,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "mm90",
+      "placement" : 109,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-16"
+    }, {
+      "handle" : "ged",
+      "placement" : 68,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-25"
+    }, {
+      "handle" : "ios7osx",
+      "placement" : 81,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-02"
+    }, {
+      "handle" : "PleiadesSoft",
+      "placement" : 110,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-17"
+    }, {
+      "handle" : "ritaorau88",
+      "placement" : 111,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-17"
+    }, {
+      "handle" : "suryapratap1761",
+      "placement" : 112,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-17"
+    }, {
+      "handle" : "abhicloudstalk",
+      "placement" : 82,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-03"
+    }, {
+      "handle" : "noahsark",
+      "placement" : 83,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-03"
+    }, {
+      "handle" : "caoweiquan322",
+      "placement" : 67,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-25"
+    }, {
+      "handle" : "eshwarram456",
+      "placement" : 113,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "cleytoncrejo55",
+      "placement" : 114,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "chris438",
+      "placement" : 84,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-05"
+    }, {
+      "handle" : "yosunmir",
+      "placement" : 115,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "leopardo",
+      "placement" : 116,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "RanjanDy",
+      "placement" : 117,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "amitkanji14",
+      "placement" : 118,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "karthikbecse",
+      "placement" : 119,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "ritanandy1981",
+      "placement" : 120,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "malkeni30",
+      "placement" : 121,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "rabindranandy82",
+      "placement" : 122,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "jhaa12",
+      "placement" : 123,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "jhumki11",
+      "placement" : 124,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "basav_com",
+      "placement" : 125,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "sahil.surya",
+      "placement" : 126,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "rita.nandy1983",
+      "placement" : 127,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "vic23",
+      "placement" : 128,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "jhumki.chanda83",
+      "placement" : 129,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "sandeepbhadra83",
+      "placement" : 130,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "julia93",
+      "placement" : 131,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "skhan90",
+      "placement" : 132,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "brijeshsingh83",
+      "placement" : 133,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "aziz.faisal",
+      "placement" : 134,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "debjaniroy",
+      "placement" : 135,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "Pemmasani",
+      "placement" : 85,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-05"
+    }, {
+      "handle" : "santhu221633",
+      "placement" : 66,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-25"
+    }, {
+      "handle" : "wrfb",
+      "placement" : 136,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "siddhanjay",
+      "placement" : 86,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-06"
+    }, {
+      "handle" : "freddy_flash",
+      "placement" : 137,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "vp90",
+      "placement" : 138,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "bhanu.11",
+      "placement" : 139,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "jai.janarthanan",
+      "placement" : 140,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "arghavs",
+      "placement" : 141,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "sartals",
+      "placement" : 142,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "sahil.ahuja",
+      "placement" : 143,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "chiru.13",
+      "placement" : 144,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "ray78",
+      "placement" : 145,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "karan.34",
+      "placement" : 146,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "saggy_93",
+      "placement" : 147,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "dhalu.15",
+      "placement" : 148,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "milan.17",
+      "placement" : 149,
+      "score" : 90.0,
+      "submissionDate" : "2015-05-18"
+    }, {
+      "handle" : "antslag",
+      "placement" : 65,
+      "score" : 90.0,
+      "submissionDate" : "2015-04-24"
+    } ]
+  }, {
+    "id" : 30048217,
+    "name" : "Hercules OnCampus Android App - Gray block on playback screen",
+    "type" : "DEVELOP",
+    "subType" : "FIRST_2_FINISH",
+    "technologies" : [ "Android" ],
+    "status" : "Completed",
+    "postingDate" : "2014-12-29",
+    "registrationEndDate" : "2015-01-28",
+    "submissionEndDate" : "2015-01-28",
+    "prizes" : [ 150.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "aminated",
+      "registrationDate" : "2014-12-29"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-12-29"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2014-12-30"
+    }, {
+      "handle" : "venkionfire",
+      "registrationDate" : "2014-12-30"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "duxiaoyang",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-12-29"
+    } ]
+  }, {
+    "id" : 30046953,
+    "name" : "311 Reporting App and RESTful API Integration - realworldswift",
+    "type" : "DEVELOP",
+    "subType" : "FIRST_2_FINISH",
+    "technologies" : [ "Xcode", "iOS", "REST", "Swift" ],
+    "status" : "Completed",
+    "postingDate" : "2014-11-04",
+    "registrationEndDate" : "2014-12-04",
+    "submissionEndDate" : "2014-12-04",
+    "prizes" : [ 200.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "mavlarn",
+      "registrationDate" : "2014-11-05"
+    }, {
+      "handle" : "eric_zj",
+      "registrationDate" : "2014-11-05"
+    }, {
+      "handle" : "savon_cn",
+      "registrationDate" : "2014-11-05"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-11-05"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2014-11-05"
+    }, {
+      "handle" : "veraabad",
+      "registrationDate" : "2014-11-05"
+    }, {
+      "handle" : "cjfragoso28",
+      "registrationDate" : "2014-11-06"
+    }, {
+      "handle" : "vkreddy87",
+      "registrationDate" : "2014-11-06"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "mavlarn",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-11-07"
+    }, {
+      "handle" : "mavlarn",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-11-06"
+    }, {
+      "handle" : "mavlarn",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-11-05"
+    }, {
+      "handle" : "mavlarn",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-11-06"
+    } ]
+  }, {
+    "id" : 30046655,
+    "name" : "TopCoder - Update DW loading of Coder and Update Big Query User Extractor 2",
+    "type" : "DEVELOP",
+    "subType" : "FIRST_2_FINISH",
+    "technologies" : [ "Java", "JSON", "SQL", "Google API" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-23",
+    "registrationEndDate" : "2014-11-22",
+    "submissionEndDate" : "2014-11-22",
+    "prizes" : [ 350.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "RichaYadav",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "bvpatel",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "m_duran",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "denweny",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "praveens73",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "tladendo",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "notpad",
+      "registrationDate" : "2014-10-24"
+    }, {
+      "handle" : "manotasce",
+      "registrationDate" : "2014-10-24"
+    }, {
+      "handle" : "Rushikesh.Deshp",
+      "registrationDate" : "2014-10-26"
+    }, {
+      "handle" : "Arnab_Bhagabati",
+      "registrationDate" : "2014-10-27"
+    }, {
+      "handle" : "Veve",
+      "registrationDate" : "2014-10-27"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Veve",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-10-27"
+    }, {
+      "handle" : "notpad",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-26"
+    } ]
+  }, {
+    "id" : 30047241,
+    "name" : "Hercules Android TV App - Live TV Data browsing",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Android" ],
+    "status" : "Completed",
+    "postingDate" : "2014-11-14",
+    "registrationEndDate" : "2014-11-16",
+    "submissionEndDate" : "2014-11-20",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "Safadurimo",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "misaxi",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2014-11-14"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2014-11-15"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2014-11-15"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2014-11-15"
+    }, {
+      "handle" : "linuxgeek",
+      "registrationDate" : "2014-11-15"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-11-15"
+    }, {
+      "handle" : "xin135",
+      "registrationDate" : "2014-11-15"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2014-11-15"
+    }, {
+      "handle" : "gondzo",
+      "registrationDate" : "2014-11-16"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-11-16"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2014-11-16"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "xin135",
+      "placement" : 1,
+      "score" : 83.93,
+      "submissionDate" : "2014-11-19"
+    } ]
+  }, {
+    "id" : 30046534,
+    "name" : "Spring Java api enhancement to add user attribute and improve external URL call",
+    "type" : "DEVELOP",
+    "subType" : "FIRST_2_FINISH",
+    "technologies" : [ "J2EE", "Java", "Servlet", "Spring", "PostgreSQL", "JSON", "SQL", "Salesforce", "API", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-18",
+    "registrationEndDate" : "2014-11-17",
+    "submissionEndDate" : "2014-11-17",
+    "prizes" : [ 375.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "Tudor3084",
+      "registrationDate" : "2014-10-21"
+    }, {
+      "handle" : "hoganliu",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "praveens73",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2014-10-24"
+    }, {
+      "handle" : "hemalpadhiar",
+      "registrationDate" : "2014-10-30"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "arshadasif0312",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "18bytes",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "shas.bv",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "wizgen",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "Savvas_cl",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "ahmedayyad1410",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "caglayaman",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "coilior",
+      "registrationDate" : "2014-10-21"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2014-10-21"
+    } ],
+    "numSubmitters" : 9,
+    "submitters" : [ {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-10-20"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-20"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-20"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "TMALBONPH",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-20"
+    }, {
+      "handle" : "TMALBONPH",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-22"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-27"
+    } ]
+  }, {
+    "id" : 30046899,
+    "name" : "UNI - Sales Portal iPad iOS Swift Account Phases prototype - realworldswift",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Xcode", "Swift", "iOS 8.0" ],
+    "status" : "Completed",
+    "postingDate" : "2014-11-03",
+    "registrationEndDate" : "2014-11-05",
+    "submissionEndDate" : "2014-11-09",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "iversonLv",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "MeteC",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "Derwish",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "veraabad",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "thomasjpfan",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "saikat.aeron",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-11-04"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "MeteC",
+      "placement" : 1,
+      "score" : 93.28,
+      "submissionDate" : "2014-11-07"
+    } ]
+  }, {
+    "id" : 30046155,
+    "name" : "TopCoder UML Tool - Mac app and GateKeeper",
+    "type" : "DEVELOP",
+    "subType" : "FIRST_2_FINISH",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2014-09-30",
+    "registrationEndDate" : "2014-10-30",
+    "submissionEndDate" : "2014-10-30",
+    "prizes" : [ 100.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "yag777",
+      "registrationDate" : "2014-10-01"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-09-30"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-10-01"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2014-10-01"
+    }, {
+      "handle" : "okuni",
+      "registrationDate" : "2014-10-01"
+    }, {
+      "handle" : "ashwinithombre",
+      "registrationDate" : "2014-10-01"
+    }, {
+      "handle" : "arshadasif0312",
+      "registrationDate" : "2014-10-01"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2014-10-02"
+    }, {
+      "handle" : "TonyJ",
+      "registrationDate" : "2014-10-02"
+    }, {
+      "handle" : "Chaser92",
+      "registrationDate" : "2014-10-03"
+    }, {
+      "handle" : "sreekumar.rajan",
+      "registrationDate" : "2014-10-04"
+    }, {
+      "handle" : "gapjo",
+      "registrationDate" : "2014-10-04"
+    }, {
+      "handle" : "sbiswas15101993",
+      "registrationDate" : "2014-10-04"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-10-03"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-01"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-09-30"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-10-01"
+    } ]
+  }, {
+    "id" : 30046526,
+    "name" : "Hercules MyMedia Android App - October Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "Android" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-16",
+    "registrationEndDate" : "2014-10-18",
+    "submissionEndDate" : "2014-10-18",
+    "prizes" : [ 500.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "giginim",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "Kaumad",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "ayamahmod",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "ori888",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "Conracio",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-10-18"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "sdgun",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-10-18"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-10-18"
+    } ]
+  }, {
+    "id" : 30046457,
+    "name" : "Hercules University Android App - October Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "Android" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-13",
+    "registrationEndDate" : "2014-10-15",
+    "submissionEndDate" : "2014-10-15",
+    "prizes" : [ 500.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "sw_auditor",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "Kaumad",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "QA_Bob",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2014-10-14"
+    }, {
+      "handle" : "Andrey.Arias",
+      "registrationDate" : "2014-10-15"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nithyaasworld",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-10-15"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-10-15"
+    } ]
+  }, {
+    "id" : 30046063,
+    "name" : "Hercules MyMedia Android App - Version 1.0.10.5 Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "Android" ],
+    "status" : "Completed",
+    "postingDate" : "2014-09-25",
+    "registrationEndDate" : "2014-09-27",
+    "submissionEndDate" : "2014-09-27",
+    "prizes" : [ 500.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-09-25"
+    }, {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-09-25"
+    }, {
+      "handle" : "Kaumad",
+      "registrationDate" : "2014-09-25"
+    }, {
+      "handle" : "naimish_randeri",
+      "registrationDate" : "2014-09-25"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-09-25"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-09-26"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-09-26"
+    }, {
+      "handle" : "sw_auditor",
+      "registrationDate" : "2014-09-26"
+    }, {
+      "handle" : "jamshyjamshy",
+      "registrationDate" : "2014-09-26"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "sdgun",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-09-27"
+    }, {
+      "handle" : "nithyaasworld",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-09-27"
+    }, {
+      "handle" : "Kaumad",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-09-27"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-09-26"
+    } ]
+  }, {
+    "id" : 30045958,
+    "name" : "Marathon Match Web Interface QA For 201409 Release",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "HTML", "JavaScript", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2014-09-21",
+    "registrationEndDate" : "2014-09-23",
+    "submissionEndDate" : "2014-09-26",
+    "prizes" : [ 500.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-09-21"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-09-21"
+    }, {
+      "handle" : "karthikbecse",
+      "registrationDate" : "2014-09-21"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2014-09-21"
+    }, {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-09-21"
+    }, {
+      "handle" : "Kaumad",
+      "registrationDate" : "2014-09-21"
+    }, {
+      "handle" : "mbajin",
+      "registrationDate" : "2014-09-21"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-09-22"
+    }, {
+      "handle" : "f0rc0d3r",
+      "registrationDate" : "2014-09-22"
+    }, {
+      "handle" : "tihorilaw",
+      "registrationDate" : "2014-09-22"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-09-23"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "winterflame",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-09-22"
+    }, {
+      "handle" : "sdgun",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-09-22"
+    }, {
+      "handle" : "karthikbecse",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-09-22"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 4,
+      "score" : 80.0,
+      "submissionDate" : "2014-09-25"
+    } ]
+  }, {
+    "id" : 30045595,
+    "name" : "HP IDOL OnDemand September 2014 Release Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "JSON", "API" ],
+    "status" : "Completed",
+    "postingDate" : "2014-09-11",
+    "registrationEndDate" : "2014-09-13",
+    "submissionEndDate" : "2014-09-14",
+    "prizes" : [ 500.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "onetliviu",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "Kaumad",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "Safadurimo",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "f0rc0d3r",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-09-11"
+    }, {
+      "handle" : "Zhanza",
+      "registrationDate" : "2014-09-12"
+    }, {
+      "handle" : "karthikbecse",
+      "registrationDate" : "2014-09-12"
+    }, {
+      "handle" : "nesso",
+      "registrationDate" : "2014-09-12"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "onetliviu",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-09-13"
+    }, {
+      "handle" : "nithyaasworld",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-09-13"
+    }, {
+      "handle" : "sdgun",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-09-12"
+    }, {
+      "handle" : "winterflame",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-09-11"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 5,
+      "score" : 60.0,
+      "submissionDate" : "2014-09-13"
+    } ]
+  }, {
+    "id" : 30043031,
+    "name" : "!!REPOST - Planning and Zoning Report System Core - Misc Services Module Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "MySQL" ],
+    "status" : "Completed",
+    "postingDate" : "2014-05-26",
+    "registrationEndDate" : "2014-05-29",
+    "submissionEndDate" : "2014-06-01",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 39,
+    "registrants" : [ {
+      "handle" : "dezl",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "michael_tang",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "OlinaRuan",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "zftopcoder",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "srikkbhat",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2014-05-26"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "VenLee",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "partychen",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "forest84",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "lenayan",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "borysfan",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "roopats",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "sahyane",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "monumahiya",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2014-05-27"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2014-05-28"
+    }, {
+      "handle" : "mohanjsm",
+      "registrationDate" : "2014-05-28"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2014-05-29"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "morehappiness",
+      "placement" : 1,
+      "score" : 84.71,
+      "submissionDate" : "2014-06-01"
+    }, {
+      "handle" : "yedtoss",
+      "placement" : 2,
+      "score" : 83.83,
+      "submissionDate" : "2014-06-01"
+    }, {
+      "handle" : "zftopcoder",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-06-01"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-06-01"
+    } ]
+  }, {
+    "id" : 30041409,
+    "name" : "PoC Assembly - TC API - Change ActionHero Self Documenting For Swagger",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Node.js", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2014-03-25",
+    "registrationEndDate" : "2014-03-27",
+    "submissionEndDate" : "2014-03-30",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "Luca",
+      "registrationDate" : "2014-03-25"
+    }, {
+      "handle" : "eduardomelendez",
+      "registrationDate" : "2014-03-25"
+    }, {
+      "handle" : "iCare",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2014-03-26"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2014-03-27"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2014-03-27"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-03-27"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "freegod",
+      "placement" : 1,
+      "score" : 89.14,
+      "submissionDate" : "2014-03-30"
+    } ]
+  }, {
+    "id" : 30039121,
+    "name" : "Hercules Player University Selenium Unit Tests 1",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "HTML", "JavaScript", "HTML5" ],
+    "status" : "Completed",
+    "postingDate" : "2014-01-21",
+    "registrationEndDate" : "2014-01-24",
+    "submissionEndDate" : "2014-01-29",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "gjw99",
+      "registrationDate" : "2014-01-21"
+    }, {
+      "handle" : "Athlet",
+      "registrationDate" : "2014-01-21"
+    }, {
+      "handle" : "Ksys",
+      "registrationDate" : "2014-01-21"
+    }, {
+      "handle" : "govindpatel",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "sri02",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2014-01-23"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2014-01-23"
+    }, {
+      "handle" : "snanua",
+      "registrationDate" : "2014-01-23"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2014-01-24"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-01-21"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-01-21"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2014-01-21"
+    }, {
+      "handle" : "JackJack",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "bkavita",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "amoxibos",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "gauravs23",
+      "registrationDate" : "2014-01-22"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2014-01-23"
+    }, {
+      "handle" : "babyface168",
+      "registrationDate" : "2014-01-24"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2014-01-24"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2014-01-24"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "gjw99",
+      "placement" : 1,
+      "score" : 92.0,
+      "submissionDate" : "2014-01-27"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 2,
+      "score" : 78.0,
+      "submissionDate" : "2014-01-29"
+    } ]
+  }, {
+    "id" : 30038944,
+    "name" : "Module Assembly - TopCoder NodeJS Authentication Middleware",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Node.js" ],
+    "status" : "Completed",
+    "postingDate" : "2014-01-11",
+    "registrationEndDate" : "2014-01-13",
+    "submissionEndDate" : "2014-01-16",
+    "prizes" : [ 1300.0, 650.0 ],
+    "numRegistrants" : 26,
+    "registrants" : [ {
+      "handle" : "Standlove",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "Sky_",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "vinoh",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "gfhuertac",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "kernelknowledge",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "didi_baga",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "dexy",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2014-01-13"
+    }, {
+      "handle" : "GFalcon",
+      "registrationDate" : "2014-01-13"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "akinwale",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "LimoWanKenobi",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2014-01-13"
+    }, {
+      "handle" : "callmekatootie",
+      "registrationDate" : "2014-01-13"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Sky_",
+      "placement" : 1,
+      "score" : 99.22,
+      "submissionDate" : "2014-01-15"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 2,
+      "score" : 88.56,
+      "submissionDate" : "2014-01-16"
+    } ]
+  }, {
+    "id" : 30034782,
+    "name" : "OPM - Initial System Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2013-10-01",
+    "registrationEndDate" : "2013-10-04",
+    "submissionEndDate" : "2013-10-07",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 30,
+    "registrants" : [ {
+      "handle" : "DanLazar",
+      "registrationDate" : "2013-10-01"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2013-10-01"
+    }, {
+      "handle" : "nghi85",
+      "registrationDate" : "2013-10-01"
+    }, {
+      "handle" : "vinceseguin",
+      "registrationDate" : "2013-10-01"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2013-10-01"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2013-10-01"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2013-10-01"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "evilkyro1965",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "tankhiwale",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "KeSyren",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "gonia_119",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "TopGunBasten",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "eGhazawy",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2013-10-02"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2013-10-03"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2013-10-03"
+    }, {
+      "handle" : "superastrom",
+      "registrationDate" : "2013-10-04"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2013-10-04"
+    }, {
+      "handle" : "pinoydream",
+      "registrationDate" : "2013-10-04"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2013-10-04"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2013-10-04"
+    }, {
+      "handle" : "amoxibos",
+      "registrationDate" : "2013-10-04"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "j3_guile",
+      "placement" : 1,
+      "score" : 99.29,
+      "submissionDate" : "2013-10-07"
+    }, {
+      "handle" : "flytoj2ee",
+      "placement" : 2,
+      "score" : 93.63,
+      "submissionDate" : "2013-10-07"
+    } ]
+  }, {
+    "id" : 30035793,
+    "name" : "Hercules Player Android Client Bug Hunt 7 - Search and Scheduled Tab",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "HTML", "HTTP", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2013-09-23",
+    "registrationEndDate" : "2013-09-25",
+    "submissionEndDate" : "2013-09-25",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 3,
+    "registrants" : [ {
+      "handle" : "winterflame",
+      "registrationDate" : "2013-09-23"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2013-09-24"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2013-09-24"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "winterflame",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2013-09-25"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2013-09-25"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2013-09-24"
+    } ]
+  }, {
+    "id" : 30034614,
+    "name" : "EMP Panels Phase 5 Test Suite",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2013-09-13",
+    "registrationEndDate" : "2013-09-15",
+    "submissionEndDate" : "2013-09-19",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Sundeep.techie",
+      "registrationDate" : "2013-09-13"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-09-13"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2013-09-13"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2013-09-13"
+    }, {
+      "handle" : "chrisazur",
+      "registrationDate" : "2013-09-13"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2013-09-14"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-09-15"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2013-09-15"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2013-09-14"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "gjw99",
+      "placement" : 1,
+      "score" : 97.08,
+      "submissionDate" : "2013-09-18"
+    }, {
+      "handle" : "ZeKoU",
+      "placement" : 2,
+      "score" : 89.38,
+      "submissionDate" : "2013-09-19"
+    }, {
+      "handle" : "chrisazur",
+      "placement" : 3,
+      "score" : 87.29,
+      "submissionDate" : "2013-09-19"
+    }, {
+      "handle" : "Sundeep.techie",
+      "placement" : 4,
+      "score" : 80.96,
+      "submissionDate" : "2013-09-19"
+    } ]
+  }, {
+    "id" : 30034592,
+    "name" : "EMP Panels Phase 3B Test Suite",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2013-09-01",
+    "registrationEndDate" : "2013-09-03",
+    "submissionEndDate" : "2013-09-06",
+    "prizes" : [ 625.0, 312.5 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "gonia_119",
+      "registrationDate" : "2013-09-01"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-09-01"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2013-09-02"
+    }, {
+      "handle" : "lintc",
+      "registrationDate" : "2013-09-01"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-09-01"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2013-09-01"
+    }, {
+      "handle" : "samshu",
+      "registrationDate" : "2013-09-01"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2013-09-02"
+    }, {
+      "handle" : "Sundeep.techie",
+      "registrationDate" : "2013-09-02"
+    }, {
+      "handle" : "chrisazur",
+      "registrationDate" : "2013-09-02"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2013-09-02"
+    }, {
+      "handle" : "Kuhan",
+      "registrationDate" : "2013-09-02"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2013-09-02"
+    }, {
+      "handle" : "tjozsa",
+      "registrationDate" : "2013-09-03"
+    }, {
+      "handle" : "crististaicu",
+      "registrationDate" : "2013-09-03"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2013-09-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "gjw99",
+      "placement" : 1,
+      "score" : 99.17,
+      "submissionDate" : "2013-09-05"
+    }, {
+      "handle" : "chrisazur",
+      "placement" : 2,
+      "score" : 80.58,
+      "submissionDate" : "2013-09-04"
+    } ]
+  }, {
+    "id" : 30034640,
+    "name" : "EMP Panels Phase 3B Integration Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JSP" ],
+    "status" : "Completed",
+    "postingDate" : "2013-08-27",
+    "registrationEndDate" : "2013-08-30",
+    "submissionEndDate" : "2013-09-02",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2013-08-27"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-08-27"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2013-08-27"
+    }, {
+      "handle" : "dljg718",
+      "registrationDate" : "2013-08-27"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-08-27"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "LazyChild",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2013-08-28"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2013-08-29"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2013-08-29"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2013-08-30"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2013-08-30"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "dljg718",
+      "placement" : 1,
+      "score" : 93.91,
+      "submissionDate" : "2013-09-02"
+    }, {
+      "handle" : "LazyChild",
+      "placement" : 2,
+      "score" : 78.91,
+      "submissionDate" : "2013-09-02"
+    } ]
+  }, {
+    "id" : 30032887,
+    "name" : "Module Assembly - Seto Social Profile Frontend Assembly Part 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2013-06-05",
+    "registrationEndDate" : "2013-06-08",
+    "submissionEndDate" : "2013-06-11",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 57,
+    "registrants" : [ {
+      "handle" : "Kuhan",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "pinoydream",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "carbonfish",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "rakeshk_87",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "patka",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "samshu",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "michael_tang",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "ctrl2",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "slavik990",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "cristianregep",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2013-06-05"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "partychen",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "d_jash",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "-slick-",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "svenson",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "shaheen90",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "selvaa89",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "phoenix103",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "0xVi",
+      "registrationDate" : "2013-06-06"
+    }, {
+      "handle" : "bannie2492",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "justforlaugh",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "cepdin",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "gondzo",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "ponvino",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "glint",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "THAKUR87",
+      "registrationDate" : "2013-06-08"
+    }, {
+      "handle" : "erlv5241",
+      "registrationDate" : "2013-06-06"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "hanshuai",
+      "placement" : 1,
+      "score" : 86.61,
+      "submissionDate" : "2013-06-10"
+    }, {
+      "handle" : "flytoj2ee",
+      "placement" : 2,
+      "score" : 75.63,
+      "submissionDate" : "2013-06-10"
+    }, {
+      "handle" : "ctrl2",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2013-06-10"
+    } ]
+  }, {
+    "id" : 30034160,
+    "name" : "Hercules Player Android Secondary Display Proof of Concept",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML5" ],
+    "status" : "Completed",
+    "postingDate" : "2013-05-16",
+    "registrationEndDate" : "2013-05-19",
+    "submissionEndDate" : "2013-05-23",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "amazingpig",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "devmodugu",
+      "registrationDate" : "2013-05-16"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "HShi",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2013-05-17"
+    }, {
+      "handle" : "michael_tang",
+      "registrationDate" : "2013-05-18"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2013-05-18"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2013-05-18"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2013-05-19"
+    }, {
+      "handle" : "wsobolewski",
+      "registrationDate" : "2013-05-19"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2013-05-19"
+    }, {
+      "handle" : "me551ah",
+      "registrationDate" : "2013-05-17"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "ZeKoU",
+      "placement" : 1,
+      "score" : 79.92,
+      "submissionDate" : "2013-05-23"
+    } ]
+  }, {
+    "id" : 30031805,
+    "name" : "POC Assembly - Load Testing Tools Research and Demonstration",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-12-13",
+    "registrationEndDate" : "2012-12-18",
+    "submissionEndDate" : "2012-12-20",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 27,
+    "registrants" : [ {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "Happy_Myers",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "amoxibos",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "ZeKoU",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "dong_021",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "rpbrehm",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "hanchysea",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-12-15"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2012-12-16"
+    }, {
+      "handle" : "lqz",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "Blater",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-12-18"
+    }, {
+      "handle" : "crististaicu",
+      "registrationDate" : "2012-12-18"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-12-18"
+    }, {
+      "handle" : "xuanniao",
+      "registrationDate" : "2012-12-15"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2012-12-15"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "amoxibos",
+      "placement" : 1,
+      "score" : 85.0,
+      "submissionDate" : "2012-12-20"
+    } ]
+  } ]
+}

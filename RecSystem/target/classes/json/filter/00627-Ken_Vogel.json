@@ -1,0 +1,91 @@
+{
+  "id" : 627,
+  "handle" : "Ken_Vogel",
+  "countHistoryTasks" : 2,
+  "historyTasks" : [ {
+    "id" : 8566974,
+    "name" : "Catalog",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2004-03-30",
+    "registrationEndDate" : "2004-04-02",
+    "submissionEndDate" : "2004-04-07",
+    "prizes" : [ 144.0, 72.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "Pops",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tomson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "morg0808",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "gmm",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "aksonov",
+      "placement" : 1,
+      "score" : 82.58,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "adic",
+      "placement" : 2,
+      "score" : 81.98,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "MPhk",
+      "placement" : 3,
+      "score" : 70.13,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 8346810,
+    "name" : "TCO - Aspect-Oriented Programming Factory",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2003-12-04",
+    "registrationEndDate" : "2003-12-07",
+    "submissionEndDate" : "2003-12-05",
+    "prizes" : [ ],
+    "numRegistrants" : 3,
+    "registrants" : [ {
+      "handle" : "Pops",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kyky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marcg",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Pops",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "kyky",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  } ]
+}

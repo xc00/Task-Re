@@ -1,0 +1,73 @@
+{
+  "id" : 764,
+  "handle" : "jjginzburg",
+  "countHistoryTasks" : 1,
+  "historyTasks" : [ {
+    "id" : 30001316,
+    "name" : "User Project Data Store",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "JDBC" ],
+    "status" : "Completed",
+    "postingDate" : "2007-03-29",
+    "registrationEndDate" : "2007-04-01",
+    "submissionEndDate" : "2007-04-05",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "jjginzburg",
+      "registrationDate" : "2007-03-29"
+    }, {
+      "handle" : "v.clocher",
+      "registrationDate" : "2007-03-29"
+    }, {
+      "handle" : "zhuobinwu",
+      "registrationDate" : "2007-03-31"
+    }, {
+      "handle" : "kakarotto",
+      "registrationDate" : "2007-03-31"
+    }, {
+      "handle" : "sql_lall",
+      "registrationDate" : "2007-04-01"
+    }, {
+      "handle" : "oldbam",
+      "registrationDate" : "2007-04-01"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2007-04-01"
+    }, {
+      "handle" : "maone",
+      "registrationDate" : "2007-04-01"
+    }, {
+      "handle" : "FireIce",
+      "registrationDate" : "2007-03-29"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "sql_lall",
+      "placement" : 1,
+      "score" : 95.63,
+      "submissionDate" : "2007-04-05"
+    }, {
+      "handle" : "ShindouHikaru",
+      "placement" : 2,
+      "score" : 95.24,
+      "submissionDate" : "2007-04-04"
+    }, {
+      "handle" : "kakarotto",
+      "placement" : 3,
+      "score" : 92.53,
+      "submissionDate" : "2007-04-05"
+    }, {
+      "handle" : "FireIce",
+      "placement" : 4,
+      "score" : 88.93,
+      "submissionDate" : "2007-04-04"
+    }, {
+      "handle" : "jjginzburg",
+      "placement" : 5,
+      "score" : 88.33,
+      "submissionDate" : "2007-04-04"
+    } ]
+  } ]
+}

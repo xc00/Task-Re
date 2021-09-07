@@ -1,0 +1,146 @@
+{
+  "id" : 878,
+  "handle" : "dauphin",
+  "countHistoryTasks" : 2,
+  "historyTasks" : [ {
+    "id" : 30005111,
+    "name" : "Fault Tolerant WF Activity",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#", "Windows Workflow Foundation", ".NET 3.0" ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-25",
+    "registrationEndDate" : "2008-08-27",
+    "submissionEndDate" : "2008-09-01",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "MR.L",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "dauphin",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "yitian_1982",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "wentianqian",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "amrKh",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "mpaulse",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-08-26"
+    }, {
+      "handle" : "namrata",
+      "registrationDate" : "2008-08-27"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2008-08-27"
+    }, {
+      "handle" : "tll1380",
+      "registrationDate" : "2008-08-27"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "shen75",
+      "placement" : 1,
+      "score" : 92.79,
+      "submissionDate" : "2008-08-31"
+    }, {
+      "handle" : "dauphin",
+      "placement" : 2,
+      "score" : 86.19,
+      "submissionDate" : "2008-08-31"
+    }, {
+      "handle" : "MR.L",
+      "placement" : 3,
+      "score" : 86.02,
+      "submissionDate" : "2008-09-01"
+    }, {
+      "handle" : "wentianqian",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2008-09-01"
+    } ]
+  }, {
+    "id" : 30001940,
+    "name" : "Mobile RSS XML Parser",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "XML", "J2ME" ],
+    "status" : "Completed",
+    "postingDate" : "2007-06-21",
+    "registrationEndDate" : "2007-06-24",
+    "submissionEndDate" : "2007-06-28",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "MiG-29",
+      "registrationDate" : "2007-06-22"
+    }, {
+      "handle" : "Mafy",
+      "registrationDate" : "2007-06-22"
+    }, {
+      "handle" : "anthonyChow",
+      "registrationDate" : "2007-06-22"
+    }, {
+      "handle" : "d000hg",
+      "registrationDate" : "2007-06-23"
+    }, {
+      "handle" : "duner",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "dauphin",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "Rica",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2007-06-24"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "MiG-29",
+      "placement" : 1,
+      "score" : 98.15,
+      "submissionDate" : "2007-06-27"
+    }, {
+      "handle" : "biotrail",
+      "placement" : 2,
+      "score" : 93.8,
+      "submissionDate" : "2007-06-27"
+    }, {
+      "handle" : "Rica",
+      "placement" : 3,
+      "score" : 91.34,
+      "submissionDate" : "2007-06-28"
+    }, {
+      "handle" : "dauphin",
+      "placement" : 4,
+      "score" : 89.42,
+      "submissionDate" : "2007-06-27"
+    }, {
+      "handle" : "d000hg",
+      "placement" : 5,
+      "score" : 88.69,
+      "submissionDate" : "2007-06-25"
+    }, {
+      "handle" : "AleaActaEst",
+      "placement" : 6,
+      "score" : 78.6,
+      "submissionDate" : "2007-06-28"
+    } ]
+  } ]
+}

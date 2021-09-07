@@ -1,0 +1,1786 @@
+{
+  "id" : 832,
+  "handle" : "tweg",
+  "countHistoryTasks" : 26,
+  "historyTasks" : [ {
+    "id" : 30006223,
+    "name" : "Budget Stacker Consumer Test Scenarios",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2009-03-25",
+    "registrationEndDate" : "2009-03-27",
+    "submissionEndDate" : "2009-03-29",
+    "prizes" : [ 125.0, 62.5 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "sare",
+      "registrationDate" : "2009-03-25"
+    }, {
+      "handle" : "loose",
+      "registrationDate" : "2009-03-25"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2009-03-25"
+    }, {
+      "handle" : "jdtekki",
+      "registrationDate" : "2009-03-25"
+    }, {
+      "handle" : "rajwirock",
+      "registrationDate" : "2009-03-26"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2009-03-26"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2009-03-26"
+    }, {
+      "handle" : "v.clocher",
+      "registrationDate" : "2009-03-26"
+    }, {
+      "handle" : "Winner5",
+      "registrationDate" : "2009-03-26"
+    }, {
+      "handle" : "cfiorillo",
+      "registrationDate" : "2009-03-26"
+    }, {
+      "handle" : "shankhs",
+      "registrationDate" : "2009-03-27"
+    }, {
+      "handle" : "sumanbgl",
+      "registrationDate" : "2009-03-27"
+    }, {
+      "handle" : "apple_pie",
+      "registrationDate" : "2009-03-27"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2009-03-27"
+    }, {
+      "handle" : "kappa",
+      "registrationDate" : "2009-03-27"
+    }, {
+      "handle" : "nalysnyk",
+      "registrationDate" : "2009-03-27"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "ShindouHikaru",
+      "placement" : 1,
+      "score" : 87.92,
+      "submissionDate" : "2009-03-29"
+    }, {
+      "handle" : "winterflame",
+      "placement" : 2,
+      "score" : 86.67,
+      "submissionDate" : "2009-03-29"
+    } ]
+  }, {
+    "id" : 30006131,
+    "name" : "Diana ADS Test Script Contest",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "JSF", "JUnit", "EJB 3", "JBoss Seam" ],
+    "status" : "Completed",
+    "postingDate" : "2009-03-06",
+    "registrationEndDate" : "2009-03-08",
+    "submissionEndDate" : "2009-03-11",
+    "prizes" : [ 350.0, 175.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "miv89",
+      "registrationDate" : "2009-03-06"
+    }, {
+      "handle" : "rajwirock",
+      "registrationDate" : "2009-03-06"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2009-03-07"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2009-03-07"
+    }, {
+      "handle" : "selassi",
+      "registrationDate" : "2009-03-08"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2009-03-08"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "gjw99",
+      "placement" : 1,
+      "score" : 92.5,
+      "submissionDate" : "2009-03-11"
+    } ]
+  }, {
+    "id" : 30006110,
+    "name" : "Tagle Facebook and Firefox Import Plugin",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2009-03-02",
+    "registrationEndDate" : "2009-03-04",
+    "submissionEndDate" : "2009-03-07",
+    "prizes" : [ 250.0, 125.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "sare",
+      "registrationDate" : "2009-03-02"
+    }, {
+      "handle" : "sb99",
+      "registrationDate" : "2009-03-02"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2009-03-03"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2009-03-03"
+    }, {
+      "handle" : "TaoNan",
+      "registrationDate" : "2009-03-03"
+    }, {
+      "handle" : "iKnown",
+      "registrationDate" : "2009-03-03"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2009-03-03"
+    }, {
+      "handle" : "loster",
+      "registrationDate" : "2009-03-03"
+    }, {
+      "handle" : "kingwell",
+      "registrationDate" : "2009-03-04"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2009-03-04"
+    }, {
+      "handle" : "Ikki",
+      "registrationDate" : "2009-03-04"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "sb99",
+      "placement" : 1,
+      "score" : 92.5,
+      "submissionDate" : "2009-03-07"
+    }, {
+      "handle" : "tweg",
+      "placement" : 2,
+      "score" : 88.33,
+      "submissionDate" : "2009-03-07"
+    }, {
+      "handle" : "winterflame",
+      "placement" : 3,
+      "score" : 86.67,
+      "submissionDate" : "2009-03-07"
+    }, {
+      "handle" : "loster",
+      "placement" : 4,
+      "score" : 83.33,
+      "submissionDate" : "2009-03-07"
+    }, {
+      "handle" : "sare",
+      "placement" : 5,
+      "score" : 79.17,
+      "submissionDate" : "2009-03-05"
+    } ]
+  }, {
+    "id" : 30005909,
+    "name" : "Diana EHR 3.1 ADS QA Plan",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "J2EE", "Java", "Web Services", "Oracle 10g", "JPA", "LDAP", "Active Directory", "JBoss Seam", "UML", "Use Case Diagrams (TCUML)" ],
+    "status" : "Completed",
+    "postingDate" : "2009-02-18",
+    "registrationEndDate" : "2009-02-21",
+    "submissionEndDate" : "2009-02-23",
+    "prizes" : [ 225.0, 112.5 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "sukhoi-30",
+      "registrationDate" : "2009-02-18"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2009-02-19"
+    }, {
+      "handle" : "avanishk",
+      "registrationDate" : "2009-02-19"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2009-02-19"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2009-02-19"
+    }, {
+      "handle" : "priya.narayanan",
+      "registrationDate" : "2009-02-20"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2009-02-20"
+    }, {
+      "handle" : "kingwell",
+      "registrationDate" : "2009-02-21"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2009-02-20"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "gjw99",
+      "placement" : 1,
+      "score" : 90.0,
+      "submissionDate" : "2009-02-22"
+    }, {
+      "handle" : "sare",
+      "placement" : 2,
+      "score" : 75.0,
+      "submissionDate" : "2009-02-22"
+    } ]
+  }, {
+    "id" : 30005933,
+    "name" : "Mira 2.0 QA Plan Contest",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "JBoss Seam", "Word/Rich Text" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2009-02-10",
+    "registrationEndDate" : "2009-02-13",
+    "submissionEndDate" : "2009-02-14",
+    "prizes" : [ 200.0, 100.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "JacoCronje",
+      "registrationDate" : "2009-02-10"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2009-02-10"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2009-02-11"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2009-02-11"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2009-02-12"
+    }, {
+      "handle" : "kingwell",
+      "registrationDate" : "2009-02-12"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 66.67,
+      "submissionDate" : "2009-02-13"
+    } ]
+  }, {
+    "id" : 30005533,
+    "name" : "Diana EHR QA-1",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "HTML", "JBoss Seam" ],
+    "status" : "Completed",
+    "postingDate" : "2008-11-07",
+    "registrationEndDate" : "2008-11-10",
+    "submissionEndDate" : "2008-11-14",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Orange_Cloud",
+      "registrationDate" : "2008-11-07"
+    }, {
+      "handle" : "AK_47",
+      "registrationDate" : "2008-11-08"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-11-08"
+    }, {
+      "handle" : "xiaowulang",
+      "registrationDate" : "2008-11-08"
+    }, {
+      "handle" : "pavankumar4uin",
+      "registrationDate" : "2008-11-08"
+    }, {
+      "handle" : "freak_marlon",
+      "registrationDate" : "2008-11-08"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2008-11-09"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-11-09"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-11-10"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Orange_Cloud",
+      "placement" : 1,
+      "score" : 88.75,
+      "submissionDate" : "2008-11-14"
+    } ]
+  }, {
+    "id" : 30005514,
+    "name" : "Pan GIE Detailed Test Scenarios",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ ".NET", "ASP.NET", "ASP.NET AJAX" ],
+    "status" : "Completed",
+    "postingDate" : "2008-11-04",
+    "registrationEndDate" : "2008-11-07",
+    "submissionEndDate" : "2008-11-11",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "assistant",
+      "registrationDate" : "2008-11-05"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-11-05"
+    }, {
+      "handle" : "sb99",
+      "registrationDate" : "2008-11-05"
+    }, {
+      "handle" : "bshoe",
+      "registrationDate" : "2008-11-05"
+    }, {
+      "handle" : "Derwish",
+      "registrationDate" : "2008-11-06"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-11-06"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-11-07"
+    }, {
+      "handle" : "sun99",
+      "registrationDate" : "2008-11-07"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-11-07"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "will.xie",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2008-11-11"
+    }, {
+      "handle" : "tweg",
+      "placement" : 2,
+      "score" : 85.0,
+      "submissionDate" : "2008-11-11"
+    }, {
+      "handle" : "bshoe",
+      "placement" : 3,
+      "score" : 77.5,
+      "submissionDate" : "2008-11-10"
+    } ]
+  }, {
+    "id" : 30005246,
+    "name" : "WI Program PLSQL Unit Test",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Oracle 10g" ],
+    "status" : "Completed",
+    "postingDate" : "2008-09-24",
+    "registrationEndDate" : "2008-09-26",
+    "submissionEndDate" : "2008-09-29",
+    "prizes" : [ 450.0, 225.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "cyberjag",
+      "registrationDate" : "2008-09-24"
+    }, {
+      "handle" : "agh",
+      "registrationDate" : "2008-09-24"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2008-09-24"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-09-24"
+    }, {
+      "handle" : "tangliangl",
+      "registrationDate" : "2008-09-25"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-09-25"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-09-25"
+    }, {
+      "handle" : "murphydog",
+      "registrationDate" : "2008-09-25"
+    }, {
+      "handle" : "xiaowulang",
+      "registrationDate" : "2008-09-25"
+    }, {
+      "handle" : "kanth_coder133",
+      "registrationDate" : "2008-09-25"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2008-09-25"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-09-26"
+    }, {
+      "handle" : "weiqizheng",
+      "registrationDate" : "2008-09-26"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 90.63,
+      "submissionDate" : "2008-09-29"
+    } ]
+  }, {
+    "id" : 30005127,
+    "name" : "TopCoder UML Tool ZUML Import Test Scripts 2b4",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-09-02",
+    "registrationEndDate" : "2008-09-04",
+    "submissionEndDate" : "2008-09-06",
+    "prizes" : [ 350.0, 175.0 ],
+    "numRegistrants" : 5,
+    "registrants" : [ {
+      "handle" : "tweg",
+      "registrationDate" : "2008-09-02"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-09-02"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-09-02"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2008-09-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-09-04"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 90.47,
+      "submissionDate" : "2008-09-06"
+    }, {
+      "handle" : "will.xie",
+      "placement" : 2,
+      "score" : 84.88,
+      "submissionDate" : "2008-09-06"
+    } ]
+  }, {
+    "id" : 30005126,
+    "name" : "TopCoder UML Tool ZUML Import Test Scripts 2b3",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-31",
+    "registrationEndDate" : "2008-09-02",
+    "submissionEndDate" : "2008-09-04",
+    "prizes" : [ 350.0, 175.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "tweg",
+      "registrationDate" : "2008-08-31"
+    }, {
+      "handle" : "A20",
+      "registrationDate" : "2008-08-31"
+    }, {
+      "handle" : "scotty2012",
+      "registrationDate" : "2008-08-31"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-08-31"
+    }, {
+      "handle" : "cullsin",
+      "registrationDate" : "2008-09-01"
+    }, {
+      "handle" : "zwdhd",
+      "registrationDate" : "2008-09-02"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "will.xie",
+      "placement" : 1,
+      "score" : 91.09,
+      "submissionDate" : "2008-09-04"
+    }, {
+      "handle" : "tweg",
+      "placement" : 2,
+      "score" : 84.84,
+      "submissionDate" : "2008-09-03"
+    } ]
+  }, {
+    "id" : 30005125,
+    "name" : "TopCoder UML Tool ZUML Import Test Scripts 2b2",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-29",
+    "registrationEndDate" : "2008-08-31",
+    "submissionEndDate" : "2008-09-02",
+    "prizes" : [ 350.0, 175.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "tweg",
+      "registrationDate" : "2008-08-29"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-08-30"
+    }, {
+      "handle" : "adiwitiya",
+      "registrationDate" : "2008-08-30"
+    }, {
+      "handle" : "coboy",
+      "registrationDate" : "2008-08-31"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 97.84,
+      "submissionDate" : "2008-09-02"
+    }, {
+      "handle" : "will.xie",
+      "placement" : 2,
+      "score" : 90.53,
+      "submissionDate" : "2008-09-02"
+    } ]
+  }, {
+    "id" : 30005124,
+    "name" : "TopCoder UML Tool ZUML Import Test Scripts 2b1",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-27",
+    "registrationEndDate" : "2008-08-29",
+    "submissionEndDate" : "2008-08-31",
+    "prizes" : [ 350.0, 175.0 ],
+    "numRegistrants" : 5,
+    "registrants" : [ {
+      "handle" : "tweg",
+      "registrationDate" : "2008-08-28"
+    }, {
+      "handle" : "ivem",
+      "registrationDate" : "2008-08-28"
+    }, {
+      "handle" : "tprabhu72",
+      "registrationDate" : "2008-08-28"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-08-28"
+    }, {
+      "handle" : "JPJedi",
+      "registrationDate" : "2008-08-29"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 93.75,
+      "submissionDate" : "2008-08-31"
+    }, {
+      "handle" : "will.xie",
+      "placement" : 2,
+      "score" : 78.91,
+      "submissionDate" : "2008-08-31"
+    } ]
+  }, {
+    "id" : 30005024,
+    "name" : "Triton Community Testing Competition",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", ".NET 2.0", "Oracle 10g", "Spring", "Hibernate" ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-21",
+    "registrationEndDate" : "2008-08-26",
+    "submissionEndDate" : "2008-08-27",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "tweg",
+      "registrationDate" : "2008-08-21"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-08-22"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2008-08-22"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-08-22"
+    }, {
+      "handle" : "sanju.raji",
+      "registrationDate" : "2008-08-24"
+    }, {
+      "handle" : "jamessathyapal",
+      "registrationDate" : "2008-08-24"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-08-25"
+    }, {
+      "handle" : "arciu",
+      "registrationDate" : "2008-08-25"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-08-21"
+    }, {
+      "handle" : "dk3232",
+      "registrationDate" : "2008-08-21"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2008-08-24"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "onsky",
+      "placement" : 1,
+      "score" : 97.66,
+      "submissionDate" : "2008-08-26"
+    }, {
+      "handle" : "tweg",
+      "placement" : 2,
+      "score" : 82.03,
+      "submissionDate" : "2008-08-27"
+    } ]
+  }, {
+    "id" : 30005038,
+    "name" : "TC UML Tool ZUML Import Test Scripts 1a2",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-14",
+    "registrationEndDate" : "2008-08-19",
+    "submissionEndDate" : "2008-08-24",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "Shorty",
+      "registrationDate" : "2008-08-19"
+    }, {
+      "handle" : "raman.jss",
+      "registrationDate" : "2008-08-14"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-08-19"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 93.63,
+      "submissionDate" : "2008-08-18"
+    }, {
+      "handle" : "will.xie",
+      "placement" : 2,
+      "score" : 77.53,
+      "submissionDate" : "2008-08-24"
+    } ]
+  }, {
+    "id" : 30005037,
+    "name" : "TC UML Tool ZUML Import Test Scripts 1a1",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-14",
+    "registrationEndDate" : "2008-08-19",
+    "submissionEndDate" : "2008-08-22",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "raman.jss",
+      "registrationDate" : "2008-08-14"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "Mayank01",
+      "registrationDate" : "2008-08-15"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-08-16"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2008-08-19"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-08-19"
+    }, {
+      "handle" : "onlinelady",
+      "registrationDate" : "2008-08-15"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 81.78,
+      "submissionDate" : "2008-08-20"
+    }, {
+      "handle" : "will.xie",
+      "placement" : 2,
+      "score" : 76.34,
+      "submissionDate" : "2008-08-22"
+    } ]
+  }, {
+    "id" : 30004952,
+    "name" : "TC UML Tool ZUML Import Test Scripts 1b",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-07-28",
+    "registrationEndDate" : "2008-07-31",
+    "submissionEndDate" : "2008-08-05",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-07-28"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-07-28"
+    }, {
+      "handle" : "ShailajaRamana",
+      "registrationDate" : "2008-07-29"
+    }, {
+      "handle" : "myxgyy",
+      "registrationDate" : "2008-07-29"
+    }, {
+      "handle" : "naza",
+      "registrationDate" : "2008-07-29"
+    }, {
+      "handle" : "eckenbre",
+      "registrationDate" : "2008-07-29"
+    }, {
+      "handle" : "enefem21",
+      "registrationDate" : "2008-07-29"
+    }, {
+      "handle" : "linke1125",
+      "registrationDate" : "2008-07-30"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2008-07-30"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-07-31"
+    }, {
+      "handle" : "bramandia",
+      "registrationDate" : "2008-07-31"
+    }, {
+      "handle" : "L0s7man",
+      "registrationDate" : "2008-07-31"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-07-28"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 97.34,
+      "submissionDate" : "2008-08-03"
+    }, {
+      "handle" : "will.xie",
+      "placement" : 2,
+      "score" : 77.97,
+      "submissionDate" : "2008-08-05"
+    } ]
+  }, {
+    "id" : 30004617,
+    "name" : "AIM Expressions Test Scenarios - Calendar",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2008-06-11",
+    "registrationEndDate" : "2008-06-13",
+    "submissionEndDate" : "2008-06-16",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "murphydog",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "sb99",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "Jowing",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "Winner5",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "thespecialist91",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "Hacker_QC",
+      "registrationDate" : "2008-06-13"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Hacker_QC",
+      "placement" : 1,
+      "score" : 96.25,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "murphydog",
+      "placement" : 2,
+      "score" : 92.5,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "will.xie",
+      "placement" : 4,
+      "score" : 91.25,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "bruce_zhang",
+      "placement" : 3,
+      "score" : 91.25,
+      "submissionDate" : "2008-06-16"
+    } ]
+  }, {
+    "id" : 30004616,
+    "name" : "AIM Expressions Test Scenarios - Miscellaneous",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2008-06-11",
+    "registrationEndDate" : "2008-06-13",
+    "submissionEndDate" : "2008-06-16",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Hacker_QC",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "murphydog",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "sb99",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "thespecialist91",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "Winner5",
+      "registrationDate" : "2008-06-13"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "sb99",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "bruce_zhang",
+      "placement" : 2,
+      "score" : 85.0,
+      "submissionDate" : "2008-06-16"
+    } ]
+  }, {
+    "id" : 30004615,
+    "name" : "AIM Expressions Test Scenarios - Preview and Test Drive",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2008-06-11",
+    "registrationEndDate" : "2008-06-13",
+    "submissionEndDate" : "2008-06-16",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Hacker_QC",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "murphydog",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "sb99",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "thespecialist91",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "Winner5",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-06-13"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Hacker_QC",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "murphydog",
+      "placement" : 2,
+      "score" : 93.75,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "bruce_zhang",
+      "placement" : 3,
+      "score" : 87.5,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "onsky",
+      "placement" : 4,
+      "score" : 82.5,
+      "submissionDate" : "2008-06-16"
+    } ]
+  }, {
+    "id" : 30004614,
+    "name" : "AIM Expressions Test Scenarios - Search and Browse",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2008-06-11",
+    "registrationEndDate" : "2008-06-13",
+    "submissionEndDate" : "2008-06-16",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "murphydog",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "Hacker_QC",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "mani.iiita",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "sb99",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "thespecialist91",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "Winner5",
+      "registrationDate" : "2008-06-13"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "sb99",
+      "placement" : 1,
+      "score" : 95.0,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "bruce_zhang",
+      "placement" : 2,
+      "score" : 80.0,
+      "submissionDate" : "2008-06-16"
+    } ]
+  }, {
+    "id" : 30004613,
+    "name" : "AIM Expressions Test Scenarios - Themes",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2008-06-11",
+    "registrationEndDate" : "2008-06-13",
+    "submissionEndDate" : "2008-06-16",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "murphydog",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "zaixiang",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-06-11"
+    }, {
+      "handle" : "Hacker_QC",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "sb99",
+      "registrationDate" : "2008-06-12"
+    }, {
+      "handle" : "thespecialist91",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "CoInitialize",
+      "registrationDate" : "2008-06-13"
+    }, {
+      "handle" : "Winner5",
+      "registrationDate" : "2008-06-13"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Hacker_QC",
+      "placement" : 1,
+      "score" : 96.25,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "bruce_zhang",
+      "placement" : 2,
+      "score" : 88.75,
+      "submissionDate" : "2008-06-16"
+    }, {
+      "handle" : "onsky",
+      "placement" : 3,
+      "score" : 82.5,
+      "submissionDate" : "2008-06-16"
+    } ]
+  }, {
+    "id" : 30004492,
+    "name" : "TopCoder UML Tool Code Generation Test Scripts",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "Java Application", "C#", "JUnit" ],
+    "status" : "Completed",
+    "postingDate" : "2008-05-22",
+    "registrationEndDate" : "2008-05-26",
+    "submissionEndDate" : "2008-05-29",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-05-22"
+    }, {
+      "handle" : "Dabei",
+      "registrationDate" : "2008-05-22"
+    }, {
+      "handle" : "saurabh.svit",
+      "registrationDate" : "2008-05-23"
+    }, {
+      "handle" : "420557361",
+      "registrationDate" : "2008-05-24"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-05-24"
+    }, {
+      "handle" : "oldK_PLA",
+      "registrationDate" : "2008-05-25"
+    }, {
+      "handle" : "cerror",
+      "registrationDate" : "2008-05-25"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-05-25"
+    }, {
+      "handle" : "adiwitiya",
+      "registrationDate" : "2008-05-25"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2008-05-25"
+    }, {
+      "handle" : "zaixiang",
+      "registrationDate" : "2008-05-25"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "tweg",
+      "placement" : 1,
+      "score" : 88.92,
+      "submissionDate" : "2008-05-29"
+    } ]
+  }, {
+    "id" : 30004362,
+    "name" : "Cockpit Authentication Authorization Update",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JSP", "HTML" ],
+    "status" : "Completed",
+    "postingDate" : "2008-04-24",
+    "registrationEndDate" : "2008-04-27",
+    "submissionEndDate" : "2008-04-29",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "BeBetter",
+      "registrationDate" : "2008-04-24"
+    }, {
+      "handle" : "adiwitiya",
+      "registrationDate" : "2008-04-24"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2008-04-25"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-04-26"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2008-04-26"
+    }, {
+      "handle" : "mayday",
+      "registrationDate" : "2008-04-26"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "BeBetter",
+      "placement" : 1,
+      "score" : 97.19,
+      "submissionDate" : "2008-04-28"
+    } ]
+  }, {
+    "id" : 30004173,
+    "name" : "Product Database Query Validation",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET" ],
+    "status" : "Completed",
+    "postingDate" : "2008-03-24",
+    "registrationEndDate" : "2008-03-26",
+    "submissionEndDate" : "2008-03-29",
+    "prizes" : [ 350.0, 175.0 ],
+    "numRegistrants" : 29,
+    "registrants" : [ {
+      "handle" : "lwrabbit",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "ADaiGoTC",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "tulin",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "teacode",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "smtalkTC",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "Micha{Corp}",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "akinwale",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "bbxiong",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "fanse",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "undermoon",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "diguo",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "iKnown",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "hotblue",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "jmn",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "tc2118",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "Amith",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "TJ_Fly",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "Poggale",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "dad.beckham",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "byair",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "littlebull",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "DaoDao",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "XiaoXiaoqing",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "Rockets",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "qjx",
+      "registrationDate" : "2008-03-25"
+    } ],
+    "numSubmitters" : 21,
+    "submitters" : [ {
+      "handle" : "Rockets",
+      "placement" : 1,
+      "score" : 98.19,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "shen75",
+      "placement" : 2,
+      "score" : 96.73,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "sparemax",
+      "placement" : 3,
+      "score" : 96.16,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "littlebull",
+      "placement" : 4,
+      "score" : 93.88,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "fanse",
+      "placement" : 5,
+      "score" : 92.17,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "qjx",
+      "placement" : 6,
+      "score" : 91.48,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "Poggale",
+      "placement" : 7,
+      "score" : 91.34,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "byair",
+      "placement" : 8,
+      "score" : 90.21,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "bbxiong",
+      "placement" : 9,
+      "score" : 89.79,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "hotblue",
+      "placement" : 10,
+      "score" : 89.49,
+      "submissionDate" : "2008-03-26"
+    }, {
+      "handle" : "tweg",
+      "placement" : 11,
+      "score" : 89.31,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "iKnown",
+      "placement" : 12,
+      "score" : 88.74,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "tc2118",
+      "placement" : 13,
+      "score" : 88.66,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "akinwale",
+      "placement" : 14,
+      "score" : 86.64,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "miceddie",
+      "placement" : 15,
+      "score" : 86.57,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "jmn",
+      "placement" : 16,
+      "score" : 85.54,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "DaoDao",
+      "placement" : 17,
+      "score" : 85.41,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "XiaoXiaoqing",
+      "placement" : 18,
+      "score" : 84.27,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "TJ_Fly",
+      "placement" : 19,
+      "score" : 80.67,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "ADaiGoTC",
+      "placement" : 20,
+      "score" : 76.41,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "diguo",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2008-03-27"
+    } ]
+  }, {
+    "id" : 30004172,
+    "name" : "Registry Utility",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2008-03-24",
+    "registrationEndDate" : "2008-03-26",
+    "submissionEndDate" : "2008-03-29",
+    "prizes" : [ 350.0, 175.0 ],
+    "numRegistrants" : 30,
+    "registrants" : [ {
+      "handle" : "lwrabbit",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "byair",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "teacode",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "jTx",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "smtalkTC",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "Micha{Corp}",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "LimoWanKenobi",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "CoInitialize",
+      "registrationDate" : "2008-03-24"
+    }, {
+      "handle" : "undermoon",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "hushan",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "chenlinkair",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "bbxiong",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "DaoDao",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "Craft2",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "tanatos",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "tuyide",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "qjx",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "alex.dolin",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "FireIce",
+      "registrationDate" : "2008-03-25"
+    }, {
+      "handle" : "bkeshari",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "Amith",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "KickDream",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "hyounis",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "index",
+      "registrationDate" : "2008-03-26"
+    }, {
+      "handle" : "y00daa",
+      "registrationDate" : "2008-03-24"
+    } ],
+    "numSubmitters" : 14,
+    "submitters" : [ {
+      "handle" : "KickDream",
+      "placement" : 1,
+      "score" : 98.54,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "FireIce",
+      "placement" : 2,
+      "score" : 95.67,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "sparemax",
+      "placement" : 3,
+      "score" : 95.62,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "byair",
+      "placement" : 4,
+      "score" : 94.05,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "qjx",
+      "placement" : 5,
+      "score" : 92.61,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "chenlinkair",
+      "placement" : 6,
+      "score" : 88.4,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "tweg",
+      "placement" : 7,
+      "score" : 87.69,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "bkeshari",
+      "placement" : 8,
+      "score" : 86.74,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "DaoDao",
+      "placement" : 9,
+      "score" : 83.34,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "bbxiong",
+      "placement" : 10,
+      "score" : 83.14,
+      "submissionDate" : "2008-03-28"
+    }, {
+      "handle" : "tuyide",
+      "placement" : 11,
+      "score" : 81.28,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "y00daa",
+      "placement" : 12,
+      "score" : 79.61,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "tingyifang",
+      "placement" : 13,
+      "score" : 74.33,
+      "submissionDate" : "2008-03-29"
+    }, {
+      "handle" : "Craft2",
+      "placement" : 14,
+      "score" : 62.15,
+      "submissionDate" : "2008-03-29"
+    } ]
+  }, {
+    "id" : 30004010,
+    "name" : "Installation Logging",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", ".NET 3.0" ],
+    "status" : "Completed",
+    "postingDate" : "2008-03-12",
+    "registrationEndDate" : "2008-03-14",
+    "submissionEndDate" : "2008-03-18",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 29,
+    "registrants" : [ {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "virusde",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "tweg",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "DaoDao",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "The_sneaky",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "Jascon",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "littlebull",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "feiliua6666",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "fanse",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "undermoon",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "sindhu",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "panyuhui",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "Junyy",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "zjutangtl",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "ptolemy1986",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "CoInitialize",
+      "registrationDate" : "2008-03-12"
+    }, {
+      "handle" : "dargrey",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "KickDream",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "KLW",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "byair",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "Rockets",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "evelynhu",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "iKnown",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "Amith",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "jmn",
+      "registrationDate" : "2008-03-13"
+    }, {
+      "handle" : "TJ_Fly",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "qjx",
+      "registrationDate" : "2008-03-14"
+    } ],
+    "numSubmitters" : 17,
+    "submitters" : [ {
+      "handle" : "Rockets",
+      "placement" : 1,
+      "score" : 99.3,
+      "submissionDate" : "2008-03-18"
+    }, {
+      "handle" : "CoInitialize",
+      "placement" : 2,
+      "score" : 98.82,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "sparemax",
+      "placement" : 3,
+      "score" : 98.05,
+      "submissionDate" : "2008-03-18"
+    }, {
+      "handle" : "byair",
+      "placement" : 4,
+      "score" : 97.42,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "KLW",
+      "placement" : 5,
+      "score" : 97.24,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "evelynhu",
+      "placement" : 6,
+      "score" : 97.2,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "fanse",
+      "placement" : 7,
+      "score" : 96.16,
+      "submissionDate" : "2008-03-18"
+    }, {
+      "handle" : "iKnown",
+      "placement" : 8,
+      "score" : 94.97,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "KickDream",
+      "placement" : 9,
+      "score" : 94.96,
+      "submissionDate" : "2008-03-16"
+    }, {
+      "handle" : "littlebull",
+      "placement" : 10,
+      "score" : 94.19,
+      "submissionDate" : "2008-03-18"
+    }, {
+      "handle" : "panyuhui",
+      "placement" : 11,
+      "score" : 92.02,
+      "submissionDate" : "2008-03-16"
+    }, {
+      "handle" : "zjutangtl",
+      "placement" : 12,
+      "score" : 90.55,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "DaoDao",
+      "placement" : 13,
+      "score" : 90.53,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "qjx",
+      "placement" : 14,
+      "score" : 87.66,
+      "submissionDate" : "2008-03-16"
+    }, {
+      "handle" : "tweg",
+      "placement" : 15,
+      "score" : 85.72,
+      "submissionDate" : "2008-03-18"
+    }, {
+      "handle" : "TJ_Fly",
+      "placement" : 16,
+      "score" : 84.99,
+      "submissionDate" : "2008-03-17"
+    }, {
+      "handle" : "dargrey",
+      "placement" : 17,
+      "score" : 84.63,
+      "submissionDate" : "2008-03-18"
+    } ]
+  } ]
+}

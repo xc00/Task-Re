@@ -1,0 +1,356 @@
+{
+  "id" : 551,
+  "handle" : "-jacob-",
+  "countHistoryTasks" : 7,
+  "historyTasks" : [ {
+    "id" : 30044583,
+    "name" : "TopCoder Direct - Update jira issues retrieval to Ajax",
+    "type" : "DEVELOP",
+    "subType" : "FIRST_2_FINISH",
+    "technologies" : [ "Java", "JSP", "JavaScript", "AJAX", "Struts" ],
+    "status" : "Completed",
+    "postingDate" : "2014-07-26",
+    "registrationEndDate" : "2014-08-25",
+    "submissionEndDate" : "2014-08-25",
+    "prizes" : [ 100.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-07-27"
+    }, {
+      "handle" : "bugbuka",
+      "registrationDate" : "2014-07-27"
+    }, {
+      "handle" : "Nat43",
+      "registrationDate" : "2014-07-27"
+    }, {
+      "handle" : "-jacob-",
+      "registrationDate" : "2014-07-28"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "-jacob-",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-07-28"
+    }, {
+      "handle" : "bugbuka",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-07-27"
+    }, {
+      "handle" : "bugbuka",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-07-27"
+    }, {
+      "handle" : "bugbuka",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-07-28"
+    }, {
+      "handle" : "bugbuka",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-07-28"
+    } ]
+  }, {
+    "id" : 30031931,
+    "name" : "Release Assembly - TopCoder Cockpit - Software Contest Download All",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Struts" ],
+    "status" : "Completed",
+    "postingDate" : "2012-12-20",
+    "registrationEndDate" : "2012-12-22",
+    "submissionEndDate" : "2012-12-24",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "ZPetrovich",
+      "registrationDate" : "2012-12-20"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-12-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-12-20"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2012-12-21"
+    }, {
+      "handle" : "notpad",
+      "registrationDate" : "2012-12-21"
+    }, {
+      "handle" : "Blues",
+      "registrationDate" : "2012-12-21"
+    }, {
+      "handle" : "-jacob-",
+      "registrationDate" : "2012-12-21"
+    }, {
+      "handle" : "hohosky",
+      "registrationDate" : "2012-12-21"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2012-12-21"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2012-12-21"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-12-21"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Blues",
+      "placement" : 1,
+      "score" : 99.79,
+      "submissionDate" : "2012-12-24"
+    }, {
+      "handle" : "notpad",
+      "placement" : 2,
+      "score" : 95.0,
+      "submissionDate" : "2012-12-24"
+    }, {
+      "handle" : "ZPetrovich",
+      "placement" : 3,
+      "score" : 89.17,
+      "submissionDate" : "2012-12-23"
+    }, {
+      "handle" : "-jacob-",
+      "placement" : 4,
+      "score" : 78.96,
+      "submissionDate" : "2012-12-24"
+    } ]
+  }, {
+    "id" : 30031748,
+    "name" : "Release Assembly - TC Registration Site 2 REST Support",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JavaScript", "Spring", "Struts" ],
+    "status" : "Completed",
+    "postingDate" : "2012-12-12",
+    "registrationEndDate" : "2012-12-16",
+    "submissionEndDate" : "2012-12-17",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "crackme",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "devmodugu",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2012-12-12"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "Blues",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "phonechen",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "greenbmw2",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "notpad",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "-jacob-",
+      "registrationDate" : "2012-12-14"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-12-13"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-12-14"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "leo_lol",
+      "placement" : 1,
+      "score" : 79.53,
+      "submissionDate" : "2012-12-15"
+    } ]
+  }, {
+    "id" : 30004039,
+    "name" : "Secure Messaging Test Design",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "XML", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2008-03-13",
+    "registrationEndDate" : "2008-03-15",
+    "submissionEndDate" : "2008-03-20",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "_skip_",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "-jacob-",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "goodhorsezxj",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "mmieszek",
+      "registrationDate" : "2008-03-15"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "_skip_",
+      "placement" : 1,
+      "score" : 91.67,
+      "submissionDate" : "2008-03-20"
+    }, {
+      "handle" : "onsky",
+      "placement" : 2,
+      "score" : 79.17,
+      "submissionDate" : "2008-03-20"
+    } ]
+  }, {
+    "id" : 30003786,
+    "name" : "Vault GUI Test Design",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2008-02-21",
+    "registrationEndDate" : "2008-02-22",
+    "submissionEndDate" : "2008-02-28",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 3,
+    "registrants" : [ {
+      "handle" : "v.clocher",
+      "registrationDate" : "2008-02-21"
+    }, {
+      "handle" : "-jacob-",
+      "registrationDate" : "2008-02-22"
+    }, {
+      "handle" : "fastprogrammer",
+      "registrationDate" : "2008-02-22"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "-jacob-",
+      "placement" : 1,
+      "score" : 92.5,
+      "submissionDate" : "2008-02-27"
+    } ]
+  }, {
+    "id" : 30003785,
+    "name" : "Vault Core Test Design",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2008-02-21",
+    "registrationEndDate" : "2008-02-22",
+    "submissionEndDate" : "2008-02-28",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 2,
+    "registrants" : [ {
+      "handle" : "-jacob-",
+      "registrationDate" : "2008-02-22"
+    }, {
+      "handle" : "bramandia",
+      "registrationDate" : "2008-02-22"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "-jacob-",
+      "placement" : 1,
+      "score" : 86.67,
+      "submissionDate" : "2008-02-27"
+    } ]
+  }, {
+    "id" : 30003421,
+    "name" : "Confluence Lazy Page Creation Plugin",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "Servlet", "XML", "HTML", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2008-01-24",
+    "registrationEndDate" : "2008-01-27",
+    "submissionEndDate" : "2008-01-31",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "zhaofu(do_ob)",
+      "registrationDate" : "2008-01-25"
+    }, {
+      "handle" : "kadspec",
+      "registrationDate" : "2008-01-26"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2008-01-26"
+    }, {
+      "handle" : "caru",
+      "registrationDate" : "2008-01-27"
+    }, {
+      "handle" : "rmkr",
+      "registrationDate" : "2008-01-27"
+    }, {
+      "handle" : "aussieviet",
+      "registrationDate" : "2008-01-27"
+    }, {
+      "handle" : "-jacob-",
+      "registrationDate" : "2008-01-27"
+    }, {
+      "handle" : "dmks",
+      "registrationDate" : "2008-01-27"
+    }, {
+      "handle" : "tushak",
+      "registrationDate" : "2008-01-27"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "dmks",
+      "placement" : 1,
+      "score" : 94.74,
+      "submissionDate" : "2008-01-30"
+    }, {
+      "handle" : "-jacob-",
+      "placement" : 2,
+      "score" : 90.94,
+      "submissionDate" : "2008-01-29"
+    } ]
+  } ]
+}

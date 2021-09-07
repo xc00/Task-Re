@@ -1,0 +1,1654 @@
+{
+  "id" : 6,
+  "handle" : "catechumen",
+  "countHistoryTasks" : 23,
+  "historyTasks" : [ {
+    "id" : 30035270,
+    "name" : "OPM - Bug Hunt - Part 2",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2014-02-01",
+    "registrationEndDate" : "2014-02-03",
+    "submissionEndDate" : "2014-02-03",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "onetliviu",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "pun_aga",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "ambi_tam",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "raj88iitr",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "manuelsousa7",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-02-03"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2014-02-03"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "sdgun",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "liumei",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-02-02"
+    }, {
+      "handle" : "onetliviu",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "catechumen",
+      "placement" : 5,
+      "score" : 60.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "manuelsousa7",
+      "placement" : 6,
+      "score" : 10.0,
+      "submissionDate" : "2014-02-02"
+    } ]
+  }, {
+    "id" : 30034802,
+    "name" : "OPM - Bug Hunt - Part 1",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2014-02-01",
+    "registrationEndDate" : "2014-02-03",
+    "submissionEndDate" : "2014-02-03",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "onetliviu",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "pun_aga",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "ambi_tam",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "manuelsousa7",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-02-03"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "sdgun",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "liumei",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-02-02"
+    }, {
+      "handle" : "onetliviu",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "catechumen",
+      "placement" : 5,
+      "score" : 60.0,
+      "submissionDate" : "2014-02-03"
+    } ]
+  }, {
+    "id" : 30034803,
+    "name" : "OPM - Accessibility Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2014-02-01",
+    "registrationEndDate" : "2014-02-03",
+    "submissionEndDate" : "2014-02-03",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "Vedashri",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "Kaumad",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "Athlet",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "onetliviu",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "ambi_tam",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "raj88iitr",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "manuelsousa7",
+      "registrationDate" : "2014-02-02"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-02-03"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "liumei",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "sdgun",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "Athlet",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-02-01"
+    }, {
+      "handle" : "catechumen",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-02-03"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 5,
+      "score" : 60.0,
+      "submissionDate" : "2014-02-03"
+    } ]
+  }, {
+    "id" : 30038982,
+    "name" : "Hercules Player University Streaming Site Client Bug Hunt January 2014",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "HTML", "HTTP", "JavaScript", "HTML5" ],
+    "status" : "Completed",
+    "postingDate" : "2014-01-14",
+    "registrationEndDate" : "2014-01-16",
+    "submissionEndDate" : "2014-01-16",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "Athlet",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "ambi_tam",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "Kaumad",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "tosha5252",
+      "registrationDate" : "2014-01-15"
+    }, {
+      "handle" : "govindpatel",
+      "registrationDate" : "2014-01-16"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "moulyg",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "onetliviu",
+      "registrationDate" : "2014-01-14"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-01-15"
+    }, {
+      "handle" : "raxy",
+      "registrationDate" : "2014-01-15"
+    }, {
+      "handle" : "anshya",
+      "registrationDate" : "2014-01-16"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2014-01-16"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "nithyaasworld",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-01-15"
+    }, {
+      "handle" : "catechumen",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-01-15"
+    }, {
+      "handle" : "onetliviu",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-01-15"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-01-16"
+    } ]
+  }, {
+    "id" : 30038910,
+    "name" : "Hestia War Room CRC and DPI Pricing Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2014-01-08",
+    "registrationEndDate" : "2014-01-10",
+    "submissionEndDate" : "2014-01-10",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "hello-c",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "kavitanbhatia",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "Athlet",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2014-01-08"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-01-09"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "winterflame",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-01-09"
+    }, {
+      "handle" : "nithyaasworld",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-01-09"
+    }, {
+      "handle" : "catechumen",
+      "placement" : 4,
+      "score" : 80.0,
+      "submissionDate" : "2014-01-09"
+    }, {
+      "handle" : "liumei",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-01-09"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 5,
+      "score" : 70.0,
+      "submissionDate" : "2014-01-09"
+    } ]
+  }, {
+    "id" : 30036272,
+    "name" : "MATS Encryption and Validation Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "JavaScript", "HTML5" ],
+    "status" : "Completed",
+    "postingDate" : "2013-12-19",
+    "registrationEndDate" : "2013-12-22",
+    "submissionEndDate" : "2013-12-22",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "swimmer_suhan",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "Sanjivani",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "gonia_119",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "sdgun",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "victorsam",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "onetliviu",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "monumahiya",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "ambi_tam",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2013-12-19"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-12-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-12-20"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2013-12-21"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "catechumen",
+      "placement" : 1,
+      "score" : 90.0,
+      "submissionDate" : "2013-12-21"
+    }, {
+      "handle" : "nithyaasworld",
+      "placement" : 2,
+      "score" : 80.0,
+      "submissionDate" : "2013-12-21"
+    }, {
+      "handle" : "swimmer_suhan",
+      "placement" : 3,
+      "score" : 70.0,
+      "submissionDate" : "2013-12-18"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 4,
+      "score" : 60.0,
+      "submissionDate" : "2013-12-20"
+    }, {
+      "handle" : "sdgun",
+      "placement" : 5,
+      "score" : 50.0,
+      "submissionDate" : "2013-12-21"
+    }, {
+      "handle" : "winterflame",
+      "placement" : 6,
+      "score" : 40.0,
+      "submissionDate" : "2013-12-20"
+    } ]
+  }, {
+    "id" : 30037896,
+    "name" : "OPM - SCRD - Test Data Creation",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "SQL" ],
+    "status" : "Completed",
+    "postingDate" : "2013-12-07",
+    "registrationEndDate" : "2013-12-09",
+    "submissionEndDate" : "2013-12-12",
+    "prizes" : [ 1100.0, 550.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-12-08"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "ManS",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "monumahiya",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "onetliviu",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2013-12-07"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2013-12-08"
+    }, {
+      "handle" : "khanfaraz",
+      "registrationDate" : "2013-12-08"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2013-12-08"
+    }, {
+      "handle" : "praveens73",
+      "registrationDate" : "2013-12-08"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2013-12-09"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2013-12-09"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "ManS",
+      "placement" : 1,
+      "score" : 85.42,
+      "submissionDate" : "2013-12-12"
+    }, {
+      "handle" : "progloco",
+      "placement" : 2,
+      "score" : 71.58,
+      "submissionDate" : "2013-12-11"
+    } ]
+  }, {
+    "id" : 30036345,
+    "name" : "TopCoder Marathon Stats API Test Suites 2",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2013-11-27",
+    "registrationEndDate" : "2013-11-29",
+    "submissionEndDate" : "2013-12-02",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "LazyChild",
+      "registrationDate" : "2013-11-28"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2013-11-28"
+    }, {
+      "handle" : "khanfaraz",
+      "registrationDate" : "2013-11-28"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2013-11-28"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2013-11-28"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-11-29"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2013-11-29"
+    }, {
+      "handle" : "MonicaMuranyi",
+      "registrationDate" : "2013-11-28"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "LazyChild",
+      "placement" : 1,
+      "score" : 93.13,
+      "submissionDate" : "2013-12-02"
+    } ]
+  }, {
+    "id" : 30036306,
+    "name" : "TopCoder Marathon Stats API Test Suites 1",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2013-11-24",
+    "registrationEndDate" : "2013-11-26",
+    "submissionEndDate" : "2013-11-29",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "LazyChild",
+      "registrationDate" : "2013-11-25"
+    }, {
+      "handle" : "fabrizyo",
+      "registrationDate" : "2013-11-24"
+    }, {
+      "handle" : "MonicaMuranyi",
+      "registrationDate" : "2013-11-24"
+    }, {
+      "handle" : "ksma",
+      "registrationDate" : "2013-11-24"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2013-11-25"
+    }, {
+      "handle" : "samshu",
+      "registrationDate" : "2013-11-25"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-11-25"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-11-26"
+    }, {
+      "handle" : "edemairy",
+      "registrationDate" : "2013-11-26"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2013-11-26"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "MonicaMuranyi",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2013-11-29"
+    } ]
+  }, {
+    "id" : 30032191,
+    "name" : "FSMA Webapp Selenium Test Suites",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "Applet" ],
+    "status" : "Completed",
+    "postingDate" : "2013-01-19",
+    "registrationEndDate" : "2013-01-21",
+    "submissionEndDate" : "2013-01-27",
+    "prizes" : [ 850.0, 425.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2013-01-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-01-19"
+    }, {
+      "handle" : "delight",
+      "registrationDate" : "2013-01-19"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2013-01-19"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-01-19"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2013-01-19"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2013-01-19"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2013-01-20"
+    }, {
+      "handle" : "michael_tang",
+      "registrationDate" : "2013-01-20"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2013-01-21"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-01-21"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2013-01-21"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "gjw99",
+      "placement" : 1,
+      "score" : 88.5,
+      "submissionDate" : "2013-01-27"
+    } ]
+  }, {
+    "id" : 30030672,
+    "name" : "Medicaid Provider Screening Portal - Organizational Provider Screening External Datasources Services 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Oracle 10g" ],
+    "status" : "Completed",
+    "postingDate" : "2012-11-06",
+    "registrationEndDate" : "2012-11-08",
+    "submissionEndDate" : "2012-11-11",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-11-06"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "cmax",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "-slick-",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "pinoydream",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "swetha.m8",
+      "registrationDate" : "2012-11-08"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "hanshuai",
+      "placement" : 1,
+      "score" : 92.27,
+      "submissionDate" : "2012-11-11"
+    } ]
+  }, {
+    "id" : 30030673,
+    "name" : "Medicaid Provider Screening Portal - Organizational Provider Screening External Datasources Services 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Oracle 10g" ],
+    "status" : "Completed",
+    "postingDate" : "2012-11-06",
+    "registrationEndDate" : "2012-11-08",
+    "submissionEndDate" : "2012-11-11",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "mrhck",
+      "registrationDate" : "2012-11-06"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-11-06"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "cmax",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "pinoydream",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "superastrom",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "swetha.m8",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2012-11-07"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "hanshuai",
+      "placement" : 1,
+      "score" : 92.19,
+      "submissionDate" : "2012-11-11"
+    } ]
+  }, {
+    "id" : 30030369,
+    "name" : "Module Assembly - DPILS Mock RESTful Data Services Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Web Services", "XML", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2012-09-24",
+    "registrationEndDate" : "2012-09-26",
+    "submissionEndDate" : "2012-09-29",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "rakeshk_87",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "evilkyro1965",
+      "registrationDate" : "2012-09-25"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-09-25"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-09-26"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-09-26"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-09-24"
+    }, {
+      "handle" : "chuchao333",
+      "registrationDate" : "2012-09-25"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "catechumen",
+      "placement" : 1,
+      "score" : 92.81,
+      "submissionDate" : "2012-09-29"
+    } ]
+  }, {
+    "id" : 30027593,
+    "name" : "ES - Log Analyzer Tool",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Other" ],
+    "status" : "Completed",
+    "postingDate" : "2012-09-12",
+    "registrationEndDate" : "2012-09-14",
+    "submissionEndDate" : "2012-09-17",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 22,
+    "registrants" : [ {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "harshasanghi",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "slavik990",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "oleggo",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "victor.juquila",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "TrePe",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-09-12"
+    }, {
+      "handle" : "XaCaHaa",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "patbhatk",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "mainadasaka",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "chrischeng1984",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2012-09-13"
+    }, {
+      "handle" : "asytwu",
+      "registrationDate" : "2012-09-14"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-09-14"
+    }, {
+      "handle" : "GFalcon",
+      "registrationDate" : "2012-09-14"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-09-14"
+    }, {
+      "handle" : "monumahiya",
+      "registrationDate" : "2012-09-13"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "TrePe",
+      "placement" : 1,
+      "score" : 96.25,
+      "submissionDate" : "2012-09-17"
+    }, {
+      "handle" : "harshasanghi",
+      "placement" : 2,
+      "score" : 95.96,
+      "submissionDate" : "2012-09-17"
+    } ]
+  }, {
+    "id" : 30029406,
+    "name" : "v17 XSL generation using XML input",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "XML", "XSL", "HTML", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-21",
+    "registrationEndDate" : "2012-08-23",
+    "submissionEndDate" : "2012-08-25",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 28,
+    "registrants" : [ {
+      "handle" : "delight",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "an_ant",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "ChenXiaoTemp",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "faeton",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "ylancer",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "xygan",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "NormalGeek",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "victor.juquila",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "gargvinit81",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "evilkyro1965",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "chrischeng1984",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "XaCaHaa",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "zhangyunak",
+      "registrationDate" : "2012-08-23"
+    }, {
+      "handle" : "meetanshu",
+      "registrationDate" : "2012-08-23"
+    }, {
+      "handle" : "Sanjivani",
+      "registrationDate" : "2012-08-23"
+    }, {
+      "handle" : "huang_hws",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "kristian64",
+      "registrationDate" : "2012-08-22"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "xygan",
+      "placement" : 1,
+      "score" : 94.13,
+      "submissionDate" : "2012-08-25"
+    }, {
+      "handle" : "catechumen",
+      "placement" : 2,
+      "score" : 88.94,
+      "submissionDate" : "2012-08-25"
+    }, {
+      "handle" : "an_ant",
+      "placement" : 3,
+      "score" : 88.53,
+      "submissionDate" : "2012-08-25"
+    } ]
+  }, {
+    "id" : 30029033,
+    "name" : "CSA TM CR12-00085(OMTA Strategic solution) - New WebService",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-20",
+    "registrationEndDate" : "2012-08-22",
+    "submissionEndDate" : "2012-08-24",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "nomadali",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "sokol",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "nomo_kazza",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "NormalGeek",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "slavik990",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "AhmadFathi",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "XaCaHaa",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "jackyfetion",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "faeton",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "ylancer",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "akkash.bansal",
+      "registrationDate" : "2012-08-21"
+    }, {
+      "handle" : "evilkyro1965",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-08-22"
+    }, {
+      "handle" : "kristian64",
+      "registrationDate" : "2012-08-22"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "sokol",
+      "placement" : 1,
+      "score" : 99.23,
+      "submissionDate" : "2012-08-24"
+    }, {
+      "handle" : "biotrail",
+      "placement" : 2,
+      "score" : 92.66,
+      "submissionDate" : "2012-08-24"
+    }, {
+      "handle" : "akkash.bansal",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2012-08-24"
+    }, {
+      "handle" : "ylancer",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2012-08-21"
+    } ]
+  }, {
+    "id" : 30026389,
+    "name" : "Styx - Spec Builder and Admin Tool Test Scenarios",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SCENARIOS",
+    "technologies" : [ "C#", ".NET 3.5" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-16",
+    "registrationEndDate" : "2012-08-18",
+    "submissionEndDate" : "2012-08-22",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "sdgun",
+      "registrationDate" : "2012-08-17"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-08-17"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-08-17"
+    }, {
+      "handle" : "Vedashri",
+      "registrationDate" : "2012-08-17"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2012-08-16"
+    }, {
+      "handle" : "gabyja",
+      "registrationDate" : "2012-08-16"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-16"
+    }, {
+      "handle" : "maymay",
+      "registrationDate" : "2012-08-17"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "maymay",
+      "placement" : 1,
+      "score" : 90.0,
+      "submissionDate" : "2012-08-22"
+    }, {
+      "handle" : "sdgun",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2012-08-22"
+    } ]
+  }, {
+    "id" : 30029372,
+    "name" : "CS-STEM - NoNameSite JMeter Load Testing",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-10",
+    "registrationEndDate" : "2012-08-12",
+    "submissionEndDate" : "2012-08-15",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "hello-c",
+      "registrationDate" : "2012-08-10"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-08-10"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-08-10"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-10"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2012-08-10"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-08-10"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-08-10"
+    }, {
+      "handle" : "lxj09",
+      "registrationDate" : "2012-08-11"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2012-08-11"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "catechumen",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-08-14"
+    }, {
+      "handle" : "lxj09",
+      "placement" : 2,
+      "score" : 91.25,
+      "submissionDate" : "2012-08-13"
+    } ]
+  }, {
+    "id" : 30029323,
+    "name" : "MITA Bug Hunt- Part 1 - CMS Provider Enrollment Screening - External Sources Part 2",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "J2EE" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-12",
+    "registrationEndDate" : "2012-08-14",
+    "submissionEndDate" : "2012-08-14",
+    "prizes" : [ 200.0, 100.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "gabyja",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "pun_aga",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "faeton",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "NormalGeek",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2012-08-12"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-08-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-13"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "gabyja",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-08-13"
+    }, {
+      "handle" : "faeton",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2012-08-12"
+    }, {
+      "handle" : "NormalGeek",
+      "placement" : 3,
+      "score" : 60.0,
+      "submissionDate" : "2012-08-13"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 4,
+      "score" : 20.0,
+      "submissionDate" : "2012-08-13"
+    } ]
+  }, {
+    "id" : 30029187,
+    "name" : "CSFV RoR Platform - JMeter Load Test Script",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-02",
+    "registrationEndDate" : "2012-08-04",
+    "submissionEndDate" : "2012-08-07",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 5,
+    "registrants" : [ {
+      "handle" : "lxj09",
+      "registrationDate" : "2012-08-02"
+    }, {
+      "handle" : "savon_cn",
+      "registrationDate" : "2012-08-02"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-08-02"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-08-03"
+    }, {
+      "handle" : "xuanniao",
+      "registrationDate" : "2012-08-04"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "catechumen",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2012-08-06"
+    }, {
+      "handle" : "lxj09",
+      "placement" : 2,
+      "score" : 91.25,
+      "submissionDate" : "2012-08-06"
+    }, {
+      "handle" : "savon_cn",
+      "placement" : 3,
+      "score" : 82.5,
+      "submissionDate" : "2012-08-03"
+    } ]
+  }, {
+    "id" : 30029186,
+    "name" : "CSFV NodeJS Platform - JMeter Load Test Script",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-01",
+    "registrationEndDate" : "2012-08-03",
+    "submissionEndDate" : "2012-08-05",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-08-02"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-08-01"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2012-08-01"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-01"
+    }, {
+      "handle" : "XaCaHaa",
+      "registrationDate" : "2012-08-02"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-08-01"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2012-08-01"
+    }, {
+      "handle" : "lxj09",
+      "registrationDate" : "2012-08-02"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-08-02"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "catechumen",
+      "placement" : 1,
+      "score" : 95.63,
+      "submissionDate" : "2012-08-04"
+    }, {
+      "handle" : "lxj09",
+      "placement" : 2,
+      "score" : 91.25,
+      "submissionDate" : "2012-08-04"
+    } ]
+  }, {
+    "id" : 30029113,
+    "name" : "CSFV Joomla Platform - JMeter Load Test Script",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java", "PHP" ],
+    "status" : "Completed",
+    "postingDate" : "2012-07-29",
+    "registrationEndDate" : "2012-07-31",
+    "submissionEndDate" : "2012-08-03",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-07-29"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-07-29"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "hello-c",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "lxj09",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "claudiu.vintila",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "khuliyar",
+      "registrationDate" : "2012-07-31"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "anacharsis",
+      "registrationDate" : "2012-07-30"
+    }, {
+      "handle" : "gabyja",
+      "registrationDate" : "2012-07-31"
+    }, {
+      "handle" : "choidi",
+      "registrationDate" : "2012-07-31"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2012-07-31"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-07-30"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "catechumen",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-08-02"
+    }, {
+      "handle" : "lxj09",
+      "placement" : 2,
+      "score" : 92.5,
+      "submissionDate" : "2012-08-02"
+    } ]
+  }, {
+    "id" : 30029058,
+    "name" : "CSFV Drupal Platform - JMeter Load Test Script",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-07-25",
+    "registrationEndDate" : "2012-07-27",
+    "submissionEndDate" : "2012-07-30",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "winterflame",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "gabyja",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "tm3dantes",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "lxj09",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "catechumen",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-07-27"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-07-27"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-07-25"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "catechumen",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-07-30"
+    }, {
+      "handle" : "lxj09",
+      "placement" : 2,
+      "score" : 85.0,
+      "submissionDate" : "2012-07-28"
+    } ]
+  } ]
+}

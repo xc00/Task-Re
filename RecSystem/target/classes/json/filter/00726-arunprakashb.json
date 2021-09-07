@@ -1,0 +1,4935 @@
+{
+  "id" : 726,
+  "handle" : "arunprakashb",
+  "countHistoryTasks" : 79,
+  "historyTasks" : [ {
+    "id" : 30050925,
+    "name" : "Conference Room Web App Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ ".NET", "C#", "IIS", "SQL Server", "Windows Server" ],
+    "status" : "Completed",
+    "postingDate" : "2015-08-14",
+    "registrationEndDate" : "2015-08-16",
+    "submissionEndDate" : "2015-08-20",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 28,
+    "registrants" : [ {
+      "handle" : "Tungie",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "sabbirhs",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "kinfkong",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "gvir",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "Jatin.Arora",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "sri02",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "xanx",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "InteR1337",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "szy2015",
+      "registrationDate" : "2015-08-16"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "Lucas.Lopes",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "Em_Hamza",
+      "registrationDate" : "2015-08-15"
+    }, {
+      "handle" : "vinoh",
+      "registrationDate" : "2015-08-16"
+    }, {
+      "handle" : "peakpado",
+      "registrationDate" : "2015-08-16"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-08-16"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2015-08-16"
+    }, {
+      "handle" : "susiak",
+      "registrationDate" : "2015-08-16"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "kinfkong",
+      "placement" : 1,
+      "score" : 94.6,
+      "submissionDate" : "2015-08-20"
+    }, {
+      "handle" : "Em_Hamza",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2015-08-16"
+    } ]
+  }, {
+    "id" : 30051093,
+    "name" : "CPR Bug Fixes Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ ".NET", "C#", "ASP.NET", "SQL Server", "Windows Communication Foundation", "Windows Server" ],
+    "status" : "Completed",
+    "postingDate" : "2015-08-12",
+    "registrationEndDate" : "2015-08-14",
+    "submissionEndDate" : "2015-08-17",
+    "prizes" : [ 1100.0, 550.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "xanx",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "gondzo",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "zeasratwde",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "summergrass",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "rtty",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "damir.arh",
+      "registrationDate" : "2015-08-12"
+    }, {
+      "handle" : "rendowyee",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "JamesHarden",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "mosckital",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "halceyon",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2015-08-13"
+    }, {
+      "handle" : "evilkyro1965",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2015-08-14"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2015-08-14"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "gondzo",
+      "placement" : 1,
+      "score" : 87.27,
+      "submissionDate" : "2015-08-16"
+    }, {
+      "handle" : "arunprakashb",
+      "placement" : 2,
+      "score" : 85.87,
+      "submissionDate" : "2015-08-16"
+    }, {
+      "handle" : "rendowyee",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2015-08-13"
+    } ]
+  }, {
+    "id" : 30047901,
+    "name" : "QIR .NET Web App - Codes, Regions, Logs and Root Cause Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ ".NET", "C#", "ASP.NET", "IIS", "SQL Server", "Windows Server", "JQuery" ],
+    "status" : "Completed",
+    "postingDate" : "2015-02-10",
+    "registrationEndDate" : "2015-02-12",
+    "submissionEndDate" : "2015-02-15",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "DerekLoveCC",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "vvvpig",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "GFalcon",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "net_buster",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "nghi85",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "mishacucicea",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "dccnyccu",
+      "registrationDate" : "2015-02-12"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "crim",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "dilip.thapa",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "Amith",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "pnomarev",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "Abhijeet.Nagre",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2015-02-12"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-02-12"
+    }, {
+      "handle" : "yashubhat.gv",
+      "registrationDate" : "2015-02-12"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2015-02-12"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "vvvpig",
+      "placement" : 1,
+      "score" : 90.04,
+      "submissionDate" : "2015-02-15"
+    }, {
+      "handle" : "DerekLoveCC",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2015-02-15"
+    }, {
+      "handle" : "mishacucicea",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2015-02-15"
+    } ]
+  }, {
+    "id" : 30029630,
+    "name" : "Module Assembly - Generic Queue Service Item Processor Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "SQL Server 2008", ".NET 4.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-27",
+    "registrationEndDate" : "2012-08-29",
+    "submissionEndDate" : "2012-08-29",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "haipt81",
+      "registrationDate" : "2012-08-28"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-08-27"
+    }, {
+      "handle" : "cmax",
+      "registrationDate" : "2012-08-27"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-08-27"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-08-27"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-08-27"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-08-27"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2012-08-28"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-08-28"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-08-28"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2012-08-28"
+    }, {
+      "handle" : "marlogger",
+      "registrationDate" : "2012-08-28"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-27"
+    }, {
+      "handle" : "jarrodalbert",
+      "registrationDate" : "2012-08-28"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "DrAhmed",
+      "placement" : 1,
+      "score" : 86.38,
+      "submissionDate" : "2012-08-28"
+    }, {
+      "handle" : "arvind81983",
+      "placement" : 2,
+      "score" : 81.41,
+      "submissionDate" : "2012-08-29"
+    } ]
+  }, {
+    "id" : 30028025,
+    "name" : "Module Assembly - Aegle MarketPoint Backend Module Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ ".NET 4.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-24",
+    "registrationEndDate" : "2012-08-26",
+    "submissionEndDate" : "2012-08-29",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "agus.mw",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "fork123x",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "shaheen90",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "mostafaizz",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "b3cta3",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "Tataraichi",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-08-25"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 96.51,
+      "submissionDate" : "2012-08-28"
+    } ]
+  }, {
+    "id" : 30027953,
+    "name" : "Network Analyzer Tool - Test Agent",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "C#", ".NET 3.5" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-24",
+    "registrationEndDate" : "2012-08-26",
+    "submissionEndDate" : "2012-08-28",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "mrhck",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "RaitoShum",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "LOY",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "mapeisheng",
+      "registrationDate" : "2012-08-24"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "Heappl",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "soywu",
+      "registrationDate" : "2012-08-25"
+    }, {
+      "handle" : "mostafaizz",
+      "registrationDate" : "2012-08-25"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "LOY",
+      "placement" : 1,
+      "score" : 99.25,
+      "submissionDate" : "2012-08-27"
+    }, {
+      "handle" : "mapeisheng",
+      "placement" : 2,
+      "score" : 96.38,
+      "submissionDate" : "2012-08-28"
+    }, {
+      "handle" : "fivestarwy",
+      "placement" : 3,
+      "score" : 84.94,
+      "submissionDate" : "2012-08-28"
+    } ]
+  }, {
+    "id" : 30029471,
+    "name" : "Module Assembly - Generic Queue Service Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "SQL Server 2008", ".NET 4.0" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2012-08-19",
+    "registrationEndDate" : "2012-08-21",
+    "submissionEndDate" : "2012-08-24",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "TAG",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "mostafaizz",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "MohamedMonem",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "YiiBryan",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "coolism",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2012-08-20"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-08-20"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "arvind81983",
+      "placement" : 1,
+      "score" : 60.62,
+      "submissionDate" : "2012-08-24"
+    }, {
+      "handle" : "arunprakashb",
+      "placement" : 2,
+      "score" : 48.59,
+      "submissionDate" : "2012-08-24"
+    } ]
+  }, {
+    "id" : 30028878,
+    "name" : "Aegle - Aspire Intake Tool Module Assembly Part 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "VB.NET", "SQL Server 2008" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-17",
+    "registrationEndDate" : "2012-08-19",
+    "submissionEndDate" : "2012-08-22",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-08-18"
+    }, {
+      "handle" : "sampath01",
+      "registrationDate" : "2012-08-18"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-08-18"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-08-18"
+    }, {
+      "handle" : "mostafaizz",
+      "registrationDate" : "2012-08-18"
+    }, {
+      "handle" : "wanxqc",
+      "registrationDate" : "2012-08-18"
+    }, {
+      "handle" : "xuanniao",
+      "registrationDate" : "2012-08-18"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "arylio",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-08-19"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2012-08-18"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "arylio",
+      "placement" : 1,
+      "score" : 88.85,
+      "submissionDate" : "2012-08-22"
+    }, {
+      "handle" : "DrAhmed",
+      "placement" : 2,
+      "score" : 85.36,
+      "submissionDate" : "2012-08-22"
+    } ]
+  }, {
+    "id" : 30029028,
+    "name" : "Release Assembly - Salesforce Chatter Notification Chrome Extension",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "HTML", "JavaScript", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2012-07-25",
+    "registrationEndDate" : "2012-07-27",
+    "submissionEndDate" : "2012-08-01",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "pengxing",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "an_ant",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "guwenqing",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "selvaa89",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "McFn",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "b3cta3",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "udit009",
+      "registrationDate" : "2012-07-26"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-07-27"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2012-07-27"
+    }, {
+      "handle" : "snguyen",
+      "registrationDate" : "2012-07-27"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "selvaa89",
+      "placement" : 1,
+      "score" : 90.21,
+      "submissionDate" : "2012-08-01"
+    }, {
+      "handle" : "pengxing",
+      "placement" : 2,
+      "score" : 85.0,
+      "submissionDate" : "2012-07-29"
+    } ]
+  }, {
+    "id" : 30028836,
+    "name" : "Module Assembly - Generic Queue Storage Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "SQL Server 2008", ".NET 4.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-07-20",
+    "registrationEndDate" : "2012-07-22",
+    "submissionEndDate" : "2012-07-26",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "haipt81",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "ManS",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "yagna_tanuj",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-07-20"
+    }, {
+      "handle" : "smarteney",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "LimoWanKenobi",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "sampath01",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "xuanniao",
+      "registrationDate" : "2012-07-22"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-07-22"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "DrAhmed",
+      "placement" : 1,
+      "score" : 98.83,
+      "submissionDate" : "2012-07-26"
+    }, {
+      "handle" : "arunprakashb",
+      "placement" : 2,
+      "score" : 79.89,
+      "submissionDate" : "2012-07-26"
+    }, {
+      "handle" : "haipt81",
+      "placement" : 3,
+      "score" : 68.22,
+      "submissionDate" : "2012-07-26"
+    } ]
+  }, {
+    "id" : 30029002,
+    "name" : "System Assembly - Soteria Automated Comparison Report Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "SQL Server 2008", "IBM DB2", ".NET 4.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-07-21",
+    "registrationEndDate" : "2012-07-23",
+    "submissionEndDate" : "2012-07-26",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "Yeung",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "ManS",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "xuanniao",
+      "registrationDate" : "2012-07-22"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-07-22"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-07-22"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-07-21"
+    }, {
+      "handle" : "smarteney",
+      "registrationDate" : "2012-07-21"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 98.07,
+      "submissionDate" : "2012-07-25"
+    } ]
+  }, {
+    "id" : 30027540,
+    "name" : "Module Assembly - Styx Language Management Tool Front End Module Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "ASP.NET", "SQL Server 2008", ".NET 4.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-15",
+    "registrationEndDate" : "2012-05-19",
+    "submissionEndDate" : "2012-05-21",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "kranthikumar",
+      "registrationDate" : "2012-05-17"
+    }, {
+      "handle" : "r1cs1",
+      "registrationDate" : "2012-05-17"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-05-17"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-05-17"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-05-17"
+    }, {
+      "handle" : "dcp",
+      "registrationDate" : "2012-05-17"
+    }, {
+      "handle" : "dimuthusuranga",
+      "registrationDate" : "2012-05-18"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-05-18"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-05-18"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-05-17"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "dcp",
+      "placement" : 1,
+      "score" : 96.46,
+      "submissionDate" : "2012-05-21"
+    }, {
+      "handle" : "DrAhmed",
+      "placement" : 2,
+      "score" : 86.41,
+      "submissionDate" : "2012-05-21"
+    } ]
+  }, {
+    "id" : 30027462,
+    "name" : "Module Assembly - Soteria Subscription Service Aggregated Services 1 Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "IIS", "Windows Communication Foundation", "SQL Server 2008", ".NET 4.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-10",
+    "registrationEndDate" : "2012-05-13",
+    "submissionEndDate" : "2012-05-17",
+    "prizes" : [ 1300.0, 650.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-05-11"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-05-11"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-05-11"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-05-12"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 96.35,
+      "submissionDate" : "2012-05-17"
+    } ]
+  }, {
+    "id" : 30025691,
+    "name" : "Module Assembly - Wheel Database App Backend Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "IIS", "Oracle 10g", ".NET 3.5" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-08",
+    "registrationEndDate" : "2012-02-10",
+    "submissionEndDate" : "2012-02-13",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "Yeung",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "DerWonder",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "dk3232",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "BBTiger",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-10"
+    }, {
+      "handle" : "jpp79",
+      "registrationDate" : "2012-02-10"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-02-08"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 98.75,
+      "submissionDate" : "2012-02-13"
+    }, {
+      "handle" : "St.Max",
+      "placement" : 2,
+      "score" : 94.77,
+      "submissionDate" : "2012-02-13"
+    } ]
+  }, {
+    "id" : 30024525,
+    "name" : "Module Assembly - Wheel Database App Backend Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "IIS", "Oracle 10g", ".NET 3.5" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2012-02-01",
+    "registrationEndDate" : "2012-02-05",
+    "submissionEndDate" : "2012-02-08",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 21,
+    "registrants" : [ {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "Huss_aldin",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "hotblue",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "MohamedMonem",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "BBTiger",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "wanxqc",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "another1",
+      "registrationDate" : "2012-02-02"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2012-02-02"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-02"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2012-02-03"
+    }, {
+      "handle" : "msounthar",
+      "registrationDate" : "2012-02-03"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2012-02-03"
+    }, {
+      "handle" : "stefancontiu",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "jaiswala",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-01"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-02-02"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "St.Max",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2012-02-08"
+    } ]
+  }, {
+    "id" : 30024410,
+    "name" : "Module Assembly - Dealer Quotation Frontend Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", "ASP.NET", ".NET 3.5", "SQL Server 2008" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-05",
+    "registrationEndDate" : "2011-11-09",
+    "submissionEndDate" : "2011-11-15",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "Amith",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "visuall",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "ManS",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "muxjvduo",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "fajar.mln",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "Zulander",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "Anna_Esseker",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2011-11-08"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Zulander",
+      "placement" : 1,
+      "score" : 85.99,
+      "submissionDate" : "2011-11-15"
+    } ]
+  }, {
+    "id" : 30006194,
+    "name" : "Hermes - Bug Fix Assembly #2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ ".NET", "C#", "Windows Communication Foundation", ".NET 3.0", ".NET 3.5", "PL/SQL" ],
+    "status" : "Completed",
+    "postingDate" : "2009-03-18",
+    "registrationEndDate" : "2009-03-20",
+    "submissionEndDate" : "2009-03-23",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 21,
+    "registrants" : [ {
+      "handle" : "retunsky",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "ibraaaa",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "KbCb",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "mercoz",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "Zulander",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "subchap",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "mistr305",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "Zulfikar",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2009-03-19"
+    }, {
+      "handle" : "will.xie",
+      "registrationDate" : "2009-03-19"
+    }, {
+      "handle" : "YeGGo",
+      "registrationDate" : "2009-03-19"
+    }, {
+      "handle" : "rainday",
+      "registrationDate" : "2009-03-19"
+    }, {
+      "handle" : "aliveator",
+      "registrationDate" : "2009-03-19"
+    }, {
+      "handle" : "visuall",
+      "registrationDate" : "2009-03-19"
+    }, {
+      "handle" : "_skip_",
+      "registrationDate" : "2009-03-19"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2009-03-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2009-03-20"
+    }, {
+      "handle" : "elkhawajah",
+      "registrationDate" : "2009-03-18"
+    }, {
+      "handle" : "LimoWanKenobi",
+      "registrationDate" : "2009-03-19"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "subchap",
+      "placement" : 1,
+      "score" : 92.01,
+      "submissionDate" : "2009-03-23"
+    }, {
+      "handle" : "retunsky",
+      "placement" : 2,
+      "score" : 86.98,
+      "submissionDate" : "2009-03-20"
+    } ]
+  }, {
+    "id" : 15384286,
+    "name" : "Secure Sockets Layer 3.0 SAP",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2005-07-13",
+    "registrationEndDate" : "2005-07-16",
+    "submissionEndDate" : "2005-07-20",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ike",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mike_deakins",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dread",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "IvanRomanov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "pious83",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "IvanRomanov",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 15314109,
+    "name" : "Compound Expression Evaluator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-07-06",
+    "registrationEndDate" : "2005-07-09",
+    "submissionEndDate" : "2005-07-13",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "kyky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "deba_mishra",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dread",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marius_buzea",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zsudraco",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mahanbill",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "adic",
+      "placement" : 1,
+      "score" : 95.57,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "kyky",
+      "placement" : 2,
+      "score" : 95.42,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "zsudraco",
+      "placement" : 3,
+      "score" : 95.02,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : 4,
+      "score" : 84.44,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 15314046,
+    "name" : "Conversion Factory",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-07-06",
+    "registrationEndDate" : "2005-07-09",
+    "submissionEndDate" : "2005-07-13",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "deba_mishra",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "giginim",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dread",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marius_buzea",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nkapralj",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nicka81",
+      "placement" : 1,
+      "score" : 97.71,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "tc",
+      "placement" : 2,
+      "score" : 95.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 15250454,
+    "name" : "DNS Query",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-06-29",
+    "registrationEndDate" : "2005-07-02",
+    "submissionEndDate" : "2005-07-06",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "Pops",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dread",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "bhaskarkishore",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Pops",
+      "placement" : 1,
+      "score" : 94.69,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Ghostar",
+      "placement" : 2,
+      "score" : 92.83,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "fvillaf",
+      "placement" : 3,
+      "score" : 89.61,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : 4,
+      "score" : 84.01,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 15250558,
+    "name" : "PDF Conversion",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-06-29",
+    "registrationEndDate" : "2005-07-02",
+    "submissionEndDate" : "2005-07-06",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nahpets",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roger",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "jenluc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "freelance",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mohanraj_k",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "nicka81",
+      "placement" : 1,
+      "score" : 96.66,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aubergineanode",
+      "placement" : 2,
+      "score" : 90.04,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "slion",
+      "placement" : 3,
+      "score" : 79.31,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "nahpets",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 15190953,
+    "name" : "Forms Authorization",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2005-06-15",
+    "registrationEndDate" : "2005-06-18",
+    "submissionEndDate" : "2005-06-22",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marius_buzea",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "llabe",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "pradip013",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "HouseBoat",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "llabe",
+      "placement" : 1,
+      "score" : 45.98,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14967943,
+    "name" : "CSV Conversion",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-04-28",
+    "registrationEndDate" : "2005-05-01",
+    "submissionEndDate" : "2005-05-05",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "qiucx0161",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kerfuffle",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Arsanjani",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Ghostar",
+      "placement" : 1,
+      "score" : 88.96,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "tc",
+      "placement" : 2,
+      "score" : 87.54,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14968055,
+    "name" : "Simple Object Generator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "XML", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-04-28",
+    "registrationEndDate" : "2005-05-01",
+    "submissionEndDate" : "2005-05-05",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "olivemonkeys",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ArunSaranya",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Arsanjani",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "tc",
+      "placement" : 1,
+      "score" : 91.63,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "olivemonkeys",
+      "placement" : 2,
+      "score" : 67.06,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14967985,
+    "name" : "PDF Conversion",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-04-28",
+    "registrationEndDate" : "2005-05-01",
+    "submissionEndDate" : "2005-05-05",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "qiucx0161",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "areisinger",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "slion",
+      "placement" : 1,
+      "score" : 80.19,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14958739,
+    "name" : "Observer Layer",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-04-26",
+    "registrationEndDate" : "2005-04-29",
+    "submissionEndDate" : "2005-05-03",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "olivemonkeys",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "anan",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tinedel",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "visualage",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sinaddcos",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MonkeyKing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arylio",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "SlatViCk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kikiboy",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "viking_hz",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Wendell",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "icyriver",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "iggy36",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zjq",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DFlorNH",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "semi_sleep",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Spaceact",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Jerson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "joelimlimit",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zsudraco",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "igormindra",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "pulky",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 13,
+    "submitters" : [ {
+      "handle" : "sinaddcos",
+      "placement" : 1,
+      "score" : 94.25,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "semi_sleep",
+      "placement" : 2,
+      "score" : 91.96,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "visualage",
+      "placement" : 3,
+      "score" : 89.79,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "zsudraco",
+      "placement" : 4,
+      "score" : 88.08,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "viking_hz",
+      "placement" : 5,
+      "score" : 86.3,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "arylio",
+      "placement" : 6,
+      "score" : 86.15,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "pulky",
+      "placement" : 7,
+      "score" : 84.39,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "icyriver",
+      "placement" : 8,
+      "score" : 84.1,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Tinedel",
+      "placement" : 9,
+      "score" : 83.83,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "olivemonkeys",
+      "placement" : 10,
+      "score" : 83.03,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Spaceact",
+      "placement" : 11,
+      "score" : 82.21,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "iggy36",
+      "placement" : 12,
+      "score" : 79.41,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "SlatViCk",
+      "placement" : 13,
+      "score" : 72.41,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14935015,
+    "name" : "Job Scheduler",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "XML", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-04-21",
+    "registrationEndDate" : "2005-04-24",
+    "submissionEndDate" : "2005-04-28",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "qiucx0161",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marius_buzea",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "LuckySweet",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "tc",
+      "placement" : 1,
+      "score" : 81.17,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14904956,
+    "name" : "Expandable List Control",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "XML", "HTML", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-04-14",
+    "registrationEndDate" : "2005-04-17",
+    "submissionEndDate" : "2005-04-21",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "burkert",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "magdalenas",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 94.02,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "burkert",
+      "placement" : 2,
+      "score" : 59.38,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14867910,
+    "name" : "Observer Layer",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-04-07",
+    "registrationEndDate" : "2005-04-10",
+    "submissionEndDate" : "2005-04-14",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Pops",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "iggy36",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zsudraco",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "Pops",
+      "placement" : 1,
+      "score" : 96.92,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "nicka81",
+      "placement" : 2,
+      "score" : 87.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "zsudraco",
+      "placement" : 3,
+      "score" : 79.92,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "iggy36",
+      "placement" : 4,
+      "score" : 76.65,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "fvillaf",
+      "placement" : 5,
+      "score" : 71.69,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14814097,
+    "name" : "Request Processor Server",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-03-24",
+    "registrationEndDate" : "2005-03-27",
+    "submissionEndDate" : "2005-03-31",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ike",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "z80x86",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "lily25",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "arunprakashb",
+      "placement" : 1,
+      "score" : 74.9,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "MaceWindu",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 14813484,
+    "name" : "Question Manager",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-03-24",
+    "registrationEndDate" : "2005-03-27",
+    "submissionEndDate" : "2005-03-31",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "garyk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nahpets",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "NamwarRizvi",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tarikelmallah",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 88.04,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "fvillaf",
+      "placement" : 2,
+      "score" : 62.83,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13384081,
+    "name" : "Bar Graph",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-03-13",
+    "registrationEndDate" : "2005-03-16",
+    "submissionEndDate" : "2005-03-17",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "garyk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "programming",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ankurjain29",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marius_buzea",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "LuckySweet",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "CODE_BUSTER",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "doubleunit",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "marius_buzea",
+      "placement" : 1,
+      "score" : 74.13,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "CODE_BUSTER",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13405349,
+    "name" : "Registration Data Validation",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-03-08",
+    "registrationEndDate" : "2005-03-11",
+    "submissionEndDate" : "2005-03-15",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 21,
+    "registrants" : [ {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ching",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sinaddcos",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "duner",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "viking_hz",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Wendell",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "timmikr",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kr00tki",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zjq",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adamm",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "gua",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tuenm",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "lazybear",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fairytale",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "tuenm",
+      "placement" : 1,
+      "score" : 91.51,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "kr00tki",
+      "placement" : 2,
+      "score" : 87.8,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "woodjhon",
+      "placement" : 3,
+      "score" : 84.64,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "slion",
+      "placement" : 4,
+      "score" : 83.68,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13381432,
+    "name" : "Request Processor Server",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2005-03-03",
+    "registrationEndDate" : "2005-03-06",
+    "submissionEndDate" : "2005-03-10",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ike",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ankurjain29",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "z80x86",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abods",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "z80x86",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13381116,
+    "name" : "Workflow Builder",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-03-03",
+    "registrationEndDate" : "2005-03-06",
+    "submissionEndDate" : "2005-03-10",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "ching",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abods",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vivek.tibrewal",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 85.83,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13311556,
+    "name" : "Magic Numbers",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-02-17",
+    "registrationEndDate" : "2005-02-20",
+    "submissionEndDate" : "2005-02-24",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ljmreddy",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 89.15,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "fvillaf",
+      "placement" : 2,
+      "score" : 80.5,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13311591,
+    "name" : "Registration Data Validation",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-02-17",
+    "registrationEndDate" : "2005-02-20",
+    "submissionEndDate" : "2005-02-24",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vereecjw",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ljmreddy",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mulji",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "thiruvinod",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "tc",
+      "placement" : 1,
+      "score" : 76.79,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13277438,
+    "name" : "Paging Control",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-02-10",
+    "registrationEndDate" : "2005-02-13",
+    "submissionEndDate" : "2005-02-17",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tim_Net",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "VictorPr",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ljmreddy",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 92.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13247636,
+    "name" : "Dictionary Searcher",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-02-03",
+    "registrationEndDate" : "2005-02-06",
+    "submissionEndDate" : "2005-02-10",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "garyk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "s1728",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "aubergineanode",
+      "placement" : 1,
+      "score" : 74.33,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : 2,
+      "score" : 67.44,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 13247470,
+    "name" : "Registration Data Validation",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2005-02-03",
+    "registrationEndDate" : "2005-02-06",
+    "submissionEndDate" : "2005-02-10",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "coolbeanz",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "trigras",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amrayo",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marius_buzea",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "JanieH",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "marius_buzea",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 12011073,
+    "name" : "BCP Plan",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-01-27",
+    "registrationEndDate" : "2005-01-30",
+    "submissionEndDate" : "2005-02-03",
+    "prizes" : [ 900.0, 450.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "WishingBone",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Niny",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sekarmg",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "WishingBone",
+      "placement" : 1,
+      "score" : 96.08,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Niny",
+      "placement" : 2,
+      "score" : 47.48,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 12011031,
+    "name" : "BCP Client",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-01-27",
+    "registrationEndDate" : "2005-01-30",
+    "submissionEndDate" : "2005-02-03",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "WishingBone",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sekarmg",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "WishingBone",
+      "placement" : 1,
+      "score" : 93.63,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11957839,
+    "name" : "Stream Filter",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-01-13",
+    "registrationEndDate" : "2005-01-16",
+    "submissionEndDate" : "2005-01-20",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "Maris",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "WishingBone",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hidalgo",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sekarmg",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abi20sg",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "WishingBone",
+      "placement" : 1,
+      "score" : 92.67,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11929572,
+    "name" : "Tree View User Control",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2005-01-06",
+    "registrationEndDate" : "2005-01-09",
+    "submissionEndDate" : "2005-01-13",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "mpach",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ajarajn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vanya_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sekarmg",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 81.69,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11902752,
+    "name" : "Notification",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-30",
+    "registrationEndDate" : "2005-01-02",
+    "submissionEndDate" : "2005-01-06",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "arunprakashb",
+      "placement" : 1,
+      "score" : 83.48,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Luca",
+      "placement" : 2,
+      "score" : 73.42,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aubergineanode",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11902911,
+    "name" : "Dictionary Searcher",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2004-12-30",
+    "registrationEndDate" : "2005-01-02",
+    "submissionEndDate" : "2005-01-06",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Codeo",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vanya_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tuenm",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Codeo",
+      "placement" : 1,
+      "score" : 67.54,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aubergineanode",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11903554,
+    "name" : "Dictionary Persistence",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-30",
+    "registrationEndDate" : "2005-01-02",
+    "submissionEndDate" : "2005-01-06",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tuenm",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aubergineanode",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Ghostar",
+      "placement" : 1,
+      "score" : 80.67,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "air2cold",
+      "placement" : 2,
+      "score" : 78.35,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "PuffRing",
+      "placement" : 3,
+      "score" : 72.85,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "tuenm",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11885043,
+    "name" : "Database Queue",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-23",
+    "registrationEndDate" : "2004-12-26",
+    "submissionEndDate" : "2004-12-30",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vanya_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rmk",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 76.33,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "abibaby001",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11863390,
+    "name" : "Status Tracker",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-16",
+    "registrationEndDate" : "2004-12-19",
+    "submissionEndDate" : "2004-12-23",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "maone",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tuenm",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Luca",
+      "placement" : 1,
+      "score" : 74.29,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11863431,
+    "name" : "Configuration Manager",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-16",
+    "registrationEndDate" : "2004-12-19",
+    "submissionEndDate" : "2004-12-23",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "lasereyez",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 86.15,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11842376,
+    "name" : "Notification",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2004-12-09",
+    "registrationEndDate" : "2004-12-12",
+    "submissionEndDate" : "2004-12-16",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "maone",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "abibaby001",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11841949,
+    "name" : "MSMQ Remoting Channel",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-09",
+    "registrationEndDate" : "2004-12-12",
+    "submissionEndDate" : "2004-12-16",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 3,
+    "registrants" : [ {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "efa",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "arunprakashb",
+      "placement" : 1,
+      "score" : 76.83,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "abibaby001",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11821308,
+    "name" : "Exchange Rate Factory",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-02",
+    "registrationEndDate" : "2004-12-05",
+    "submissionEndDate" : "2004-12-09",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Maalus",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "capn_midnight",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akhilagrawal",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "maobiao",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sergio7192",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "air2cold",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "air2cold",
+      "placement" : 1,
+      "score" : 81.04,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Ghostar",
+      "placement" : 2,
+      "score" : 75.27,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "abibaby001",
+      "placement" : 3,
+      "score" : 56.15,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11821210,
+    "name" : "Rounding Factory",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-12-02",
+    "registrationEndDate" : "2004-12-05",
+    "submissionEndDate" : "2004-12-09",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antimatter",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "incurable1",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hidalgo",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abibaby001",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "antimatter",
+      "placement" : 1,
+      "score" : 88.13,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Ghostar",
+      "placement" : 2,
+      "score" : 80.98,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : 3,
+      "score" : 72.1,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "abibaby001",
+      "placement" : 4,
+      "score" : 61.98,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11799178,
+    "name" : "Status Tracker",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2004-11-25",
+    "registrationEndDate" : "2004-11-28",
+    "submissionEndDate" : "2004-12-02",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "m-favorite",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DFlorNH",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Luca",
+      "placement" : 1,
+      "score" : 59.9,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11799211,
+    "name" : "Spell Check",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-11-25",
+    "registrationEndDate" : "2004-11-28",
+    "submissionEndDate" : "2004-12-02",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cybrwzrd1974",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "iggy36",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Ghostar",
+      "placement" : 1,
+      "score" : 72.88,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "iggy36",
+      "placement" : 2,
+      "score" : 68.46,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11783960,
+    "name" : "Email Confirmation",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-11-18",
+    "registrationEndDate" : "2004-11-21",
+    "submissionEndDate" : "2004-11-25",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "trigras",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hellaw8s",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "dfn",
+      "placement" : 1,
+      "score" : 72.54,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11784256,
+    "name" : "Weighted Calculator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-11-18",
+    "registrationEndDate" : "2004-11-21",
+    "submissionEndDate" : "2004-11-25",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "kyky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "iggy36",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vanya_tc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "reetakhare",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "arunprakashb",
+      "placement" : 1,
+      "score" : 88.1,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "nicka81",
+      "placement" : 2,
+      "score" : 85.31,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "iggy36",
+      "placement" : 3,
+      "score" : 84.88,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Vanya",
+      "placement" : 4,
+      "score" : 83.15,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Luca",
+      "placement" : 5,
+      "score" : 80.4,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "reetakhare",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 11784101,
+    "name" : "Country and Province User Control",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-11-18",
+    "registrationEndDate" : "2004-11-21",
+    "submissionEndDate" : "2004-11-25",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "reetakhare",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vereecjw",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Ghostar",
+      "placement" : 1,
+      "score" : 80.48,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Standlove",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10657454,
+    "name" : "Spell Check",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2004-10-28",
+    "registrationEndDate" : "2004-10-31",
+    "submissionEndDate" : "2004-11-04",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "Ghostar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "lordbogy",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "IMightBeKnown",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "AestusAnimi",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "iggy36",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vijaysolomon1",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "iggy36",
+      "placement" : 1,
+      "score" : 58.73,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Ghostar",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10619422,
+    "name" : "Email Confirmation",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2004-10-21",
+    "registrationEndDate" : "2004-10-24",
+    "submissionEndDate" : "2004-10-28",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "ashishsheth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "psksnake",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hectorg",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fjrodriguez",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DaiYan",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "dfn",
+      "placement" : 1,
+      "score" : 64.35,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10620288,
+    "name" : "Status Tracker",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2004-10-21",
+    "registrationEndDate" : "2004-10-24",
+    "submissionEndDate" : "2004-10-28",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "quickly",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "incurable1",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "iggy36",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "IvanRomanov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cezarc",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "arunprakashb",
+      "placement" : 1,
+      "score" : 67.6,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "iggy36",
+      "placement" : 2,
+      "score" : 48.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10515143,
+    "name" : "Status Tracker",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2004-09-23",
+    "registrationEndDate" : "2004-09-26",
+    "submissionEndDate" : "2004-09-30",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "recklessmonkey",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vijaysolomon1",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vitalik",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "vitalik",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10480771,
+    "name" : "Forum Engine Core",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2004-09-16",
+    "registrationEndDate" : "2004-09-19",
+    "submissionEndDate" : "2004-09-23",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Buurzgoth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "BEHiker57W",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Akela",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "adic",
+      "placement" : 1,
+      "score" : 75.92,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10480552,
+    "name" : "Custom Properties",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-09-16",
+    "registrationEndDate" : "2004-09-19",
+    "submissionEndDate" : "2004-09-23",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "foogyus",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "belfem1",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "eesc",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "MPhk",
+      "placement" : 1,
+      "score" : 96.79,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10400600,
+    "name" : "Password Validator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-09-09",
+    "registrationEndDate" : "2004-09-12",
+    "submissionEndDate" : "2004-09-16",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "stl",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tyleroar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "vaa2804",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "abyss",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aSaladin",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "chalic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "RoundEye",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "adic",
+      "placement" : 1,
+      "score" : 90.73,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : 2,
+      "score" : 77.44,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aSaladin",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10400647,
+    "name" : "Custom Properties",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2004-09-02",
+    "registrationEndDate" : "2004-09-05",
+    "submissionEndDate" : "2004-09-09",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "timmikr",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "timmikr",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "MPhk",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10294948,
+    "name" : "Global Distance Calculator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-08-12",
+    "registrationEndDate" : "2004-08-15",
+    "submissionEndDate" : "2004-08-19",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "kyky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DaJia6",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicka81",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "timmikr",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "aksonov",
+      "placement" : 1,
+      "score" : 96.92,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : 2,
+      "score" : 81.96,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Standlove",
+      "placement" : 3,
+      "score" : 78.19,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "DaJia6",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10294686,
+    "name" : "Document Link Resolver",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-08-12",
+    "registrationEndDate" : "2004-08-15",
+    "submissionEndDate" : "2004-08-19",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "kyky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ike",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Bogd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aSaladin",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "kyky",
+      "placement" : 1,
+      "score" : 97.88,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aksonov",
+      "placement" : 2,
+      "score" : 88.48,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "PuffRing",
+      "placement" : 3,
+      "score" : 61.83,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "antoinette",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aSaladin",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10257845,
+    "name" : "Web Menu Control",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "XML", "HTML" ],
+    "status" : "Completed",
+    "postingDate" : "2004-08-05",
+    "registrationEndDate" : "2004-08-08",
+    "submissionEndDate" : "2004-08-12",
+    "prizes" : [ ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "antoinette",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "achalla",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Standlove",
+      "placement" : 1,
+      "score" : 75.81,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "PuffRing",
+      "placement" : 2,
+      "score" : 71.48,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "antoinette",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10250407,
+    "name" : "Timezone Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-08-03",
+    "registrationEndDate" : "2004-08-06",
+    "submissionEndDate" : "2004-08-10",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "Farlox",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "koehrsen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cnettel",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Dr_Barnowl",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "pwo",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPA3",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Kiranmayee",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dread",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "deepac",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "cnettel",
+      "placement" : 1,
+      "score" : 88.89,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Standlove",
+      "placement" : 2,
+      "score" : 88.61,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "pwo",
+      "placement" : 3,
+      "score" : 79.07,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "mishagam",
+      "placement" : 4,
+      "score" : 69.21,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Dr_Barnowl",
+      "placement" : 5,
+      "score" : 67.16,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10228383,
+    "name" : "Auditor",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-07-29",
+    "registrationEndDate" : "2004-08-01",
+    "submissionEndDate" : "2004-08-05",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 5,
+    "registrants" : [ {
+      "handle" : "Pops",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PuffRing",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Moustafa",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Pops",
+      "placement" : 1,
+      "score" : 97.13,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "PuffRing",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10054966,
+    "name" : "Message Center",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-06-15",
+    "registrationEndDate" : "2004-06-18",
+    "submissionEndDate" : "2004-06-22",
+    "prizes" : [ 144.0, 72.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mpach",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zebu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Standlove",
+      "placement" : 1,
+      "score" : 85.48,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "arunprakashb",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10035541,
+    "name" : "Credit Card Validation",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-06-10",
+    "registrationEndDate" : "2004-06-13",
+    "submissionEndDate" : "2004-06-17",
+    "prizes" : [ 96.0, 48.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "Pops",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "pcmartini",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "giginim",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kannanrubam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "chippydip",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tazz",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "quickly",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Dan-0411",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "HelioS",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "horseky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "renu_chandel",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akozlov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aprenot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "BattleDragun",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 7,
+    "submitters" : [ {
+      "handle" : "Pops",
+      "placement" : 1,
+      "score" : 88.63,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "giginim",
+      "placement" : 2,
+      "score" : 79.09,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "chippydip",
+      "placement" : 3,
+      "score" : 71.23,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "arunprakashb",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Dan-0411",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "BattleDragun",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10024133,
+    "name" : "Image Overlay",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-06-08",
+    "registrationEndDate" : "2004-06-11",
+    "submissionEndDate" : "2004-06-15",
+    "prizes" : [ 96.0, 48.0 ],
+    "numRegistrants" : 5,
+    "registrants" : [ {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cnettel",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hubert",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kupo",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "cnettel",
+      "placement" : 1,
+      "score" : 81.92,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "kupo",
+      "placement" : 2,
+      "score" : 81.86,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "hubert",
+      "placement" : 3,
+      "score" : 65.86,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "elefth",
+      "placement" : 4,
+      "score" : 50.38,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10010087,
+    "name" : "Email Address Validator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2004-06-03",
+    "registrationEndDate" : "2004-06-06",
+    "submissionEndDate" : "2004-06-10",
+    "prizes" : [ 160.0, 80.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "BoyWunder",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kanakapriya",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "arunprakashb",
+      "placement" : 1,
+      "score" : 70.18,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "dfn",
+      "placement" : 2,
+      "score" : 42.88,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 8575853,
+    "name" : "Unit Converter",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2004-04-01",
+    "registrationEndDate" : "2004-04-04",
+    "submissionEndDate" : "2004-04-15",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 5,
+    "registrants" : [ {
+      "handle" : "n0vice",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "gagik",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "n0vice",
+      "placement" : 1,
+      "score" : 54.35,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 7570813,
+    "name" : "Tail",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2003-11-18",
+    "registrationEndDate" : "2003-11-21",
+    "submissionEndDate" : "2003-12-08",
+    "prizes" : [ 134.0, 67.0 ],
+    "numRegistrants" : 30,
+    "registrants" : [ {
+      "handle" : "MikeMRH17",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Farlox",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "monteith",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "emokpae1",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "meragrin",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mtinderholt",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "CagedRat",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Mikhail_T",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tomson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "giginim",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "sinaddcos",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "HotPursuit",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "faldore",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PacerGuy",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "anupshinde",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rgrig",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "HitchHik",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "arunprakashb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "SlatViCk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kuttyfred",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "r133",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "r133",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Benjii519",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "rgrig",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  } ]
+}

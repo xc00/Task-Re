@@ -1,0 +1,522 @@
+{
+  "id" : 304,
+  "handle" : "ragnabot",
+  "countHistoryTasks" : 6,
+  "historyTasks" : [ {
+    "id" : 8452591,
+    "name" : "Document Generator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2004-02-17",
+    "registrationEndDate" : "2004-02-20",
+    "submissionEndDate" : "2004-02-24",
+    "prizes" : [ 144.0, 72.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "AdamSelene",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "danno",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "danno",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "danno",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ragnabot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tomson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tomson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tomson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tomson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Tomson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Futurist",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "spsuheligirl",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "spsuheligirl",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "adic",
+      "placement" : 1,
+      "score" : 81.15,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "ShindouHikaru",
+      "placement" : 2,
+      "score" : 75.36,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 8404178,
+    "name" : "Base64 Codec",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2004-01-27",
+    "registrationEndDate" : "2004-01-30",
+    "submissionEndDate" : "2004-02-03",
+    "prizes" : [ 96.0, 48.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "AdamSelene",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "danno",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "WishingBone",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ragnabot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "psangeljg",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "roma",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mastergaurav",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 7,
+    "submitters" : [ {
+      "handle" : "adic",
+      "placement" : 1,
+      "score" : 83.46,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aksonov",
+      "placement" : 2,
+      "score" : 75.9,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "ragnabot",
+      "placement" : 3,
+      "score" : 66.69,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "AdamSelene",
+      "placement" : 4,
+      "score" : 66.52,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "ShindouHikaru",
+      "placement" : 5,
+      "score" : 59.4,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "mastergaurav",
+      "placement" : 6,
+      "score" : 56.06,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "danno",
+      "placement" : 7,
+      "score" : 50.31,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 7470293,
+    "name" : "Generic Event Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2003-10-07",
+    "registrationEndDate" : "2003-10-10",
+    "submissionEndDate" : "2003-10-20",
+    "prizes" : [ 96.0, 48.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "Code-Guru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Khristopher",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "preben",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "holmana",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Altrag",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Altrag",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rnielsen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rbnn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ragnabot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "opi",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zebu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Jiggly",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "holmana",
+      "placement" : 1,
+      "score" : 97.42,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "rnielsen",
+      "placement" : 2,
+      "score" : 96.71,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "aksonov",
+      "placement" : 3,
+      "score" : 96.02,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "ragnabot",
+      "placement" : 4,
+      "score" : 92.31,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "rbnn",
+      "placement" : 5,
+      "score" : 91.37,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "akhil_bansal",
+      "placement" : 6,
+      "score" : 82.52,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 7469408,
+    "name" : "MathML Library",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2003-10-07",
+    "registrationEndDate" : "2003-10-10",
+    "submissionEndDate" : "2003-10-20",
+    "prizes" : [ 144.0, 72.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "Code-Guru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Khristopher",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mvw",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "preben",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rnielsen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "j_johnso",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rbnn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ragnabot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TheCois",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zebu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "port6000",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "aksonov",
+      "placement" : 1,
+      "score" : 95.34,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 7439266,
+    "name" : "DNS Query",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2003-10-07",
+    "registrationEndDate" : "2003-10-10",
+    "submissionEndDate" : "2003-10-20",
+    "prizes" : [ 144.0, 72.0 ],
+    "numRegistrants" : 22,
+    "registrants" : [ {
+      "handle" : "johnm4",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "axiom",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Khristopher",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "preben",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Altrag",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rnielsen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "jazzer4000",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "meragrin",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rbnn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "seaniswise",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "custos",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "centre-right",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "leadhyena_inran",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ragnabot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "CagedRat",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kesteloot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PancakesBiteYou",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hw_Tim",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "rnielsen",
+      "placement" : 1,
+      "score" : 91.08,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "akhil_bansal",
+      "placement" : 2,
+      "score" : 90.05,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "rbnn",
+      "placement" : 3,
+      "score" : 88.76,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Altrag",
+      "placement" : 4,
+      "score" : 81.62,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "preben",
+      "placement" : 5,
+      "score" : 63.42,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 7439947,
+    "name" : "Type Safe Enum",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2003-09-02",
+    "registrationEndDate" : "2003-09-05",
+    "submissionEndDate" : "2003-09-15",
+    "prizes" : [ 96.0, 48.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "axiom",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "preben",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rnielsen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "wcbarksdale",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "b0b0b0b",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "seaniswise",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ragnabot",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "nicksim",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PancakesBiteYou",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Yi_Zhang",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "TAG",
+      "placement" : 1,
+      "score" : 96.25,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "ragnabot",
+      "placement" : 2,
+      "score" : 95.88,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "akhil_bansal",
+      "placement" : 3,
+      "score" : 94.21,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "b0b0b0b",
+      "placement" : 4,
+      "score" : 90.98,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "axiom",
+      "placement" : 5,
+      "score" : 89.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "rnielsen",
+      "placement" : 6,
+      "score" : 88.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  } ]
+}

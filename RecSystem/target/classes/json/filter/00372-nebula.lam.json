@@ -1,0 +1,2507 @@
+{
+  "id" : 372,
+  "handle" : "nebula.lam",
+  "countHistoryTasks" : 42,
+  "historyTasks" : [ {
+    "id" : 30004480,
+    "name" : "File Based Configuration",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "XML", "C#", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2008-05-19",
+    "registrationEndDate" : "2008-05-21",
+    "submissionEndDate" : "2008-05-26",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "LimoWanKenobi",
+      "registrationDate" : "2008-05-19"
+    }, {
+      "handle" : "sindhu",
+      "registrationDate" : "2008-05-19"
+    }, {
+      "handle" : "amrKh",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "quickly",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "txg",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "Micha{Corp}",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "tangliangl",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "Amith",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "hulaquan",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "being",
+      "registrationDate" : "2008-05-21"
+    }, {
+      "handle" : "qjx",
+      "registrationDate" : "2008-05-21"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2008-05-21"
+    }, {
+      "handle" : "y00daa",
+      "registrationDate" : "2008-05-21"
+    }, {
+      "handle" : "ABC_123",
+      "registrationDate" : "2008-05-21"
+    }, {
+      "handle" : "snguyen",
+      "registrationDate" : "2008-05-21"
+    }, {
+      "handle" : "namdaa",
+      "registrationDate" : "2008-05-21"
+    }, {
+      "handle" : "zaixiang",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "Super_Find",
+      "registrationDate" : "2008-05-20"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2008-05-20"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Micha{Corp}",
+      "placement" : 1,
+      "score" : 95.36,
+      "submissionDate" : "2008-05-26"
+    }, {
+      "handle" : "tangliangl",
+      "placement" : 2,
+      "score" : 86.36,
+      "submissionDate" : "2008-05-26"
+    } ]
+  }, {
+    "id" : 30003940,
+    "name" : "Installation Serialization",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", ".NET 2.0", ".NET 3.0" ],
+    "status" : "Completed",
+    "postingDate" : "2008-03-03",
+    "registrationEndDate" : "2008-03-05",
+    "submissionEndDate" : "2008-03-07",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "kurtrips",
+      "registrationDate" : "2008-03-03"
+    }, {
+      "handle" : "sindhu",
+      "registrationDate" : "2008-03-03"
+    }, {
+      "handle" : "xiaomai",
+      "registrationDate" : "2008-03-03"
+    }, {
+      "handle" : "theMADscientist",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "chenlinkair",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "KLW",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "ptolemy1986",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "hyounis",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "vista12",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "aroma",
+      "registrationDate" : "2008-03-04"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2008-03-05"
+    }, {
+      "handle" : "skubaum",
+      "registrationDate" : "2008-03-05"
+    }, {
+      "handle" : "fanse",
+      "registrationDate" : "2008-03-05"
+    }, {
+      "handle" : "Junyy",
+      "registrationDate" : "2008-03-05"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2008-03-05"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 88.8,
+      "submissionDate" : "2008-03-07"
+    } ]
+  }, {
+    "id" : 30002718,
+    "name" : "Calypso RTDP Job Entity DAO",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2007-10-11",
+    "registrationEndDate" : "2007-10-14",
+    "submissionEndDate" : "2007-10-18",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "extra",
+      "registrationDate" : "2007-10-11"
+    }, {
+      "handle" : "hotblue",
+      "registrationDate" : "2007-10-11"
+    }, {
+      "handle" : "nuhan",
+      "registrationDate" : "2007-10-11"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-10-12"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2007-10-13"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2007-10-13"
+    }, {
+      "handle" : "zhihuangjin",
+      "registrationDate" : "2007-10-13"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 95.32,
+      "submissionDate" : "2007-10-18"
+    }, {
+      "handle" : "hotblue",
+      "placement" : 2,
+      "score" : 89.73,
+      "submissionDate" : "2007-10-18"
+    } ]
+  }, {
+    "id" : 30002555,
+    "name" : "Reformat Data Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-09-14",
+    "registrationEndDate" : "2007-09-17",
+    "submissionEndDate" : "2007-09-19",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "davidshen",
+      "registrationDate" : "2007-09-15"
+    }, {
+      "handle" : "A20",
+      "registrationDate" : "2007-09-15"
+    }, {
+      "handle" : "capcam",
+      "registrationDate" : "2007-09-15"
+    }, {
+      "handle" : "nzf",
+      "registrationDate" : "2007-09-16"
+    }, {
+      "handle" : "bracey",
+      "registrationDate" : "2007-09-16"
+    }, {
+      "handle" : "2210520",
+      "registrationDate" : "2007-09-16"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-09-16"
+    }, {
+      "handle" : "LimoWanKenobi",
+      "registrationDate" : "2007-09-16"
+    }, {
+      "handle" : "fdyrpg",
+      "registrationDate" : "2007-09-17"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2007-09-16"
+    }, {
+      "handle" : "kkkk9",
+      "registrationDate" : "2007-09-15"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "fdyrpg",
+      "placement" : 1,
+      "score" : 92.07,
+      "submissionDate" : "2007-09-19"
+    } ]
+  }, {
+    "id" : 30002289,
+    "name" : "Recover Workflow Activities",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#", ".NET 2.0", "Windows Workflow Foundation" ],
+    "status" : "Completed",
+    "postingDate" : "2007-08-09",
+    "registrationEndDate" : "2007-08-12",
+    "submissionEndDate" : "2007-08-16",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "aborecki",
+      "registrationDate" : "2007-08-09"
+    }, {
+      "handle" : "JavaPig",
+      "registrationDate" : "2007-08-09"
+    }, {
+      "handle" : "fubai",
+      "registrationDate" : "2007-08-10"
+    }, {
+      "handle" : "BlueriF",
+      "registrationDate" : "2007-08-10"
+    }, {
+      "handle" : "Yetinaga",
+      "registrationDate" : "2007-08-10"
+    }, {
+      "handle" : "m.sayed",
+      "registrationDate" : "2007-08-10"
+    }, {
+      "handle" : "JacoCronje",
+      "registrationDate" : "2007-08-10"
+    }, {
+      "handle" : "nzf",
+      "registrationDate" : "2007-08-11"
+    }, {
+      "handle" : "serine",
+      "registrationDate" : "2007-08-11"
+    }, {
+      "handle" : "cyberjag",
+      "registrationDate" : "2007-08-12"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-08-12"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 95.67,
+      "submissionDate" : "2007-08-15"
+    }, {
+      "handle" : "serine",
+      "placement" : 2,
+      "score" : 84.3,
+      "submissionDate" : "2007-08-16"
+    }, {
+      "handle" : "JacoCronje",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2007-08-16"
+    } ]
+  }, {
+    "id" : 30002286,
+    "name" : "WCF SearchToken Persistence",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "XML", "C#", ".NET 2.0", "Windows Communication Foundation" ],
+    "status" : "Completed",
+    "postingDate" : "2007-08-09",
+    "registrationEndDate" : "2007-08-12",
+    "submissionEndDate" : "2007-08-16",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 3,
+    "registrants" : [ {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-08-10"
+    }, {
+      "handle" : "elkhawajah",
+      "registrationDate" : "2007-08-10"
+    }, {
+      "handle" : "beingbetter",
+      "registrationDate" : "2007-08-12"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 94.43,
+      "submissionDate" : "2007-08-15"
+    } ]
+  }, {
+    "id" : 30002201,
+    "name" : "Database WF Activities",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#", ".NET 2.0", "ADO.NET", "Windows Workflow Foundation" ],
+    "status" : "Completed",
+    "postingDate" : "2007-08-02",
+    "registrationEndDate" : "2007-08-05",
+    "submissionEndDate" : "2007-08-09",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "hotrogeusn",
+      "registrationDate" : "2007-08-02"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-08-03"
+    }, {
+      "handle" : "aborecki",
+      "registrationDate" : "2007-08-03"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-08-03"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2007-08-04"
+    }, {
+      "handle" : "kr00tki",
+      "registrationDate" : "2007-08-05"
+    }, {
+      "handle" : "vanessa",
+      "registrationDate" : "2007-08-05"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 95.95,
+      "submissionDate" : "2007-08-08"
+    }, {
+      "handle" : "kr00tki",
+      "placement" : 2,
+      "score" : 87.78,
+      "submissionDate" : "2007-08-09"
+    } ]
+  }, {
+    "id" : 30002171,
+    "name" : "Recover Reporting",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#", ".NET 2.0", "ADO.NET", "Windows Communication Foundation" ],
+    "status" : "Completed",
+    "postingDate" : "2007-07-26",
+    "registrationEndDate" : "2007-07-29",
+    "submissionEndDate" : "2007-08-02",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "hthukral",
+      "registrationDate" : "2007-07-26"
+    }, {
+      "handle" : "nzf",
+      "registrationDate" : "2007-07-26"
+    }, {
+      "handle" : "absorbed",
+      "registrationDate" : "2007-07-27"
+    }, {
+      "handle" : "aroma",
+      "registrationDate" : "2007-07-27"
+    }, {
+      "handle" : "sa.asai",
+      "registrationDate" : "2007-07-28"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-07-28"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-07-29"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 90.65,
+      "submissionDate" : "2007-08-02"
+    } ]
+  }, {
+    "id" : 30002089,
+    "name" : "Windows Workflow Loader",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#", ".NET 2.0", "Windows Workflow Foundation" ],
+    "status" : "Completed",
+    "postingDate" : "2007-07-19",
+    "registrationEndDate" : "2007-07-22",
+    "submissionEndDate" : "2007-07-26",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 5,
+    "registrants" : [ {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-07-20"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-07-21"
+    }, {
+      "handle" : "curumo",
+      "registrationDate" : "2007-07-22"
+    }, {
+      "handle" : "cerror",
+      "registrationDate" : "2007-07-22"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-07-22"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 95.68,
+      "submissionDate" : "2007-07-26"
+    }, {
+      "handle" : "cerror",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2007-07-26"
+    } ]
+  }, {
+    "id" : 30002054,
+    "name" : "Object Factory Configuration API Plugin",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-07-12",
+    "registrationEndDate" : "2007-07-15",
+    "submissionEndDate" : "2007-07-20",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "A20",
+      "registrationDate" : "2007-07-13"
+    }, {
+      "handle" : "vova_prof",
+      "registrationDate" : "2007-07-14"
+    }, {
+      "handle" : "soa_master",
+      "registrationDate" : "2007-07-14"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-07-15"
+    }, {
+      "handle" : "tengxiao",
+      "registrationDate" : "2007-07-15"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2007-07-15"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 95.39,
+      "submissionDate" : "2007-07-20"
+    } ]
+  }, {
+    "id" : 30002048,
+    "name" : "Database Constants Provider",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "XML", "XSL", "C#", ".NET 2.0", "ADO.NET" ],
+    "status" : "Completed",
+    "postingDate" : "2007-07-12",
+    "registrationEndDate" : "2007-07-15",
+    "submissionEndDate" : "2007-07-19",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "linsong",
+      "registrationDate" : "2007-07-13"
+    }, {
+      "handle" : "wxw",
+      "registrationDate" : "2007-07-13"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-07-13"
+    }, {
+      "handle" : "Cornelius",
+      "registrationDate" : "2007-07-14"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-07-14"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-07-15"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 95.25,
+      "submissionDate" : "2007-07-19"
+    } ]
+  }, {
+    "id" : 30002002,
+    "name" : "WCF Generic Notes Services",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Web Services", "Remoting", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-07-05",
+    "registrationEndDate" : "2007-07-08",
+    "submissionEndDate" : "2007-07-13",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-07-05"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-07-06"
+    }, {
+      "handle" : "DragonOfTc",
+      "registrationDate" : "2007-07-06"
+    }, {
+      "handle" : "aussie",
+      "registrationDate" : "2007-07-06"
+    }, {
+      "handle" : "lilianyan",
+      "registrationDate" : "2007-07-06"
+    }, {
+      "handle" : "curumo",
+      "registrationDate" : "2007-07-06"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-07-07"
+    }, {
+      "handle" : "dargrey",
+      "registrationDate" : "2007-07-08"
+    }, {
+      "handle" : "elkhawajah",
+      "registrationDate" : "2007-07-08"
+    }, {
+      "handle" : "hotblue",
+      "registrationDate" : "2007-07-08"
+    }, {
+      "handle" : "taugenichts",
+      "registrationDate" : "2007-07-08"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "lilianyan",
+      "placement" : 1,
+      "score" : 93.7,
+      "submissionDate" : "2007-07-11"
+    }, {
+      "handle" : "DragonOfTc",
+      "placement" : 2,
+      "score" : 90.86,
+      "submissionDate" : "2007-07-12"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 3,
+      "score" : 90.54,
+      "submissionDate" : "2007-07-12"
+    }, {
+      "handle" : "dargrey",
+      "placement" : 4,
+      "score" : 66.05,
+      "submissionDate" : "2007-07-13"
+    } ]
+  }, {
+    "id" : 30002001,
+    "name" : "WCF Contact Information Services",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Web Services", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-07-05",
+    "registrationEndDate" : "2007-07-08",
+    "submissionEndDate" : "2007-07-13",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "Yetinaga",
+      "registrationDate" : "2007-07-05"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-07-05"
+    }, {
+      "handle" : "aussie",
+      "registrationDate" : "2007-07-06"
+    }, {
+      "handle" : "renbenzhuyi",
+      "registrationDate" : "2007-07-07"
+    }, {
+      "handle" : "devbc",
+      "registrationDate" : "2007-07-07"
+    }, {
+      "handle" : "qingzhe",
+      "registrationDate" : "2007-07-07"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-07-07"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-07-07"
+    }, {
+      "handle" : "hotblue",
+      "registrationDate" : "2007-07-08"
+    }, {
+      "handle" : "taugenichts",
+      "registrationDate" : "2007-07-08"
+    }, {
+      "handle" : "kshatriyan",
+      "registrationDate" : "2007-07-05"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 92.86,
+      "submissionDate" : "2007-07-10"
+    }, {
+      "handle" : "qingzhe",
+      "placement" : 2,
+      "score" : 83.11,
+      "submissionDate" : "2007-07-13"
+    } ]
+  }, {
+    "id" : 30001957,
+    "name" : "Free Form Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2007-06-21",
+    "registrationEndDate" : "2007-06-24",
+    "submissionEndDate" : "2007-06-29",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-06-22"
+    }, {
+      "handle" : "RottedFrog",
+      "registrationDate" : "2007-06-22"
+    }, {
+      "handle" : "dmitri314",
+      "registrationDate" : "2007-06-22"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-06-22"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-06-23"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-06-23"
+    }, {
+      "handle" : "vijeth.d",
+      "registrationDate" : "2007-06-23"
+    }, {
+      "handle" : "brus07",
+      "registrationDate" : "2007-06-23"
+    }, {
+      "handle" : "qingzhe",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "KSD",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "dargrey",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "Xuchen",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2007-06-24"
+    }, {
+      "handle" : "tc2118",
+      "registrationDate" : "2007-06-24"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Xuchen",
+      "placement" : 1,
+      "score" : 95.21,
+      "submissionDate" : "2007-06-29"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 2,
+      "score" : 94.44,
+      "submissionDate" : "2007-06-29"
+    }, {
+      "handle" : "qingzhe",
+      "placement" : 3,
+      "score" : 79.6,
+      "submissionDate" : "2007-06-29"
+    } ]
+  }, {
+    "id" : 30001891,
+    "name" : "WCF User Providers",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#", ".NET 2.0", "ASP.NET", "IIS" ],
+    "status" : "Completed",
+    "postingDate" : "2007-06-14",
+    "registrationEndDate" : "2007-06-17",
+    "submissionEndDate" : "2007-06-21",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "bestpandit",
+      "registrationDate" : "2007-06-15"
+    }, {
+      "handle" : "devbc",
+      "registrationDate" : "2007-06-16"
+    }, {
+      "handle" : "qingzhe",
+      "registrationDate" : "2007-06-16"
+    }, {
+      "handle" : "victorsam",
+      "registrationDate" : "2007-06-16"
+    }, {
+      "handle" : "dmitri314",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "arylio",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "tcpcoder",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-06-17"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 94.72,
+      "submissionDate" : "2007-06-21"
+    }, {
+      "handle" : "qingzhe",
+      "placement" : 2,
+      "score" : 81.71,
+      "submissionDate" : "2007-06-21"
+    } ]
+  }, {
+    "id" : 30001886,
+    "name" : "WCF Host",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Web Services", "Remoting", ".NET 2.0", "Windows Server 2003" ],
+    "status" : "Completed",
+    "postingDate" : "2007-06-14",
+    "registrationEndDate" : "2007-06-17",
+    "submissionEndDate" : "2007-06-21",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-06-15"
+    }, {
+      "handle" : "uskee",
+      "registrationDate" : "2007-06-15"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "A20",
+      "registrationDate" : "2007-06-17"
+    }, {
+      "handle" : "taugenichts",
+      "registrationDate" : "2007-06-17"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 89.35,
+      "submissionDate" : "2007-06-21"
+    } ]
+  }, {
+    "id" : 30001839,
+    "name" : "Constants Depot",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-06-07",
+    "registrationEndDate" : "2007-06-10",
+    "submissionEndDate" : "2007-06-14",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "jimnick",
+      "registrationDate" : "2007-06-08"
+    }, {
+      "handle" : "The_sneaky",
+      "registrationDate" : "2007-06-08"
+    }, {
+      "handle" : "zsudraco",
+      "registrationDate" : "2007-06-08"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-06-08"
+    }, {
+      "handle" : "ttmydung",
+      "registrationDate" : "2007-06-09"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-06-09"
+    }, {
+      "handle" : "dyqdyq10",
+      "registrationDate" : "2007-06-09"
+    }, {
+      "handle" : "zealouselixir",
+      "registrationDate" : "2007-06-09"
+    }, {
+      "handle" : "elkhawajah",
+      "registrationDate" : "2007-06-10"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2007-06-10"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2007-06-10"
+    }, {
+      "handle" : "stefancontiu",
+      "registrationDate" : "2007-06-10"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 95.34,
+      "submissionDate" : "2007-06-14"
+    }, {
+      "handle" : "zsudraco",
+      "placement" : 2,
+      "score" : 89.33,
+      "submissionDate" : "2007-06-13"
+    } ]
+  }, {
+    "id" : 30001800,
+    "name" : "Message Processing Framework",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "XML", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-31",
+    "registrationEndDate" : "2007-06-03",
+    "submissionEndDate" : "2007-06-04",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "bartimaeus",
+      "registrationDate" : "2007-06-01"
+    }, {
+      "handle" : "fanse",
+      "registrationDate" : "2007-06-03"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-06-03"
+    }, {
+      "handle" : "tianniu",
+      "registrationDate" : "2007-06-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 92.22,
+      "submissionDate" : "2007-06-04"
+    } ]
+  }, {
+    "id" : 30001785,
+    "name" : "Conversation Monitor Service",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-31",
+    "registrationEndDate" : "2007-06-03",
+    "submissionEndDate" : "2007-06-04",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 2,
+    "registrants" : [ {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-06-01"
+    }, {
+      "handle" : "skatou",
+      "registrationDate" : "2007-06-01"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 92.0,
+      "submissionDate" : "2007-06-04"
+    } ]
+  }, {
+    "id" : 30001758,
+    "name" : "MSMQ Service",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-24",
+    "registrationEndDate" : "2007-05-27",
+    "submissionEndDate" : "2007-06-01",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-05-24"
+    }, {
+      "handle" : "LeoMakS",
+      "registrationDate" : "2007-05-26"
+    }, {
+      "handle" : "feng2008",
+      "registrationDate" : "2007-05-27"
+    }, {
+      "handle" : "y00daa",
+      "registrationDate" : "2007-05-27"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-05-27"
+    }, {
+      "handle" : "ctt",
+      "registrationDate" : "2007-05-27"
+    }, {
+      "handle" : "mj2007",
+      "registrationDate" : "2007-05-27"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-05-27"
+    }, {
+      "handle" : "taugenichts",
+      "registrationDate" : "2007-05-27"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "ctt",
+      "placement" : 1,
+      "score" : 92.63,
+      "submissionDate" : "2007-05-30"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 2,
+      "score" : 91.83,
+      "submissionDate" : "2007-05-31"
+    }, {
+      "handle" : "LeoMakS",
+      "placement" : 3,
+      "score" : 68.44,
+      "submissionDate" : "2007-06-01"
+    } ]
+  }, {
+    "id" : 30001703,
+    "name" : "PMC Service",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "XML", "C#", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-17",
+    "registrationEndDate" : "2007-05-20",
+    "submissionEndDate" : "2007-05-24",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "nzf",
+      "registrationDate" : "2007-05-17"
+    }, {
+      "handle" : "aGoodHandle",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "JavaPig",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-05-20"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 93.14,
+      "submissionDate" : "2007-05-24"
+    } ]
+  }, {
+    "id" : 30001702,
+    "name" : "PMC Synchronization Service",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#", ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-17",
+    "registrationEndDate" : "2007-05-20",
+    "submissionEndDate" : "2007-05-24",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "JavaPig",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "ljsm_2007",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "The_sneaky",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "mittu",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "hjani",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "sixs",
+      "registrationDate" : "2007-05-19"
+    }, {
+      "handle" : "dmitri314",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "qingzhe",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "tcpcoder",
+      "registrationDate" : "2007-05-19"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 88.41,
+      "submissionDate" : "2007-05-23"
+    } ]
+  }, {
+    "id" : 30001715,
+    "name" : "ASP.NET Jscript Collapsible Panel",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "JavaScript", ".NET 2.0", "ASP.NET" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-17",
+    "registrationEndDate" : "2007-05-20",
+    "submissionEndDate" : "2007-05-21",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "kevinzheng1983",
+      "registrationDate" : "2007-05-17"
+    }, {
+      "handle" : "bartimaeus",
+      "registrationDate" : "2007-05-17"
+    }, {
+      "handle" : "fdyrpg",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "haitham_hamed",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "lilianyan",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "sidonath",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "jwhyne",
+      "registrationDate" : "2007-05-19"
+    }, {
+      "handle" : "LimoWanKenobi",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "0xFF",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "ike",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "xch_554",
+      "registrationDate" : "2007-05-19"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2007-05-19"
+    }, {
+      "handle" : "jueyey",
+      "registrationDate" : "2007-05-19"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "sidonath",
+      "placement" : 1,
+      "score" : 96.75,
+      "submissionDate" : "2007-05-21"
+    }, {
+      "handle" : "sparemax",
+      "placement" : 2,
+      "score" : 94.83,
+      "submissionDate" : "2007-05-20"
+    }, {
+      "handle" : "fdyrpg",
+      "placement" : 3,
+      "score" : 92.76,
+      "submissionDate" : "2007-05-20"
+    }, {
+      "handle" : "lilianyan",
+      "placement" : 4,
+      "score" : 92.23,
+      "submissionDate" : "2007-05-20"
+    }, {
+      "handle" : "jueyey",
+      "placement" : 5,
+      "score" : 79.46,
+      "submissionDate" : "2007-05-21"
+    }, {
+      "handle" : "kevinzheng1983",
+      "placement" : 6,
+      "score" : 76.44,
+      "submissionDate" : "2007-05-20"
+    } ]
+  }, {
+    "id" : 30001705,
+    "name" : "MSMQ Monitor",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-17",
+    "registrationEndDate" : "2007-05-20",
+    "submissionEndDate" : "2007-05-21",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "Yetinaga",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "y00daa",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "Zulander",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "hulaquan",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "lzhang",
+      "registrationDate" : "2007-05-18"
+    }, {
+      "handle" : "rd64pro",
+      "registrationDate" : "2007-05-19"
+    }, {
+      "handle" : "rogerslin",
+      "registrationDate" : "2007-05-19"
+    }, {
+      "handle" : "jarrodalbert",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-05-20"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2007-05-20"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 97.65,
+      "submissionDate" : "2007-05-20"
+    }, {
+      "handle" : "Zulander",
+      "placement" : 2,
+      "score" : 97.03,
+      "submissionDate" : "2007-05-20"
+    }, {
+      "handle" : "lzhang",
+      "placement" : 3,
+      "score" : 80.05,
+      "submissionDate" : "2007-05-20"
+    } ]
+  }, {
+    "id" : 30001664,
+    "name" : "Historical Extract Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET 2.0", "ADO.NET" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-10",
+    "registrationEndDate" : "2007-05-13",
+    "submissionEndDate" : "2007-05-17",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-05-11"
+    }, {
+      "handle" : "yalan",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "sghao126",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "allenfly",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "dmitri314",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "zaixiang",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "fyns",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "devil26",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "Peterpay",
+      "registrationDate" : "2007-05-10"
+    }, {
+      "handle" : "samuelzhu",
+      "registrationDate" : "2007-05-11"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 83.36,
+      "submissionDate" : "2007-05-17"
+    }, {
+      "handle" : "sghao126",
+      "placement" : 2,
+      "score" : 81.63,
+      "submissionDate" : "2007-05-17"
+    } ]
+  }, {
+    "id" : 30001663,
+    "name" : "Server Handler",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET 2.0" ],
+    "status" : "Completed",
+    "postingDate" : "2007-05-10",
+    "registrationEndDate" : "2007-05-13",
+    "submissionEndDate" : "2007-05-17",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 23,
+    "registrants" : [ {
+      "handle" : "Egor",
+      "registrationDate" : "2007-05-10"
+    }, {
+      "handle" : "bartimaeus",
+      "registrationDate" : "2007-05-10"
+    }, {
+      "handle" : "samuelzhu",
+      "registrationDate" : "2007-05-11"
+    }, {
+      "handle" : "dyqdyq10",
+      "registrationDate" : "2007-05-11"
+    }, {
+      "handle" : "CrystalJ",
+      "registrationDate" : "2007-05-11"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2007-05-11"
+    }, {
+      "handle" : "uda",
+      "registrationDate" : "2007-05-11"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-05-11"
+    }, {
+      "handle" : "guwenqing",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "yalan",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "agray",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "way1and3r",
+      "registrationDate" : "2007-05-12"
+    }, {
+      "handle" : "dmitri314",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "boygod",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "_NT_",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "rogerslin",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "catcher",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "Xuchen",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "fyns",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "tufan1",
+      "registrationDate" : "2007-05-13"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2007-05-10"
+    }, {
+      "handle" : "topdj",
+      "registrationDate" : "2007-05-10"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-05-11"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 96.85,
+      "submissionDate" : "2007-05-17"
+    }, {
+      "handle" : "yext",
+      "placement" : 2,
+      "score" : 96.77,
+      "submissionDate" : "2007-05-17"
+    }, {
+      "handle" : "Yeung",
+      "placement" : 3,
+      "score" : 96.46,
+      "submissionDate" : "2007-05-17"
+    }, {
+      "handle" : "CrystalJ",
+      "placement" : 4,
+      "score" : 85.4,
+      "submissionDate" : "2007-05-17"
+    } ]
+  }, {
+    "id" : 30001552,
+    "name" : "Object Factory",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET" ],
+    "status" : "Completed",
+    "postingDate" : "2007-04-27",
+    "registrationEndDate" : "2007-04-30",
+    "submissionEndDate" : "2007-05-04",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "lustangle",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "DBen",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "dyqdyq10",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "Xuchen",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "qingzhe",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "voyagerr",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "billow",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "Achilles_2005",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "The_sneaky",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "ctt",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "HSM",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2007-04-30"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-04-30"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 94.95,
+      "submissionDate" : "2007-05-04"
+    }, {
+      "handle" : "kurtrips",
+      "placement" : 2,
+      "score" : 80.87,
+      "submissionDate" : "2007-05-04"
+    } ]
+  }, {
+    "id" : 30001521,
+    "name" : "Query Analyzer",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", ".NET 2.0", "Oracle 10g", "Oracle 9i" ],
+    "status" : "Completed",
+    "postingDate" : "2007-04-26",
+    "registrationEndDate" : "2007-04-29",
+    "submissionEndDate" : "2007-05-03",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "DragonOfTc",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "dyqdyq10",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "tfmanavalan",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "Melon",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "vijeth.d",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "gerrylin",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "_NT_",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "tuBAs_Peto",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "ctt",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "dmitri314",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "BLE",
+      "registrationDate" : "2007-04-29"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 92.21,
+      "submissionDate" : "2007-04-29"
+    }, {
+      "handle" : "BLE",
+      "placement" : 2,
+      "score" : 92.17,
+      "submissionDate" : "2007-05-03"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 3,
+      "score" : 92.05,
+      "submissionDate" : "2007-05-03"
+    }, {
+      "handle" : "tuBAs_Peto",
+      "placement" : 4,
+      "score" : 71.76,
+      "submissionDate" : "2007-05-03"
+    } ]
+  }, {
+    "id" : 30001520,
+    "name" : "Hierarchical Drop Down Server",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "HTTP", "C#", ".NET 2.0", "ASP.NET", "IIS", "ASP.NET AJAX" ],
+    "status" : "Completed",
+    "postingDate" : "2007-04-26",
+    "registrationEndDate" : "2007-04-29",
+    "submissionEndDate" : "2007-05-03",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "bartimaeus",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "way1and3r",
+      "registrationDate" : "2007-04-26"
+    }, {
+      "handle" : "samuelzhu",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "justforplay",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "BLE",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "sidonath",
+      "registrationDate" : "2007-04-27"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "FairEddie",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-04-28"
+    }, {
+      "handle" : "Goofs",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "codegenie",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-04-29"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2007-04-29"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "BLE",
+      "placement" : 1,
+      "score" : 95.19,
+      "submissionDate" : "2007-05-02"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 2,
+      "score" : 90.94,
+      "submissionDate" : "2007-05-03"
+    }, {
+      "handle" : "samuelzhu",
+      "placement" : 3,
+      "score" : 81.22,
+      "submissionDate" : "2007-05-03"
+    }, {
+      "handle" : "sidonath",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2007-05-03"
+    } ]
+  }, {
+    "id" : 30001461,
+    "name" : "Compact Framework Object Factory",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-04-19",
+    "registrationEndDate" : "2007-04-22",
+    "submissionEndDate" : "2007-04-26",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "BLE",
+      "registrationDate" : "2007-04-19"
+    }, {
+      "handle" : "yalan",
+      "registrationDate" : "2007-04-19"
+    }, {
+      "handle" : "samuelzhu",
+      "registrationDate" : "2007-04-19"
+    }, {
+      "handle" : "beingbetter",
+      "registrationDate" : "2007-04-20"
+    }, {
+      "handle" : "Bi11",
+      "registrationDate" : "2007-04-20"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2007-04-20"
+    }, {
+      "handle" : "Cornelius",
+      "registrationDate" : "2007-04-20"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2007-04-20"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-04-20"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2007-04-20"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-04-22"
+    }, {
+      "handle" : "sub_autumn",
+      "registrationDate" : "2007-04-22"
+    }, {
+      "handle" : "KLW",
+      "registrationDate" : "2007-04-22"
+    }, {
+      "handle" : "y00daa",
+      "registrationDate" : "2007-04-22"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2007-04-22"
+    }, {
+      "handle" : "codenameHarmony",
+      "registrationDate" : "2007-04-22"
+    }, {
+      "handle" : "miceddie",
+      "registrationDate" : "2007-04-22"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 89.85,
+      "submissionDate" : "2007-04-26"
+    }, {
+      "handle" : "kurtrips",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2007-04-26"
+    } ]
+  }, {
+    "id" : 30001361,
+    "name" : "Event Engine",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-04-05",
+    "registrationEndDate" : "2007-04-08",
+    "submissionEndDate" : "2007-04-13",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "luckvin",
+      "registrationDate" : "2007-04-05"
+    }, {
+      "handle" : "wolve",
+      "registrationDate" : "2007-04-05"
+    }, {
+      "handle" : "fyns",
+      "registrationDate" : "2007-04-05"
+    }, {
+      "handle" : "kkkk9",
+      "registrationDate" : "2007-04-06"
+    }, {
+      "handle" : "ucandoit",
+      "registrationDate" : "2007-04-06"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-04-07"
+    }, {
+      "handle" : "zaixiang",
+      "registrationDate" : "2007-04-07"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2007-04-07"
+    }, {
+      "handle" : "white_hat",
+      "registrationDate" : "2007-04-07"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "zaixiang",
+      "placement" : 1,
+      "score" : 95.12,
+      "submissionDate" : "2007-04-12"
+    }, {
+      "handle" : "wolve",
+      "placement" : 2,
+      "score" : 85.97,
+      "submissionDate" : "2007-04-13"
+    } ]
+  }, {
+    "id" : 30001148,
+    "name" : "Credit Analysis DAO - Reference Data",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "C#", ".NET 2.0", "SQL Server" ],
+    "status" : "Completed",
+    "postingDate" : "2007-03-14",
+    "registrationEndDate" : "2007-03-17",
+    "submissionEndDate" : "2007-03-21",
+    "prizes" : [ 550.0, 275.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "osmgg",
+      "registrationDate" : "2007-03-14"
+    }, {
+      "handle" : "zsudraco",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "zhengzhoubin",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "leontobe",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "nzf",
+      "registrationDate" : "2007-03-16"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-03-17"
+    }, {
+      "handle" : "BLE",
+      "registrationDate" : "2007-03-17"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 96.56,
+      "submissionDate" : "2007-03-21"
+    }, {
+      "handle" : "zsudraco",
+      "placement" : 2,
+      "score" : 95.63,
+      "submissionDate" : "2007-03-18"
+    } ]
+  }, {
+    "id" : 30001146,
+    "name" : "Credit Analysis DAO - Company",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "C#", ".NET 2.0", "SQL Server" ],
+    "status" : "Completed",
+    "postingDate" : "2007-03-14",
+    "registrationEndDate" : "2007-03-17",
+    "submissionEndDate" : "2007-03-21",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "qi",
+      "registrationDate" : "2007-03-14"
+    }, {
+      "handle" : "hthukral",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "rushingzerg",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "Ricepig",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "zhihuangjin",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "maxthon.tc",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "Nilvap",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "KOTMATPOCKUH",
+      "registrationDate" : "2007-03-15"
+    }, {
+      "handle" : "zaixiang",
+      "registrationDate" : "2007-03-16"
+    }, {
+      "handle" : "bartimaeus",
+      "registrationDate" : "2007-03-16"
+    }, {
+      "handle" : "nzf",
+      "registrationDate" : "2007-03-17"
+    }, {
+      "handle" : "coderster",
+      "registrationDate" : "2007-03-17"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-03-17"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 91.14,
+      "submissionDate" : "2007-03-21"
+    }, {
+      "handle" : "zaixiang",
+      "placement" : 2,
+      "score" : 89.06,
+      "submissionDate" : "2007-03-18"
+    } ]
+  }, {
+    "id" : 30001084,
+    "name" : "Scoring Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-03-08",
+    "registrationEndDate" : "2007-03-12",
+    "submissionEndDate" : "2007-03-16",
+    "prizes" : [ 2500.0, 1250.0 ],
+    "numRegistrants" : 23,
+    "registrants" : [ {
+      "handle" : "doco",
+      "registrationDate" : "2007-03-08"
+    }, {
+      "handle" : "kkkk9",
+      "registrationDate" : "2007-03-08"
+    }, {
+      "handle" : "skatou",
+      "registrationDate" : "2007-03-08"
+    }, {
+      "handle" : "j_abdou_01",
+      "registrationDate" : "2007-03-08"
+    }, {
+      "handle" : "cremeux",
+      "registrationDate" : "2007-03-08"
+    }, {
+      "handle" : "white_hat",
+      "registrationDate" : "2007-03-09"
+    }, {
+      "handle" : "StargateKeeper",
+      "registrationDate" : "2007-03-09"
+    }, {
+      "handle" : "tanujmathur",
+      "registrationDate" : "2007-03-09"
+    }, {
+      "handle" : "Cornelius",
+      "registrationDate" : "2007-03-09"
+    }, {
+      "handle" : "MGLC",
+      "registrationDate" : "2007-03-09"
+    }, {
+      "handle" : "GMania",
+      "registrationDate" : "2007-03-09"
+    }, {
+      "handle" : "bartimaeus",
+      "registrationDate" : "2007-03-09"
+    }, {
+      "handle" : "suhugo",
+      "registrationDate" : "2007-03-10"
+    }, {
+      "handle" : "javaisbetter",
+      "registrationDate" : "2007-03-10"
+    }, {
+      "handle" : "plus",
+      "registrationDate" : "2007-03-10"
+    }, {
+      "handle" : "xOberon",
+      "registrationDate" : "2007-03-10"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2007-03-11"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-03-11"
+    }, {
+      "handle" : "real_vg",
+      "registrationDate" : "2007-03-11"
+    }, {
+      "handle" : "coderobot",
+      "registrationDate" : "2007-03-11"
+    }, {
+      "handle" : "moio",
+      "registrationDate" : "2007-03-12"
+    }, {
+      "handle" : "tuan",
+      "registrationDate" : "2007-03-12"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2007-03-11"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 90.28,
+      "submissionDate" : "2007-03-16"
+    }, {
+      "handle" : "kkkk9",
+      "placement" : 2,
+      "score" : 86.53,
+      "submissionDate" : "2007-03-16"
+    } ]
+  }, {
+    "id" : 30001000,
+    "name" : "Message Center",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-02-22",
+    "registrationEndDate" : "2007-02-25",
+    "submissionEndDate" : "2007-03-02",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "jeffkyjin",
+      "registrationDate" : "2007-02-22"
+    }, {
+      "handle" : "marius_neo",
+      "registrationDate" : "2007-02-22"
+    }, {
+      "handle" : "Offenbar",
+      "registrationDate" : "2007-02-22"
+    }, {
+      "handle" : "danmih",
+      "registrationDate" : "2007-02-22"
+    }, {
+      "handle" : "wolve",
+      "registrationDate" : "2007-02-23"
+    }, {
+      "handle" : "BLE",
+      "registrationDate" : "2007-02-23"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2007-02-24"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-02-24"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-02-25"
+    }, {
+      "handle" : "toml",
+      "registrationDate" : "2007-02-25"
+    }, {
+      "handle" : "xOberon",
+      "registrationDate" : "2007-02-25"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2007-02-25"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2007-02-25"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "BLE",
+      "placement" : 1,
+      "score" : 87.32,
+      "submissionDate" : "2007-03-02"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 2,
+      "score" : 87.06,
+      "submissionDate" : "2007-03-02"
+    }, {
+      "handle" : "wolve",
+      "placement" : -1,
+      "score" : 72.55,
+      "submissionDate" : "2007-03-02"
+    }, {
+      "handle" : "xOberon",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2007-03-02"
+    } ]
+  }, {
+    "id" : 30000932,
+    "name" : "ARS Lifecycle Processor Publishing",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-02-15",
+    "registrationEndDate" : "2007-02-18",
+    "submissionEndDate" : "2007-02-22",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "FairEddie",
+      "registrationDate" : "2007-02-15"
+    }, {
+      "handle" : "cremeux",
+      "registrationDate" : "2007-02-15"
+    }, {
+      "handle" : "BLE",
+      "registrationDate" : "2007-02-15"
+    }, {
+      "handle" : "iamcarfield",
+      "registrationDate" : "2007-02-16"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2007-02-16"
+    }, {
+      "handle" : "0xFF",
+      "registrationDate" : "2007-02-17"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-02-18"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "BLE",
+      "placement" : 1,
+      "score" : 91.94,
+      "submissionDate" : "2007-02-22"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 2,
+      "score" : 88.56,
+      "submissionDate" : "2007-02-21"
+    }, {
+      "handle" : "0xFF",
+      "placement" : 3,
+      "score" : 86.67,
+      "submissionDate" : "2007-02-20"
+    } ]
+  }, {
+    "id" : 30000931,
+    "name" : "ARS Lifecycle Processor Framework",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET" ],
+    "status" : "Completed",
+    "postingDate" : "2007-02-15",
+    "registrationEndDate" : "2007-02-18",
+    "submissionEndDate" : "2007-02-22",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "nzf",
+      "registrationDate" : "2007-02-15"
+    }, {
+      "handle" : "fuyun",
+      "registrationDate" : "2007-02-15"
+    }, {
+      "handle" : "_NT_",
+      "registrationDate" : "2007-02-15"
+    }, {
+      "handle" : "zsudraco",
+      "registrationDate" : "2007-02-15"
+    }, {
+      "handle" : "ShawnZhao",
+      "registrationDate" : "2007-02-16"
+    }, {
+      "handle" : "iamcarfield",
+      "registrationDate" : "2007-02-16"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-02-18"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "nebula.lam",
+      "placement" : 1,
+      "score" : 96.4,
+      "submissionDate" : "2007-02-20"
+    }, {
+      "handle" : "_NT_",
+      "placement" : 2,
+      "score" : 95.28,
+      "submissionDate" : "2007-02-21"
+    }, {
+      "handle" : "zsudraco",
+      "placement" : 3,
+      "score" : 93.08,
+      "submissionDate" : "2007-02-19"
+    } ]
+  }, {
+    "id" : 30000801,
+    "name" : "Data Access Interface",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-02-01",
+    "registrationEndDate" : "2007-02-04",
+    "submissionEndDate" : "2007-02-08",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "albertwang",
+      "registrationDate" : "2007-02-01"
+    }, {
+      "handle" : "justforplay",
+      "registrationDate" : "2007-02-01"
+    }, {
+      "handle" : "hnr_001",
+      "registrationDate" : "2007-02-01"
+    }, {
+      "handle" : "MPA3",
+      "registrationDate" : "2007-02-01"
+    }, {
+      "handle" : "panji",
+      "registrationDate" : "2007-02-02"
+    }, {
+      "handle" : "next",
+      "registrationDate" : "2007-02-02"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2007-02-02"
+    }, {
+      "handle" : "dkutsenko",
+      "registrationDate" : "2007-02-02"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2007-02-03"
+    }, {
+      "handle" : "_NT_",
+      "registrationDate" : "2007-02-03"
+    }, {
+      "handle" : "marius_neo",
+      "registrationDate" : "2007-02-03"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-02-04"
+    }, {
+      "handle" : "jarrodalbert",
+      "registrationDate" : "2007-02-04"
+    }, {
+      "handle" : "moavenat",
+      "registrationDate" : "2007-02-04"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "albertwang",
+      "placement" : 1,
+      "score" : 94.65,
+      "submissionDate" : "2007-02-08"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 2,
+      "score" : 92.33,
+      "submissionDate" : "2007-02-08"
+    }, {
+      "handle" : "marius_neo",
+      "placement" : 3,
+      "score" : 79.03,
+      "submissionDate" : "2007-02-08"
+    }, {
+      "handle" : "yext",
+      "placement" : 4,
+      "score" : 79.0,
+      "submissionDate" : "2007-02-08"
+    } ]
+  }, {
+    "id" : 30000678,
+    "name" : "PMC Service",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-18",
+    "registrationEndDate" : "2007-01-21",
+    "submissionEndDate" : "2007-01-25",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "myxgyy",
+      "registrationDate" : "2007-01-18"
+    }, {
+      "handle" : "doco",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "semmalai",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "lilianyan",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "hotblue",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "arylio",
+      "registrationDate" : "2007-01-21"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "arylio",
+      "placement" : 1,
+      "score" : 92.36,
+      "submissionDate" : "2007-01-25"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 2,
+      "score" : 89.06,
+      "submissionDate" : "2007-01-25"
+    }, {
+      "handle" : "hotblue",
+      "placement" : 3,
+      "score" : 88.83,
+      "submissionDate" : "2007-01-25"
+    } ]
+  }, {
+    "id" : 30000579,
+    "name" : "PMC Create Your Own",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-05",
+    "registrationEndDate" : "2007-01-08",
+    "submissionEndDate" : "2007-01-12",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "agh",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "ShawnZhao",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "yid0",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "ike",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "hotblue",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "mittu",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "semmalai",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "symsyn",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "FairEddie",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "sa.asai",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "fxc123",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "adip",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "sos1984",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "daizisheng",
+      "registrationDate" : "2007-01-08"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "hotblue",
+      "placement" : 1,
+      "score" : 92.54,
+      "submissionDate" : "2007-01-12"
+    }, {
+      "handle" : "agh",
+      "placement" : 2,
+      "score" : 90.72,
+      "submissionDate" : "2007-01-12"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : 3,
+      "score" : 87.71,
+      "submissionDate" : "2007-01-12"
+    } ]
+  }, {
+    "id" : 30000588,
+    "name" : "Graph Definition Template",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "XML", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-04",
+    "registrationEndDate" : "2007-01-07",
+    "submissionEndDate" : "2007-01-11",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "bartimaeus",
+      "registrationDate" : "2007-01-04"
+    }, {
+      "handle" : "securityman",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "CoreDumped",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "neera",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "Offenbar",
+      "registrationDate" : "2007-01-05"
+    }, {
+      "handle" : "crazypigs",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "miaow",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "marchthirteenth",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "emka207",
+      "registrationDate" : "2007-01-07"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "emka207",
+      "placement" : 1,
+      "score" : 85.54,
+      "submissionDate" : "2007-01-11"
+    } ]
+  }, {
+    "id" : 30000443,
+    "name" : "AutoComplete TextBox",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2006-12-14",
+    "registrationEndDate" : "2006-12-17",
+    "submissionEndDate" : "2006-12-21",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "nzf",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "kanpian",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "smsorin",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "ali_raza_shaikh",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "xxiyy",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "ongulance",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "khan.sahid",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "DaiYan",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "aten",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "next",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "susu",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "nebula.lam",
+      "registrationDate" : "2006-12-17"
+    }, {
+      "handle" : "waqar12",
+      "registrationDate" : "2006-12-17"
+    }, {
+      "handle" : "stevenj",
+      "registrationDate" : "2006-12-17"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2006-12-17"
+    }, {
+      "handle" : "suyife",
+      "registrationDate" : "2006-12-17"
+    }, {
+      "handle" : "Philya",
+      "registrationDate" : "2006-12-17"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "xxiyy",
+      "placement" : 1,
+      "score" : 82.4,
+      "submissionDate" : "2006-12-21"
+    }, {
+      "handle" : "nebula.lam",
+      "placement" : -1,
+      "score" : 72.78,
+      "submissionDate" : "2006-12-21"
+    }, {
+      "handle" : "aten",
+      "placement" : -1,
+      "score" : 71.39,
+      "submissionDate" : "2006-12-21"
+    } ]
+  } ]
+}

@@ -1,0 +1,826 @@
+{
+  "id" : 896,
+  "handle" : "habluni",
+  "countHistoryTasks" : 5,
+  "historyTasks" : [ {
+    "id" : 30031929,
+    "name" : "Release Assembly - TopCoder Cockpit Direct UI Text and Layout Bugs Termination",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "JSP", "HTML", "JavaScript", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2012-12-22",
+    "registrationEndDate" : "2012-12-26",
+    "submissionEndDate" : "2012-12-28",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "ahmadmam",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "habluni",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "slavik990",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "ZPetrovich",
+      "registrationDate" : "2012-12-22"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-12-23"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-12-23"
+    }, {
+      "handle" : "sailakshmi_b",
+      "registrationDate" : "2012-12-23"
+    }, {
+      "handle" : "McFn",
+      "registrationDate" : "2012-12-24"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2012-12-24"
+    }, {
+      "handle" : "lintc",
+      "registrationDate" : "2012-12-24"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2012-12-26"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-12-26"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Ghost_141",
+      "placement" : 1,
+      "score" : 86.41,
+      "submissionDate" : "2012-12-27"
+    }, {
+      "handle" : "ZPetrovich",
+      "placement" : 2,
+      "score" : 84.95,
+      "submissionDate" : "2012-12-27"
+    }, {
+      "handle" : "slavik990",
+      "placement" : 3,
+      "score" : 76.41,
+      "submissionDate" : "2012-12-27"
+    } ]
+  }, {
+    "id" : 30027477,
+    "name" : "BP Catalog Data Filtering Javascript",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "HTML", "JavaScript", "JSON" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-15",
+    "registrationEndDate" : "2012-05-17",
+    "submissionEndDate" : "2012-05-19",
+    "prizes" : [ 750.0, 375.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "moulyg",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "parampreetsingh",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "sokol",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "roopats",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "faeton",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "KLW",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "rakeshk_87",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "habluni",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "akinwale",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "restricteur",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "lxj09",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "Birlax",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "semmalai.sona",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "selvaa89",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "dori",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "victor.juquila",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "KeSyren",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-05-17"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "sokol",
+      "placement" : 1,
+      "score" : 99.91,
+      "submissionDate" : "2012-05-18"
+    }, {
+      "handle" : "moulyg",
+      "placement" : 2,
+      "score" : 94.84,
+      "submissionDate" : "2012-05-16"
+    }, {
+      "handle" : "selvaa89",
+      "placement" : 3,
+      "score" : 90.42,
+      "submissionDate" : "2012-05-18"
+    }, {
+      "handle" : "restricteur",
+      "placement" : 4,
+      "score" : 89.53,
+      "submissionDate" : "2012-05-17"
+    }, {
+      "handle" : "habluni",
+      "placement" : 5,
+      "score" : 88.42,
+      "submissionDate" : "2012-05-17"
+    }, {
+      "handle" : "dori",
+      "placement" : 6,
+      "score" : 83.81,
+      "submissionDate" : "2012-05-18"
+    } ]
+  }, {
+    "id" : 15125,
+    "name" : "Marathon Match 76 - Marathon Match 76",
+    "type" : "DATA_SCIENCE",
+    "subType" : "MARATHON_MATCH",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "registrationEndDate" : "2012-05-16",
+    "submissionEndDate" : "2012-05-16",
+    "prizes" : [ ],
+    "numRegistrants" : 123,
+    "registrants" : [ {
+      "handle" : "slavik990",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "pvs2000",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "sandy.nerd",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "SSirakov",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "wleite",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "Ortiga",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "KOHUNAL2012",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "pszoldan",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "anurag.mala",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Rafajafar",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Calros",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "kiwi_maracuja",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "chivery",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Blazde",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "nitinpanuganti",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Garalic",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "LuoDS",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "rseal",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "lllyyy1000",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "LuckyBug007",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "ryandy",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "oripipa",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "sonaanos",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "cuayzaq",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "JingG",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "gaofei.upc",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "gaelreinaudi",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "inquisidor",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "wangsouc",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "Ammykaur",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "kaushikdan",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "garriual",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "dave777",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "arnaud_fl",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "nakilep",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "zinlinez",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "Rooo",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "krrahulranjan",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "Mattje",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "sherwin911",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "qishun.wang",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "kanagarajyahoo",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "lmatt",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "ashutoshdtu",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "darrenhp",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "mikko_arlanza",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "Yizer_Scarlett",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "meacer",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "FerOcRom",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "neko13",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "CoderPio",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "akino",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "somay.jain",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "KostikBigOne",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "CiRu77",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "phoenix24",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "shyru",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "Syavka",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "JOmegaCV",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "pierre.lacave",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "nyeung",
+      "registrationDate" : "2012-05-08"
+    }, {
+      "handle" : "chanming",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "kang205",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "leontooth",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "kagiaapa",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "devnoza",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "sameerkpatil",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "JoMak",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "mr_ntt",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "ChaseExcellence",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "mutou1989",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "tufte87",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "mrdooz",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "mohanjsm",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "shush",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "prabhs",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "zhanglanyunas",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "tpkey",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "Bones",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "jilansakaria",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "survival07",
+      "registrationDate" : "2012-05-09"
+    }, {
+      "handle" : "vinocit",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "gladiator_248",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "sonnyhe2002",
+      "registrationDate" : "2012-05-10"
+    }, {
+      "handle" : "rhennig2",
+      "registrationDate" : "2012-05-11"
+    }, {
+      "handle" : "derketzer",
+      "registrationDate" : "2012-05-11"
+    }, {
+      "handle" : "mcgrady3",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "ankiit",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "mf_101",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "usg",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "rogercallster",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "vivek17geek",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "blazy2k9",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "ebin",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "BIT_koolcoder",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "ccoder4u",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "Aerofoil.kite",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "mailshanx",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "nancyesmis",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "gianela.apaza",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "odieduck",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "ahmedj",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "parikshit17",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "nihed",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "liyini",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "mesutcang",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "Alpha_Ulrich",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "Furney",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "douglasren",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "krishten",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "habluni",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "ACRush",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "brettkk",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "Akagi201",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "Blue_Heart",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "bobulisk",
+      "registrationDate" : "2012-05-15"
+    }, {
+      "handle" : "citycan_1991",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "driskah",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "mahigupta",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "luojj",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "wilsonlym",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "leisurem",
+      "registrationDate" : "2012-05-16"
+    }, {
+      "handle" : "heguannan",
+      "registrationDate" : "2012-05-16"
+    } ],
+    "numSubmitters" : 0,
+    "submitters" : [ ]
+  }, {
+    "id" : 30025460,
+    "name" : "TopCoder Analytics - Start a New Project Flow UI Prototype",
+    "type" : "DEVELOP",
+    "subType" : "UI_PROTOTYPE_COMPETITION",
+    "technologies" : [ "HTML", "JavaScript", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-02",
+    "registrationEndDate" : "2012-05-04",
+    "submissionEndDate" : "2012-05-07",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "dobavictor",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "virose",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "jasonr",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "babyfox",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "planet05",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "habluni",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "14blades",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "flyerfox",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "rtriv",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-05-04"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "babyfox",
+      "placement" : 1,
+      "score" : 93.0,
+      "submissionDate" : "2012-05-07"
+    }, {
+      "handle" : "jasonr",
+      "placement" : 2,
+      "score" : 81.56,
+      "submissionDate" : "2012-05-07"
+    } ]
+  }, {
+    "id" : 30026823,
+    "name" : "Aggregate XML Java Batch Job",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2012-04-27",
+    "registrationEndDate" : "2012-04-29",
+    "submissionEndDate" : "2012-05-01",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 40,
+    "registrants" : [ {
+      "handle" : "lxj09",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "hesibo",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "mracsko",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "mm126",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "leonardWang",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "sakar2003",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "besabestin",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "weiqizheng",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "abhijitsarkhel",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "ahmed.seddiq",
+      "registrationDate" : "2012-04-27"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "bannie2492",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "xbingo",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "linfengpu",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "savon_cn",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "cjie888_tc",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "htfans",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "rajwirock",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "habluni",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "March1896",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "meetanshu",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "vasundar",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "zulo",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "waterbow",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "haohao86",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "restricteur",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "victor.juquila",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2012-04-28"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2012-04-29"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2012-04-29"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "sakar2003",
+      "placement" : 1,
+      "score" : 97.8,
+      "submissionDate" : "2012-05-01"
+    }, {
+      "handle" : "sparemax",
+      "placement" : 2,
+      "score" : 96.46,
+      "submissionDate" : "2012-05-01"
+    }, {
+      "handle" : "leonardWang",
+      "placement" : 3,
+      "score" : 93.87,
+      "submissionDate" : "2012-04-30"
+    }, {
+      "handle" : "bannie2492",
+      "placement" : 4,
+      "score" : 83.96,
+      "submissionDate" : "2012-05-01"
+    }, {
+      "handle" : "savon_cn",
+      "placement" : 5,
+      "score" : 79.5,
+      "submissionDate" : "2012-04-30"
+    } ]
+  } ]
+}

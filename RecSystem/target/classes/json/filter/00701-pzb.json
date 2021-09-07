@@ -1,0 +1,597 @@
+{
+  "id" : 701,
+  "handle" : "pzb",
+  "countHistoryTasks" : 6,
+  "historyTasks" : [ {
+    "id" : 30018567,
+    "name" : "Release Assembly - CS-Stem Billiards Game to Portlet Release Version",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-07-11",
+    "registrationEndDate" : "2011-07-13",
+    "submissionEndDate" : "2011-07-18",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "chittybo",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "pzb",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "ksma",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2011-07-11"
+    }, {
+      "handle" : "isugarly",
+      "registrationDate" : "2011-07-12"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2011-07-12"
+    }, {
+      "handle" : "Minwei_ji",
+      "registrationDate" : "2011-07-12"
+    }, {
+      "handle" : "qinxd",
+      "registrationDate" : "2011-07-12"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-07-12"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-07-12"
+    }, {
+      "handle" : "xjtufreeman",
+      "registrationDate" : "2011-07-13"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-07-13"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "codercat",
+      "placement" : 1,
+      "score" : 80.26,
+      "submissionDate" : "2011-07-17"
+    }, {
+      "handle" : "rajeshk87",
+      "placement" : 2,
+      "score" : 69.9,
+      "submissionDate" : "2011-07-17"
+    }, {
+      "handle" : "TMALBONPH",
+      "placement" : 3,
+      "score" : 66.25,
+      "submissionDate" : "2011-07-17"
+    } ]
+  }, {
+    "id" : 30017848,
+    "name" : "Release Assembly - TC Cockpit Sidebar Header and Footer Update",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JSP", "HTML", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-06-02",
+    "registrationEndDate" : "2011-06-04",
+    "submissionEndDate" : "2011-06-07",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 22,
+    "registrants" : [ {
+      "handle" : "leo_lol",
+      "registrationDate" : "2011-06-02"
+    }, {
+      "handle" : "Blues",
+      "registrationDate" : "2011-06-02"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2011-06-02"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2011-06-02"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2011-06-02"
+    }, {
+      "handle" : "gaofei.upc",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "babyfox",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "xjtufreeman",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "shawn2008",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-06-04"
+    }, {
+      "handle" : "hsy541",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "slayercoder",
+      "registrationDate" : "2011-06-03"
+    }, {
+      "handle" : "snguyen",
+      "registrationDate" : "2011-06-04"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2011-06-04"
+    }, {
+      "handle" : "cristianregep",
+      "registrationDate" : "2011-06-04"
+    }, {
+      "handle" : "pzb",
+      "registrationDate" : "2011-06-04"
+    }, {
+      "handle" : "KeSyren",
+      "registrationDate" : "2011-06-02"
+    }, {
+      "handle" : "winsty",
+      "registrationDate" : "2011-06-02"
+    }, {
+      "handle" : "HumbleSunflower",
+      "registrationDate" : "2011-06-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Blues",
+      "placement" : 1,
+      "score" : 98.02,
+      "submissionDate" : "2011-06-07"
+    }, {
+      "handle" : "winsty",
+      "placement" : 2,
+      "score" : 95.21,
+      "submissionDate" : "2011-06-07"
+    }, {
+      "handle" : "xjtufreeman",
+      "placement" : 3,
+      "score" : 91.25,
+      "submissionDate" : "2011-06-07"
+    }, {
+      "handle" : "leo_lol",
+      "placement" : 4,
+      "score" : 89.38,
+      "submissionDate" : "2011-06-07"
+    } ]
+  }, {
+    "id" : 30017485,
+    "name" : "Release Assembly - CS-Stem Billiards Game Beta",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML", "JavaScript", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2011-05-13",
+    "registrationEndDate" : "2011-05-15",
+    "submissionEndDate" : "2011-05-18",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "pzb",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-05-13"
+    }, {
+      "handle" : "jakev",
+      "registrationDate" : "2011-05-13"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-05-13"
+    }, {
+      "handle" : "norrista",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "Beijing2008",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "pkuwood",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "chrysts",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "tangzx",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "HumbleSunflower",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "mashuper",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-05-15"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "tangzx",
+      "placement" : 1,
+      "score" : 94.93,
+      "submissionDate" : "2011-05-18"
+    }, {
+      "handle" : "pzb",
+      "placement" : 2,
+      "score" : 94.86,
+      "submissionDate" : "2011-05-18"
+    }, {
+      "handle" : "mumujava",
+      "placement" : 3,
+      "score" : 85.97,
+      "submissionDate" : "2011-05-18"
+    }, {
+      "handle" : "TMALBONPH",
+      "placement" : 4,
+      "score" : 81.7,
+      "submissionDate" : "2011-05-18"
+    }, {
+      "handle" : "chrysts",
+      "placement" : 5,
+      "score" : 67.03,
+      "submissionDate" : "2011-05-15"
+    } ]
+  }, {
+    "id" : 30017239,
+    "name" : "CS-Stem Billiards Game Proof of Concept Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "HTML", "JavaScript", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2011-04-23",
+    "registrationEndDate" : "2011-04-25",
+    "submissionEndDate" : "2011-04-28",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 37,
+    "registrants" : [ {
+      "handle" : "evilisneo",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "utlovey",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "mydeen",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "sandaruwang",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "jakev",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "reapp",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "weiqizheng",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "ghost32",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "Eeyore",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "elkhawajah",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "sunnysummer",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "HumbleSunflower",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "n_i_r_a_n_j_a_n",
+      "registrationDate" : "2011-04-23"
+    }, {
+      "handle" : "pvmagacho",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "dweng",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "UberMenzh",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "pzb",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "Beijing2008",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "Fanazhe",
+      "registrationDate" : "2011-04-24"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2011-04-25"
+    }, {
+      "handle" : "vangavroche",
+      "registrationDate" : "2011-04-25"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "utlovey",
+      "placement" : 1,
+      "score" : 98.7,
+      "submissionDate" : "2011-04-27"
+    }, {
+      "handle" : "pzb",
+      "placement" : 2,
+      "score" : 81.2,
+      "submissionDate" : "2011-04-27"
+    }, {
+      "handle" : "evilisneo",
+      "placement" : 3,
+      "score" : 79.38,
+      "submissionDate" : "2011-04-28"
+    }, {
+      "handle" : "mumujava",
+      "placement" : 4,
+      "score" : 77.86,
+      "submissionDate" : "2011-04-27"
+    }, {
+      "handle" : "sunnysummer",
+      "placement" : 5,
+      "score" : 69.17,
+      "submissionDate" : "2011-04-27"
+    }, {
+      "handle" : "sandaruwang",
+      "placement" : 6,
+      "score" : 67.3,
+      "submissionDate" : "2011-04-28"
+    } ]
+  }, {
+    "id" : 30012869,
+    "name" : "Ilium DRTV Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ ".NET 3.5", "Windows Server", "Commerce Server 2009" ],
+    "status" : "Completed",
+    "postingDate" : "2010-06-28",
+    "registrationEndDate" : "2010-06-30",
+    "submissionEndDate" : "2010-07-02",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "sare",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "grey220022",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "hello-c",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "kshilpa",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "sapsaxen",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "ANASS",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "priya.narayanan",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "QASH",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "zhilizhe",
+      "registrationDate" : "2010-06-29"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2010-06-29"
+    }, {
+      "handle" : "ranjkuma",
+      "registrationDate" : "2010-06-29"
+    }, {
+      "handle" : "jayacdm",
+      "registrationDate" : "2010-06-29"
+    }, {
+      "handle" : "Derwish",
+      "registrationDate" : "2010-06-29"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2010-06-29"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "hello-c",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2010-06-30"
+    }, {
+      "handle" : "winterflame",
+      "placement" : 2,
+      "score" : 75.0,
+      "submissionDate" : "2010-06-30"
+    }, {
+      "handle" : "QASH",
+      "placement" : 3,
+      "score" : 75.0,
+      "submissionDate" : "2010-06-30"
+    } ]
+  }, {
+    "id" : 30012875,
+    "name" : "Ilium Great Cleaners Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ ".NET 3.5", "Windows Server", "Commerce Server 2009" ],
+    "status" : "Completed",
+    "postingDate" : "2010-06-26",
+    "registrationEndDate" : "2010-06-28",
+    "submissionEndDate" : "2010-07-01",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "hello-c",
+      "registrationDate" : "2010-06-26"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2010-06-26"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2010-06-26"
+    }, {
+      "handle" : "grey220022",
+      "registrationDate" : "2010-06-26"
+    }, {
+      "handle" : "priya.narayanan",
+      "registrationDate" : "2010-06-26"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2010-06-27"
+    }, {
+      "handle" : "ivanlx07",
+      "registrationDate" : "2010-06-27"
+    }, {
+      "handle" : "kshilpa",
+      "registrationDate" : "2010-06-27"
+    }, {
+      "handle" : "weiqizheng",
+      "registrationDate" : "2010-06-27"
+    }, {
+      "handle" : "Foxzilla",
+      "registrationDate" : "2010-06-28"
+    }, {
+      "handle" : "QASH",
+      "registrationDate" : "2010-06-26"
+    }, {
+      "handle" : "ANASS",
+      "registrationDate" : "2010-06-26"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2010-06-27"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "hello-c",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2010-06-30"
+    }, {
+      "handle" : "winterflame",
+      "placement" : 2,
+      "score" : 75.0,
+      "submissionDate" : "2010-06-30"
+    }, {
+      "handle" : "QASH",
+      "placement" : 3,
+      "score" : 75.0,
+      "submissionDate" : "2010-06-30"
+    } ]
+  } ]
+}

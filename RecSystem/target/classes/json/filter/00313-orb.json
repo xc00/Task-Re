@@ -1,0 +1,135 @@
+{
+  "id" : 313,
+  "handle" : "orb",
+  "countHistoryTasks" : 3,
+  "historyTasks" : [ {
+    "id" : 7438420,
+    "name" : "SAML Authenticator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2003-10-09",
+    "registrationEndDate" : "2003-10-12",
+    "submissionEndDate" : "2003-10-22",
+    "prizes" : [ 134.0, 67.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "kyky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TangentZ",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TangentZ",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aksonov",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "FTolToaster",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "isv",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PancakesBiteYou",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "StrongHold",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "isv",
+      "placement" : 1,
+      "score" : 87.65,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 7444953,
+    "name" : "ID Generator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "J2EE", "Java", "EJB", "JDBC" ],
+    "status" : "Completed",
+    "postingDate" : "2003-10-02",
+    "registrationEndDate" : "2003-10-05",
+    "submissionEndDate" : "2003-10-08",
+    "prizes" : [ 115.0, 57.5 ],
+    "numRegistrants" : 4,
+    "registrants" : [ {
+      "handle" : "srowen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "isv",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "jlaxson",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "acv_bruno",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "srowen",
+      "placement" : 1,
+      "score" : 91.96,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 7438242,
+    "name" : "Load Estimator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2003-09-04",
+    "registrationEndDate" : "2003-09-07",
+    "submissionEndDate" : "2003-09-17",
+    "prizes" : [ 173.0, 86.5 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "memetic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TangentZ",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rbnn",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MPhk",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "TheCois",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "isv",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "PancakesBiteYou",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mess",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Yi_Zhang",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "StrongHold",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "isv",
+      "placement" : 1,
+      "score" : 90.86,
+      "submissionDate" : "2006-11-02"
+    } ]
+  } ]
+}

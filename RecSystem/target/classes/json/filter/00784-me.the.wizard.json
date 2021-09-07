@@ -1,0 +1,52 @@
+{
+  "id" : 784,
+  "handle" : "me.the.wizard",
+  "countHistoryTasks" : 2,
+  "historyTasks" : [ {
+    "id" : 30005006,
+    "name" : "Hestia PROFLO",
+    "type" : "DEVELOP",
+    "subType" : "ARCHITECTURE",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2008-08-06",
+    "registrationEndDate" : "2008-08-07",
+    "submissionEndDate" : "2008-08-07",
+    "prizes" : [ 0.0, 0.0 ],
+    "numRegistrants" : 1,
+    "registrants" : [ {
+      "handle" : "me.the.wizard",
+      "registrationDate" : "2008-08-06"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "me.the.wizard",
+      "placement" : 1,
+      "score" : 86.99,
+      "submissionDate" : "2008-08-07"
+    } ]
+  }, {
+    "id" : 30003895,
+    "name" : "Hestia Online 1.9",
+    "type" : "DEVELOP",
+    "subType" : "ARCHITECTURE",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2008-02-28",
+    "registrationEndDate" : "2008-03-04",
+    "submissionEndDate" : "2008-03-09",
+    "prizes" : [ 0.0, 0.0 ],
+    "numRegistrants" : 1,
+    "registrants" : [ {
+      "handle" : "me.the.wizard",
+      "registrationDate" : "2008-02-27"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "me.the.wizard",
+      "placement" : 1,
+      "score" : 81.12,
+      "submissionDate" : "2008-03-07"
+    } ]
+  } ]
+}

@@ -1,0 +1,3863 @@
+{
+  "id" : 76,
+  "handle" : "jiaruipu",
+  "countHistoryTasks" : 50,
+  "historyTasks" : [ {
+    "id" : 30028118,
+    "name" : "Integration Assembly - CS-STEM Coding School",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "MySQL" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2012-06-19",
+    "registrationEndDate" : "2012-06-21",
+    "submissionEndDate" : "2012-06-24",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "jol",
+      "registrationDate" : "2012-06-19"
+    }, {
+      "handle" : "monopoly",
+      "registrationDate" : "2012-06-19"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-06-19"
+    }, {
+      "handle" : "AhmadFathi",
+      "registrationDate" : "2012-06-19"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-06-19"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-06-20"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-06-20"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-06-19"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "monopoly",
+      "placement" : 1,
+      "score" : 70.0,
+      "submissionDate" : "2012-06-23"
+    } ]
+  }, {
+    "id" : 30027868,
+    "name" : "Release Assembly - Contract Front End - Front End Enhancements Part 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-06-03",
+    "registrationEndDate" : "2012-06-05",
+    "submissionEndDate" : "2012-06-11",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "Rkt119",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "itkankan",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-06-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Rkt119",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-06-10"
+    } ]
+  }, {
+    "id" : 30027362,
+    "name" : "Module Assembly - CS-STEM Coding School Projects and Lesson List Portlets",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "MySQL" ],
+    "status" : "Completed",
+    "postingDate" : "2012-06-04",
+    "registrationEndDate" : "2012-06-06",
+    "submissionEndDate" : "2012-06-09",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "microsky",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "monopoly",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "sampath01",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-06-04"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "monopoly",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-06-08"
+    }, {
+      "handle" : "j3_guile",
+      "placement" : 2,
+      "score" : 99.38,
+      "submissionDate" : "2012-06-08"
+    } ]
+  }, {
+    "id" : 30027360,
+    "name" : "Module Assembly - CS-STEM Coding School Projects and Lesson Taking Portlets",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "MySQL" ],
+    "status" : "Completed",
+    "postingDate" : "2012-06-04",
+    "registrationEndDate" : "2012-06-06",
+    "submissionEndDate" : "2012-06-09",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "Bones_",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "sampath01",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "monopoly",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-06-05"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "j3_guile",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-06-08"
+    }, {
+      "handle" : "monopoly",
+      "placement" : 2,
+      "score" : 76.67,
+      "submissionDate" : "2012-06-08"
+    } ]
+  }, {
+    "id" : 30027769,
+    "name" : "Module Assembly - CS-STEM Coding School Project Admin General Controllers and Pages",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-24",
+    "registrationEndDate" : "2012-05-28",
+    "submissionEndDate" : "2012-06-01",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-05-24"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-05-24"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-05-24"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-05-24"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-24"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-25"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2012-05-26"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-05-26"
+    }, {
+      "handle" : "monopoly",
+      "registrationDate" : "2012-05-27"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-05-25"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "j3_guile",
+      "placement" : 1,
+      "score" : 99.69,
+      "submissionDate" : "2012-05-31"
+    }, {
+      "handle" : "monopoly",
+      "placement" : 2,
+      "score" : 77.5,
+      "submissionDate" : "2012-06-01"
+    } ]
+  }, {
+    "id" : 30027314,
+    "name" : "Release Assembly - Contract Front End - Front End Enhancements Part 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JSP" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-20",
+    "registrationEndDate" : "2012-05-23",
+    "submissionEndDate" : "2012-05-28",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 25,
+    "registrants" : [ {
+      "handle" : "Luca",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "singularity82",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "kranthikumar",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "csy2012",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2012-05-21"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-05-22"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-05-22"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-05-22"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-05-22"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2012-05-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-21"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "j3_guile",
+      "placement" : 1,
+      "score" : 93.96,
+      "submissionDate" : "2012-05-25"
+    } ]
+  }, {
+    "id" : 30027197,
+    "name" : "Release Assembly - GLUI User Reconciliation",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-12",
+    "registrationEndDate" : "2012-05-14",
+    "submissionEndDate" : "2012-05-17",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 39,
+    "registrants" : [ {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "dljg718",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "zeadom",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "ankiit",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "Rkt119",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "rajwirock",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "csy2012",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "kranthikumar",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "pinoydream",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "Rossen",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "selvaa89",
+      "registrationDate" : "2012-05-12"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "qiriskiz",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-05-13"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-05-14"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-05-14"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "Rkt119",
+      "placement" : 1,
+      "score" : 97.03,
+      "submissionDate" : "2012-05-14"
+    }, {
+      "handle" : "sparemax",
+      "placement" : 2,
+      "score" : 95.36,
+      "submissionDate" : "2012-05-16"
+    }, {
+      "handle" : "frozenfx",
+      "placement" : 3,
+      "score" : 94.38,
+      "submissionDate" : "2012-05-16"
+    }, {
+      "handle" : "flytoj2ee",
+      "placement" : 4,
+      "score" : 94.11,
+      "submissionDate" : "2012-05-15"
+    }, {
+      "handle" : "Standlove",
+      "placement" : 5,
+      "score" : 93.7,
+      "submissionDate" : "2012-05-13"
+    }, {
+      "handle" : "LieutenantRoger",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2012-05-14"
+    } ]
+  }, {
+    "id" : 30025756,
+    "name" : "Release Assembly - Omicron Breeding Studio File Format Export Release",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML", "JavaScript", "Oracle 10g", "Spring", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-03",
+    "registrationEndDate" : "2012-05-05",
+    "submissionEndDate" : "2012-05-08",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "kalc",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "csy2012",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "hy162",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "nanayajsjs",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "michael_tang",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "deepsolo9",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "Bones_",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "chunw",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "kranthikumar",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "cjie888_tc",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-05-05"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-05-05"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "googlehunter",
+      "placement" : 1,
+      "score" : 89.53,
+      "submissionDate" : "2012-05-07"
+    } ]
+  }, {
+    "id" : 30027317,
+    "name" : "Release Assembly - Soybean Visualizer 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-02",
+    "registrationEndDate" : "2012-05-04",
+    "submissionEndDate" : "2012-05-06",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "Luca",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "csy2012",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-05-02"
+    }, {
+      "handle" : "kranthikumar",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "hesibo",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "ibraaaa",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-05-03"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-05-04"
+    }, {
+      "handle" : "rajwirock",
+      "registrationDate" : "2012-05-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "hesibo",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-05-06"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 2,
+      "score" : 99.58,
+      "submissionDate" : "2012-05-06"
+    }, {
+      "handle" : "flytoj2ee",
+      "placement" : 3,
+      "score" : 92.97,
+      "submissionDate" : "2012-05-06"
+    }, {
+      "handle" : "ibraaaa",
+      "placement" : 4,
+      "score" : 81.67,
+      "submissionDate" : "2012-05-06"
+    } ]
+  }, {
+    "id" : 30026922,
+    "name" : "Proof of Concept Assembly - Hermes Hibernate Lock Management",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Oracle 10g", "Spring", "Hibernate" ],
+    "status" : "Completed",
+    "postingDate" : "2012-04-18",
+    "registrationEndDate" : "2012-04-20",
+    "submissionEndDate" : "2012-04-23",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-04-18"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-04-18"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-04-18"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-04-18"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-04-18"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-04-18"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "abhijitsarkhel",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "zulo",
+      "registrationDate" : "2012-04-19"
+    }, {
+      "handle" : "romanoTC",
+      "registrationDate" : "2012-04-18"
+    }, {
+      "handle" : "KeSyren",
+      "registrationDate" : "2012-04-18"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "j3_guile",
+      "placement" : 1,
+      "score" : 96.93,
+      "submissionDate" : "2012-04-21"
+    }, {
+      "handle" : "Luca",
+      "placement" : 2,
+      "score" : 83.26,
+      "submissionDate" : "2012-04-23"
+    } ]
+  }, {
+    "id" : 30026884,
+    "name" : "Module Assembly - Soybean Report Query Resource",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-04-14",
+    "registrationEndDate" : "2012-04-16",
+    "submissionEndDate" : "2012-04-18",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "codercat",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "monopoly",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "kranthikumar",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "hesibo",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "KeSyren",
+      "registrationDate" : "2012-04-16"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-04-16"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-04-16"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "monopoly",
+      "placement" : 1,
+      "score" : 89.74,
+      "submissionDate" : "2012-04-18"
+    }, {
+      "handle" : "leo_lol",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2012-04-15"
+    } ]
+  }, {
+    "id" : 30026860,
+    "name" : "Module Assembly - Soybean Report Single Cross RM Difference Report",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-04-13",
+    "registrationEndDate" : "2012-04-15",
+    "submissionEndDate" : "2012-04-17",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-04-13"
+    }, {
+      "handle" : "monopoly",
+      "registrationDate" : "2012-04-13"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-04-13"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-04-13"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-04-13"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "kranthikumar",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "hesibo",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-04-15"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-04-14"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-04-14"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "monopoly",
+      "placement" : 1,
+      "score" : 96.67,
+      "submissionDate" : "2012-04-17"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 2,
+      "score" : 88.7,
+      "submissionDate" : "2012-04-17"
+    }, {
+      "handle" : "Luca",
+      "placement" : 3,
+      "score" : 85.63,
+      "submissionDate" : "2012-04-17"
+    }, {
+      "handle" : "hesibo",
+      "placement" : 4,
+      "score" : 85.57,
+      "submissionDate" : "2012-04-17"
+    }, {
+      "handle" : "arvind81983",
+      "placement" : 5,
+      "score" : 84.32,
+      "submissionDate" : "2012-04-17"
+    } ]
+  }, {
+    "id" : 30026571,
+    "name" : "Module Assembly - TMA Update",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "IBM WebSphere MQ" ],
+    "status" : "Completed",
+    "postingDate" : "2012-04-03",
+    "registrationEndDate" : "2012-04-05",
+    "submissionEndDate" : "2012-04-08",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "monopoly",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "abhijitsarkhel",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2012-04-04"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2012-04-04"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-04-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "monopoly",
+      "placement" : 1,
+      "score" : 93.07,
+      "submissionDate" : "2012-04-07"
+    } ]
+  }, {
+    "id" : 30026624,
+    "name" : "Release Assembly - Soybean Report Pedigree and Parents Enhancement",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-04-01",
+    "registrationEndDate" : "2012-04-03",
+    "submissionEndDate" : "2012-04-05",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "Luca",
+      "registrationDate" : "2012-04-01"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-04-01"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "DixonD",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-04-02"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "lys.ukr",
+      "registrationDate" : "2012-04-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-04-01"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "googlehunter",
+      "placement" : 1,
+      "score" : 93.49,
+      "submissionDate" : "2012-04-05"
+    }, {
+      "handle" : "lys.ukr",
+      "placement" : 2,
+      "score" : 78.7,
+      "submissionDate" : "2012-04-05"
+    }, {
+      "handle" : "Ghost_141",
+      "placement" : 3,
+      "score" : 75.89,
+      "submissionDate" : "2012-04-05"
+    } ]
+  }, {
+    "id" : 30026454,
+    "name" : "Module Assembly - Soybean Report Export Integration",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-03-22",
+    "registrationEndDate" : "2012-03-25",
+    "submissionEndDate" : "2012-03-27",
+    "prizes" : [ 900.0, 450.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "phead",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "iamontopcoder",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-03-22"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-03-23"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-03-23"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-03-23"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-03-23"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-03-23"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-03-24"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-03-24"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2012-03-25"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-03-24"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2012-03-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-03-23"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 98.85,
+      "submissionDate" : "2012-03-26"
+    }, {
+      "handle" : "iamontopcoder",
+      "placement" : 2,
+      "score" : 98.65,
+      "submissionDate" : "2012-03-27"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 3,
+      "score" : 97.81,
+      "submissionDate" : "2012-03-27"
+    } ]
+  }, {
+    "id" : 30026000,
+    "name" : "Module Assembly - Soybean Visualizer Report Framework",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-03-01",
+    "registrationEndDate" : "2012-03-03",
+    "submissionEndDate" : "2012-03-06",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 23,
+    "registrants" : [ {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-03-01"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "leonzhou",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "fish_ship",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "carbonfish",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "sankar777",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-03-02"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-03-02"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "googlehunter",
+      "placement" : 1,
+      "score" : 92.19,
+      "submissionDate" : "2012-03-06"
+    } ]
+  }, {
+    "id" : 30025804,
+    "name" : "Release Assembly - Omicron Breeding Studio Linkage Group Release",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML", "JavaScript", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-23",
+    "registrationEndDate" : "2012-02-25",
+    "submissionEndDate" : "2012-02-28",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 21,
+    "registrants" : [ {
+      "handle" : "iamontopcoder",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "sixfish",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "Kikixiao",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "smart_raghavan",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2012-02-24"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2012-02-25"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-02-23"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "iamontopcoder",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-02-28"
+    }, {
+      "handle" : "shen75",
+      "placement" : 2,
+      "score" : 89.74,
+      "submissionDate" : "2012-02-27"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 3,
+      "score" : 87.6,
+      "submissionDate" : "2012-02-27"
+    } ]
+  }, {
+    "id" : 30025868,
+    "name" : "Module Assembly - Panoptes Competition Mini Site Phase 1 Services Assembly 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "MySQL" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-21",
+    "registrationEndDate" : "2012-02-23",
+    "submissionEndDate" : "2012-02-27",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 28,
+    "registrants" : [ {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "wintokk",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "anacharsis",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "jpp79",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "arylio",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-02-23"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "deepsolo9",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2012-02-22"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "sparemax",
+      "placement" : 1,
+      "score" : 96.61,
+      "submissionDate" : "2012-02-27"
+    }, {
+      "handle" : "hanshuai",
+      "placement" : 2,
+      "score" : 87.55,
+      "submissionDate" : "2012-02-27"
+    }, {
+      "handle" : "deepsolo9",
+      "placement" : 3,
+      "score" : 83.13,
+      "submissionDate" : "2012-02-27"
+    } ]
+  }, {
+    "id" : 30025862,
+    "name" : "Module Assembly - InSPIRE Zero Robotics Plotting Tool",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-20",
+    "registrationEndDate" : "2012-02-22",
+    "submissionEndDate" : "2012-02-25",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 21,
+    "registrants" : [ {
+      "handle" : "sjbr",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "carbonfish",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "leonzhou",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "arvind81983",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "snguyen",
+      "registrationDate" : "2012-02-22"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-02-22"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "morehappiness",
+      "placement" : 1,
+      "score" : 99.32,
+      "submissionDate" : "2012-02-23"
+    } ]
+  }, {
+    "id" : 30019763,
+    "name" : "Module Assembly - Data Analysis File Combiners Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-20",
+    "registrationEndDate" : "2012-02-22",
+    "submissionEndDate" : "2012-02-24",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 36,
+    "registrants" : [ {
+      "handle" : "moming",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "iRabbit",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "zjut_DD",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "gevak",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "KeSyren",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "VE",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "selvaa89",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "LazyChild",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "deepsolo9",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "hesibo",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "maksimilian",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "hongyan",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "torghul",
+      "registrationDate" : "2012-02-21"
+    }, {
+      "handle" : "leonzhou",
+      "registrationDate" : "2012-02-20"
+    } ],
+    "numSubmitters" : 8,
+    "submitters" : [ {
+      "handle" : "iRabbit",
+      "placement" : 1,
+      "score" : 99.82,
+      "submissionDate" : "2012-02-23"
+    }, {
+      "handle" : "sparemax",
+      "placement" : 2,
+      "score" : 99.74,
+      "submissionDate" : "2012-02-22"
+    }, {
+      "handle" : "gevak",
+      "placement" : 3,
+      "score" : 99.69,
+      "submissionDate" : "2012-02-23"
+    }, {
+      "handle" : "leo_lol",
+      "placement" : 4,
+      "score" : 85.46,
+      "submissionDate" : "2012-02-23"
+    }, {
+      "handle" : "moming",
+      "placement" : 5,
+      "score" : 79.06,
+      "submissionDate" : "2012-02-23"
+    }, {
+      "handle" : "freegod",
+      "placement" : 6,
+      "score" : 76.98,
+      "submissionDate" : "2012-02-21"
+    }, {
+      "handle" : "deepsolo9",
+      "placement" : 7,
+      "score" : 76.88,
+      "submissionDate" : "2012-02-21"
+    }, {
+      "handle" : "Ghost_141",
+      "placement" : 8,
+      "score" : 73.59,
+      "submissionDate" : "2012-02-23"
+    } ]
+  }, {
+    "id" : 30025855,
+    "name" : "Module Assembly - InSPIRE Zero Robotics GSP and Simulation Result Updates",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-18",
+    "registrationEndDate" : "2012-02-20",
+    "submissionEndDate" : "2012-02-23",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-18"
+    }, {
+      "handle" : "wintokk",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "leonzhou",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-02-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-18"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2012-02-19"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2012-02-20"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "morehappiness",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2012-02-23"
+    }, {
+      "handle" : "duxiaoyang",
+      "placement" : 2,
+      "score" : 87.81,
+      "submissionDate" : "2012-02-23"
+    } ]
+  }, {
+    "id" : 30025782,
+    "name" : "Module Assembly - Morpheus EODS Dashboard Part 1 Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Oracle 10g", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-15",
+    "registrationEndDate" : "2012-02-17",
+    "submissionEndDate" : "2012-02-21",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 29,
+    "registrants" : [ {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "leonzhou",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "jpp79",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "wintokk",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "anacharsis",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-15"
+    }, {
+      "handle" : "csy2012",
+      "registrationDate" : "2012-02-16"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-16"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-02-16"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-16"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2012-02-16"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-02-17"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-17"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-02-17"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2012-02-17"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-16"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Standlove",
+      "placement" : 1,
+      "score" : 84.58,
+      "submissionDate" : "2012-02-20"
+    } ]
+  }, {
+    "id" : 30025731,
+    "name" : "Release Assembly - Morpheus Business Planner Demo App Pages and Controllers Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-13",
+    "registrationEndDate" : "2012-02-15",
+    "submissionEndDate" : "2012-02-20",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 34,
+    "registrants" : [ {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "iamontopcoder",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "March1896",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "nikolay83",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "isv",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "selvaa89",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "rrr_guru",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "jpp79",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "torghul",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2012-02-14"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-13"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-02-14"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "iamontopcoder",
+      "placement" : 1,
+      "score" : 92.03,
+      "submissionDate" : "2012-02-19"
+    } ]
+  }, {
+    "id" : 30025650,
+    "name" : "Module Assembly - SciApp Applications Deployment Part II",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-08",
+    "registrationEndDate" : "2012-02-10",
+    "submissionEndDate" : "2012-02-13",
+    "prizes" : [ 1700.0, 850.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "deepsolo9",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-02-10"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-10"
+    }, {
+      "handle" : "jpp79",
+      "registrationDate" : "2012-02-10"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-02-10"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-02-09"
+    }, {
+      "handle" : "moonli",
+      "registrationDate" : "2012-02-09"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Standlove",
+      "placement" : 1,
+      "score" : 93.33,
+      "submissionDate" : "2012-02-12"
+    }, {
+      "handle" : "flytoj2ee",
+      "placement" : 2,
+      "score" : 92.4,
+      "submissionDate" : "2012-02-13"
+    }, {
+      "handle" : "deepsolo9",
+      "placement" : 3,
+      "score" : 88.54,
+      "submissionDate" : "2012-02-13"
+    } ]
+  }, {
+    "id" : 30025548,
+    "name" : "Release Assembly - Omicron Breeding Studio Client Change Requests Release",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML", "JavaScript", "Oracle 10g", "CSS" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-06",
+    "registrationEndDate" : "2012-02-08",
+    "submissionEndDate" : "2012-02-11",
+    "prizes" : [ 1700.0, 850.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-06"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-02-06"
+    }, {
+      "handle" : "Bones_",
+      "registrationDate" : "2012-02-06"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-02-06"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-06"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-07"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-02-07"
+    }, {
+      "handle" : "iamontopcoder",
+      "registrationDate" : "2012-02-07"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-02-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-07"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-07"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-02-07"
+    }, {
+      "handle" : "crackme",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2012-02-08"
+    }, {
+      "handle" : "moonli",
+      "registrationDate" : "2012-02-06"
+    }, {
+      "handle" : "crashkort",
+      "registrationDate" : "2012-02-07"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "iamontopcoder",
+      "placement" : 1,
+      "score" : 91.67,
+      "submissionDate" : "2012-02-11"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 2,
+      "score" : 77.6,
+      "submissionDate" : "2012-02-11"
+    } ]
+  }, {
+    "id" : 30025136,
+    "name" : "Release Assembly - CS-STEM Billiards Game Release Assembly 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2012-02-04",
+    "registrationEndDate" : "2012-02-06",
+    "submissionEndDate" : "2012-02-09",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "billthu",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "Lanius",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "csy2012",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-02-05"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-02-06"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-02-04"
+    }, {
+      "handle" : "xjtufreeman",
+      "registrationDate" : "2012-02-04"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "xjtufreeman",
+      "placement" : 1,
+      "score" : 95.77,
+      "submissionDate" : "2012-02-08"
+    } ]
+  }, {
+    "id" : 30025431,
+    "name" : "Module Assembly - Morpheus Business Planner Demo App Services Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2012-01-26",
+    "registrationEndDate" : "2012-01-28",
+    "submissionEndDate" : "2012-02-01",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "dcp",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "elaineding",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "abhijitsarkhel",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "mkader",
+      "registrationDate" : "2012-01-26"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-01-27"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-01-28"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2012-01-26"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "dcp",
+      "placement" : 1,
+      "score" : 99.53,
+      "submissionDate" : "2012-01-31"
+    } ]
+  }, {
+    "id" : 30025347,
+    "name" : "Release Assembly - Omicron Breeding Studio Parent vs Progeny Comparison Tool Release",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-01-18",
+    "registrationEndDate" : "2012-01-20",
+    "submissionEndDate" : "2012-01-24",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-01-18"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-01-18"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-01-18"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-01-18"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-01-19"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-01-19"
+    }, {
+      "handle" : "iamontopcoder",
+      "registrationDate" : "2012-01-19"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-01-19"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-01-19"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-01-20"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "iamontopcoder",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2012-01-23"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 2,
+      "score" : 92.29,
+      "submissionDate" : "2012-01-24"
+    } ]
+  }, {
+    "id" : 30025340,
+    "name" : "Module Assembly - InSPIRE Application Form Related Portlets",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-01-14",
+    "registrationEndDate" : "2012-01-16",
+    "submissionEndDate" : "2012-01-19",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "AhmadFathi",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2012-01-16"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "morehappiness",
+      "placement" : 1,
+      "score" : 97.03,
+      "submissionDate" : "2012-01-18"
+    } ]
+  }, {
+    "id" : 30025242,
+    "name" : "Module Assembly - SciApp Users and Roles",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-01-08",
+    "registrationEndDate" : "2012-01-10",
+    "submissionEndDate" : "2012-01-13",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "leafjungle",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-01-10"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-01-10"
+    }, {
+      "handle" : "torghul",
+      "registrationDate" : "2012-01-10"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "j3_guile",
+      "placement" : 1,
+      "score" : 96.46,
+      "submissionDate" : "2012-01-12"
+    } ]
+  }, {
+    "id" : 30025238,
+    "name" : "Release Assembly - Omicron Breeding Studio CorrChrom Tool Release",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Oracle 10g", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2012-01-07",
+    "registrationEndDate" : "2012-01-09",
+    "submissionEndDate" : "2012-01-11",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 21,
+    "registrants" : [ {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "iamontopcoder",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "abhijitsarkhel",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "leafjungle",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "pshd",
+      "registrationDate" : "2012-01-07"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "kawakami",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "GFalcon",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-01-08"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "moonli",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2012-01-09"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2012-01-08"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "iamontopcoder",
+      "placement" : 1,
+      "score" : 97.03,
+      "submissionDate" : "2012-01-11"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2012-01-11"
+    }, {
+      "handle" : "backstreetlili",
+      "placement" : 3,
+      "score" : 76.72,
+      "submissionDate" : "2012-01-11"
+    } ]
+  }, {
+    "id" : 30025140,
+    "name" : "Release Assembly - Omicron Breeding Studio P1 Release Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Oracle 10g" ],
+    "status" : "Completed",
+    "postingDate" : "2011-12-23",
+    "registrationEndDate" : "2011-12-25",
+    "submissionEndDate" : "2011-12-28",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "thientri",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "Bones_",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "isugarly",
+      "registrationDate" : "2011-12-24"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-12-24"
+    }, {
+      "handle" : "leafjungle",
+      "registrationDate" : "2011-12-24"
+    }, {
+      "handle" : "candrei",
+      "registrationDate" : "2011-12-24"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-12-24"
+    }, {
+      "handle" : "abhijitsarkhel",
+      "registrationDate" : "2011-12-24"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2011-12-25"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "isugarly",
+      "placement" : 1,
+      "score" : 98.33,
+      "submissionDate" : "2011-12-27"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 2,
+      "score" : 82.24,
+      "submissionDate" : "2011-12-28"
+    } ]
+  }, {
+    "id" : 30025133,
+    "name" : "Module Assembly - Omicron Breeding Studio CorrChrom Graph Rendering",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-12-22",
+    "registrationEndDate" : "2011-12-24",
+    "submissionEndDate" : "2011-12-26",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "xygan",
+      "registrationDate" : "2011-12-22"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2011-12-22"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2011-12-22"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-12-22"
+    }, {
+      "handle" : "UberMenzh",
+      "registrationDate" : "2011-12-22"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "notpad",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "googlehunter",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "diegoburruchaga",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-12-23"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-12-24"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-12-22"
+    }, {
+      "handle" : "moulyg",
+      "registrationDate" : "2011-12-22"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "shen75",
+      "placement" : 1,
+      "score" : 96.67,
+      "submissionDate" : "2011-12-25"
+    }, {
+      "handle" : "notpad",
+      "placement" : 2,
+      "score" : 94.48,
+      "submissionDate" : "2011-12-26"
+    }, {
+      "handle" : "moulyg",
+      "placement" : 3,
+      "score" : 92.29,
+      "submissionDate" : "2011-12-25"
+    }, {
+      "handle" : "diegoburruchaga",
+      "placement" : 4,
+      "score" : 85.31,
+      "submissionDate" : "2011-12-26"
+    }, {
+      "handle" : "xygan",
+      "placement" : 5,
+      "score" : 83.39,
+      "submissionDate" : "2011-12-26"
+    } ]
+  }, {
+    "id" : 30025113,
+    "name" : "Release Assembly - InSPIRE Zero Robotics Enhancement Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-12-20",
+    "registrationEndDate" : "2011-12-22",
+    "submissionEndDate" : "2011-12-25",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "j3_guile",
+      "registrationDate" : "2011-12-20"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-12-20"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2011-12-20"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2011-12-21"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-12-21"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-12-21"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-12-21"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-12-21"
+    }, {
+      "handle" : "jayacdm",
+      "registrationDate" : "2011-12-21"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "morehappiness",
+      "placement" : 1,
+      "score" : 89.17,
+      "submissionDate" : "2011-12-25"
+    } ]
+  }, {
+    "id" : 30023754,
+    "name" : "Release Assembly - QMATS Release Assembly 5",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-12-20",
+    "registrationEndDate" : "2011-12-22",
+    "submissionEndDate" : "2011-12-25",
+    "prizes" : [ 1300.0, 650.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "isugarly",
+      "registrationDate" : "2011-12-20"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2011-12-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-12-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-12-20"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-12-21"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-12-21"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-12-21"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "isugarly",
+      "placement" : 1,
+      "score" : 95.49,
+      "submissionDate" : "2011-12-24"
+    } ]
+  }, {
+    "id" : 30024934,
+    "name" : "Module Assembly - Omicron Breeding Studio Graphic Tools Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2011-12-08",
+    "registrationEndDate" : "2011-12-09",
+    "submissionEndDate" : "2011-12-11",
+    "prizes" : [ 2500.0, 1250.0 ],
+    "numRegistrants" : 6,
+    "registrants" : [ {
+      "handle" : "googlehunter",
+      "registrationDate" : "2011-12-08"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2011-12-09"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-12-09"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-12-09"
+    }, {
+      "handle" : "pshd",
+      "registrationDate" : "2011-12-09"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-12-08"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 94.55,
+      "submissionDate" : "2011-12-11"
+    }, {
+      "handle" : "duxiaoyang",
+      "placement" : 2,
+      "score" : 77.68,
+      "submissionDate" : "2011-12-11"
+    }, {
+      "handle" : "googlehunter",
+      "placement" : 3,
+      "score" : 66.51,
+      "submissionDate" : "2011-12-11"
+    } ]
+  }, {
+    "id" : 30024636,
+    "name" : "Plutus - iOS Documentation Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "TEST_SUITES",
+    "technologies" : [ "Word/Rich Text" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-26",
+    "registrationEndDate" : "2011-11-29",
+    "submissionEndDate" : "2011-12-02",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "mkvish",
+      "registrationDate" : "2011-11-26"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2011-11-26"
+    }, {
+      "handle" : "sarvmix",
+      "registrationDate" : "2011-11-26"
+    }, {
+      "handle" : "kshilpa",
+      "registrationDate" : "2011-11-26"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2011-11-26"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2011-11-26"
+    }, {
+      "handle" : "ambi_tam",
+      "registrationDate" : "2011-11-26"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2011-11-27"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-27"
+    }, {
+      "handle" : "hello-c",
+      "registrationDate" : "2011-11-27"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-11-28"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-28"
+    }, {
+      "handle" : "gabyja",
+      "registrationDate" : "2011-11-28"
+    }, {
+      "handle" : "weiqizheng",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2011-11-27"
+    } ],
+    "numSubmitters" : 8,
+    "submitters" : [ {
+      "handle" : "mkvish",
+      "placement" : 1,
+      "score" : 90.88,
+      "submissionDate" : "2011-11-30"
+    }, {
+      "handle" : "kshilpa",
+      "placement" : 2,
+      "score" : 86.88,
+      "submissionDate" : "2011-11-28"
+    }, {
+      "handle" : "ambi_tam",
+      "placement" : 3,
+      "score" : 80.63,
+      "submissionDate" : "2011-12-01"
+    }, {
+      "handle" : "gabyja",
+      "placement" : 4,
+      "score" : 76.13,
+      "submissionDate" : "2011-12-01"
+    }, {
+      "handle" : "akhil_bansal",
+      "placement" : 5,
+      "score" : 71.88,
+      "submissionDate" : "2011-11-28"
+    }, {
+      "handle" : "winterflame",
+      "placement" : 6,
+      "score" : 70.38,
+      "submissionDate" : "2011-11-27"
+    }, {
+      "handle" : "sare",
+      "placement" : 7,
+      "score" : 63.75,
+      "submissionDate" : "2011-11-27"
+    }, {
+      "handle" : "TAG",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-11-27"
+    } ]
+  }, {
+    "id" : 30024053,
+    "name" : "Module Assembly - Omicron Breeding Studio Query Tool Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Spring" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-23",
+    "registrationEndDate" : "2011-11-25",
+    "submissionEndDate" : "2011-11-29",
+    "prizes" : [ 2500.0, 1250.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "supercharger",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2011-11-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-11-23"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 97.03,
+      "submissionDate" : "2011-11-29"
+    } ]
+  }, {
+    "id" : 30024052,
+    "name" : "Module Assembly - Omicron Breeding Studio Miscellaneous Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-18",
+    "registrationEndDate" : "2011-11-20",
+    "submissionEndDate" : "2011-11-23",
+    "prizes" : [ 2500.0, 1250.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-19"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-19"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-11-19"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-11-19"
+    }, {
+      "handle" : "zlxwd",
+      "registrationDate" : "2011-11-20"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2011-11-20"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-19"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 99.48,
+      "submissionDate" : "2011-11-22"
+    } ]
+  }, {
+    "id" : 30024583,
+    "name" : "Module Assembly - Omicron Breeding Studio Demo Pages",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Oracle 10g", "Spring", "Active Directory" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-17",
+    "registrationEndDate" : "2011-11-19",
+    "submissionEndDate" : "2011-11-21",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-11-17"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-17"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-17"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2011-11-17"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-17"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "isugarly",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2011-11-18"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2011-11-19"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-19"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2011-11-19"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-11-19"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2011-11-21"
+    } ]
+  }, {
+    "id" : 30024514,
+    "name" : "Release Assembly - QMATS Release Assembly 4",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-12",
+    "registrationEndDate" : "2011-11-14",
+    "submissionEndDate" : "2011-11-17",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "deepsolo9",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "gentva",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "andresduque",
+      "registrationDate" : "2011-11-13"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 94.84,
+      "submissionDate" : "2011-11-15"
+    }, {
+      "handle" : "andresduque",
+      "placement" : 2,
+      "score" : 73.68,
+      "submissionDate" : "2011-11-16"
+    } ]
+  }, {
+    "id" : 30024495,
+    "name" : "Module Assembly - CS-Stem Facebook and Google OpenID Integration Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "HTML" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-10",
+    "registrationEndDate" : "2011-11-13",
+    "submissionEndDate" : "2011-11-16",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-11-10"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2011-11-10"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-10"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "Beijing2008",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2011-11-12"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 91.72,
+      "submissionDate" : "2011-11-16"
+    } ]
+  }, {
+    "id" : 30024438,
+    "name" : "Module Assembly - SciApp Backend Application Manager",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-06",
+    "registrationEndDate" : "2011-11-09",
+    "submissionEndDate" : "2011-11-11",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "minhu",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-07"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2011-11-09"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-11-08"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2011-11-10"
+    } ]
+  }, {
+    "id" : 30024322,
+    "name" : "Release Assembly - QMATS Release Assembly 3 Minor Bugs Fixing",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-01",
+    "registrationEndDate" : "2011-11-03",
+    "submissionEndDate" : "2011-11-06",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "babyfox",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "DerWonder",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "jayacdm",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "FireIce",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-02"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-11-02"
+    }, {
+      "handle" : "andresduque",
+      "registrationDate" : "2011-11-02"
+    }, {
+      "handle" : "moulyg",
+      "registrationDate" : "2011-11-03"
+    }, {
+      "handle" : "pvmagacho",
+      "registrationDate" : "2011-11-03"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2011-11-02"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2011-11-05"
+    }, {
+      "handle" : "FireIce",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2011-11-06"
+    }, {
+      "handle" : "duxiaoyang",
+      "placement" : 3,
+      "score" : 83.03,
+      "submissionDate" : "2011-11-05"
+    }, {
+      "handle" : "moulyg",
+      "placement" : 4,
+      "score" : 80.12,
+      "submissionDate" : "2011-11-05"
+    } ]
+  }, {
+    "id" : 30024355,
+    "name" : "Morpheus - Account History Tool Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Spring", "Struts" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-01",
+    "registrationEndDate" : "2011-11-03",
+    "submissionEndDate" : "2011-11-06",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "good2study",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "isv",
+      "registrationDate" : "2011-11-02"
+    }, {
+      "handle" : "mydeen",
+      "registrationDate" : "2011-11-03"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-11-01"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-03"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 97.19,
+      "submissionDate" : "2011-11-05"
+    }, {
+      "handle" : "fivestarwy",
+      "placement" : 2,
+      "score" : 72.55,
+      "submissionDate" : "2011-11-06"
+    } ]
+  }, {
+    "id" : 30024275,
+    "name" : "Release Assembly - QMATS Release Assembly 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-10-27",
+    "registrationEndDate" : "2011-10-29",
+    "submissionEndDate" : "2011-11-01",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "thientri",
+      "registrationDate" : "2011-10-27"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-10-27"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-10-27"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2011-10-27"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2011-10-27"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-10-27"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-10-27"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "pvmagacho",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "jayacdm",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-10-28"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-10-29"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2011-10-29"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 95.63,
+      "submissionDate" : "2011-11-01"
+    }, {
+      "handle" : "duxiaoyang",
+      "placement" : 2,
+      "score" : 86.88,
+      "submissionDate" : "2011-10-31"
+    } ]
+  }, {
+    "id" : 30023388,
+    "name" : "Module Assembly - TopCoder Cockpit Project Metadata Service Setup and Integration",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "JSP", "Java Application", "Struts", "JPA" ],
+    "status" : "Completed",
+    "postingDate" : "2011-10-24",
+    "registrationEndDate" : "2011-10-27",
+    "submissionEndDate" : "2011-10-30",
+    "prizes" : [ 900.0, 450.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "leo_lol",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "GreatKevin",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "akdbn",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-10-24"
+    }, {
+      "handle" : "isv",
+      "registrationDate" : "2011-10-25"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-10-25"
+    }, {
+      "handle" : "lin_ux",
+      "registrationDate" : "2011-10-25"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-10-25"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-10-25"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-10-25"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-10-25"
+    }, {
+      "handle" : "gentva",
+      "registrationDate" : "2011-10-27"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "GreatKevin",
+      "placement" : 1,
+      "score" : 97.68,
+      "submissionDate" : "2011-10-30"
+    }, {
+      "handle" : "jiaruipu",
+      "placement" : 2,
+      "score" : 92.5,
+      "submissionDate" : "2011-10-29"
+    } ]
+  }, {
+    "id" : 30024044,
+    "name" : "Proof of Concept Assembly - Omicron Breeding Studio System Perform Line Query",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-10-16",
+    "registrationEndDate" : "2011-10-18",
+    "submissionEndDate" : "2011-10-21",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-10-16"
+    }, {
+      "handle" : "pam04",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-10-18"
+    }, {
+      "handle" : "wintokk",
+      "registrationDate" : "2011-10-18"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 99.79,
+      "submissionDate" : "2011-10-20"
+    } ]
+  }, {
+    "id" : 30024013,
+    "name" : "Release Assembly - QMATS Bug Fix Release 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-10-13",
+    "registrationEndDate" : "2011-10-15",
+    "submissionEndDate" : "2011-10-18",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-10-13"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-10-13"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-10-13"
+    }, {
+      "handle" : "Fanazhe",
+      "registrationDate" : "2011-10-13"
+    }, {
+      "handle" : "babyfox",
+      "registrationDate" : "2011-10-14"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2011-10-14"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2011-10-14"
+    }, {
+      "handle" : "moulyg",
+      "registrationDate" : "2011-10-14"
+    }, {
+      "handle" : "dileepa",
+      "registrationDate" : "2011-10-14"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-10-15"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-10-15"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "jiaruipu",
+      "placement" : 1,
+      "score" : 98.96,
+      "submissionDate" : "2011-10-18"
+    }, {
+      "handle" : "morehappiness",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-10-17"
+    }, {
+      "handle" : "dileepa",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-10-18"
+    }, {
+      "handle" : "moulyg",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-10-18"
+    } ]
+  }, {
+    "id" : 30016568,
+    "name" : "Online Review Update Review Management Process assembly 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-03-03",
+    "registrationEndDate" : "2011-03-05",
+    "submissionEndDate" : "2011-03-08",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "wushooter",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "visuall",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "kanakarajank",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "linwe",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "flexme",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "bingnam",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "xjtufreeman",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "Blues",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "delight",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "jiaruipu",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-03-04"
+    }, {
+      "handle" : "isv",
+      "registrationDate" : "2011-03-04"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "flexme",
+      "placement" : 1,
+      "score" : 94.61,
+      "submissionDate" : "2011-03-08"
+    }, {
+      "handle" : "xjtufreeman",
+      "placement" : 2,
+      "score" : 76.48,
+      "submissionDate" : "2011-03-08"
+    }, {
+      "handle" : "kanakarajank",
+      "placement" : 3,
+      "score" : 69.92,
+      "submissionDate" : "2011-03-08"
+    } ]
+  } ]
+}

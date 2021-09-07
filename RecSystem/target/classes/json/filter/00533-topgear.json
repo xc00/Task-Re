@@ -1,0 +1,166 @@
+{
+  "id" : 533,
+  "handle" : "topgear",
+  "countHistoryTasks" : 3,
+  "historyTasks" : [ {
+    "id" : 30004044,
+    "name" : "Registry Utility",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ ".NET", "C#" ],
+    "status" : "Completed",
+    "postingDate" : "2008-03-14",
+    "registrationEndDate" : "2008-03-16",
+    "submissionEndDate" : "2008-03-17",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "saarixx",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "flying2hk",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "Ghostar",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2008-03-14"
+    }, {
+      "handle" : "gniuxiao",
+      "registrationDate" : "2008-03-15"
+    }, {
+      "handle" : "topgear",
+      "registrationDate" : "2008-03-15"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "saarixx",
+      "placement" : 1,
+      "score" : 94.02,
+      "submissionDate" : "2008-03-16"
+    }, {
+      "handle" : "flying2hk",
+      "placement" : 2,
+      "score" : 92.54,
+      "submissionDate" : "2008-03-16"
+    }, {
+      "handle" : "gniuxiao",
+      "placement" : 3,
+      "score" : 91.72,
+      "submissionDate" : "2008-03-17"
+    } ]
+  }, {
+    "id" : 30001340,
+    "name" : "JBoss Login Module",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "EJB", "Servlet" ],
+    "status" : "Completed",
+    "postingDate" : "2007-04-05",
+    "registrationEndDate" : "2007-04-08",
+    "submissionEndDate" : "2007-04-12",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2007-04-06"
+    }, {
+      "handle" : "topgear",
+      "registrationDate" : "2007-04-06"
+    }, {
+      "handle" : "tushak",
+      "registrationDate" : "2007-04-06"
+    }, {
+      "handle" : "ilovewii",
+      "registrationDate" : "2007-04-08"
+    }, {
+      "handle" : "patka",
+      "registrationDate" : "2007-04-08"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2007-04-08"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2007-04-08"
+    }, {
+      "handle" : "maone",
+      "registrationDate" : "2007-04-08"
+    }, {
+      "handle" : "kakarotto",
+      "registrationDate" : "2007-04-08"
+    }, {
+      "handle" : "shalinmangar",
+      "registrationDate" : "2007-04-07"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "kakarotto",
+      "placement" : 1,
+      "score" : 96.0,
+      "submissionDate" : "2007-04-11"
+    }, {
+      "handle" : "tushak",
+      "placement" : 2,
+      "score" : 93.98,
+      "submissionDate" : "2007-04-12"
+    }, {
+      "handle" : "ShindouHikaru",
+      "placement" : 3,
+      "score" : 89.88,
+      "submissionDate" : "2007-04-12"
+    } ]
+  }, {
+    "id" : 30001194,
+    "name" : "Component RS Object Model",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2007-03-22",
+    "registrationEndDate" : "2007-03-25",
+    "submissionEndDate" : "2007-03-29",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "enefem21",
+      "registrationDate" : "2007-03-23"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2007-03-23"
+    }, {
+      "handle" : "Ghostar",
+      "registrationDate" : "2007-03-23"
+    }, {
+      "handle" : "topgear",
+      "registrationDate" : "2007-03-25"
+    }, {
+      "handle" : "humblefool",
+      "registrationDate" : "2007-03-25"
+    }, {
+      "handle" : "oldbam",
+      "registrationDate" : "2007-03-25"
+    }, {
+      "handle" : "0",
+      "registrationDate" : "2007-03-25"
+    }, {
+      "handle" : "antimatter",
+      "registrationDate" : "2007-03-25"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Ghostar",
+      "placement" : 1,
+      "score" : 88.8,
+      "submissionDate" : "2007-03-29"
+    }, {
+      "handle" : "oldbam",
+      "placement" : 2,
+      "score" : 85.42,
+      "submissionDate" : "2007-03-29"
+    } ]
+  } ]
+}

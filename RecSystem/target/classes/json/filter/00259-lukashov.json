@@ -1,0 +1,2700 @@
+{
+  "id" : 259,
+  "handle" : "lukashov",
+  "countHistoryTasks" : 16,
+  "historyTasks" : [ {
+    "id" : 30040808,
+    "name" : "OPM SCRD and BRE Integration Bug Hunt",
+    "type" : "DEVELOP",
+    "subType" : "BUG_HUNT",
+    "technologies" : [ "J2EE" ],
+    "status" : "Completed",
+    "postingDate" : "2014-02-21",
+    "registrationEndDate" : "2014-02-23",
+    "submissionEndDate" : "2014-02-23",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "nithyaasworld",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "awtar",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "Athlet",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "sdgun",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2014-02-22"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2014-02-22"
+    }, {
+      "handle" : "raj88iitr",
+      "registrationDate" : "2014-02-22"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2014-02-23"
+    }, {
+      "handle" : "ambi_tam",
+      "registrationDate" : "2014-02-21"
+    }, {
+      "handle" : "onetliviu",
+      "registrationDate" : "2014-02-21"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "sdgun",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-02-23"
+    }, {
+      "handle" : "liumei",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2014-02-23"
+    }, {
+      "handle" : "onetliviu",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2014-02-23"
+    }, {
+      "handle" : "ambi_tam",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-02-23"
+    }, {
+      "handle" : "nithyaasworld",
+      "placement" : 5,
+      "score" : 60.0,
+      "submissionDate" : "2014-02-23"
+    }, {
+      "handle" : "kaygee",
+      "placement" : 6,
+      "score" : 50.0,
+      "submissionDate" : "2014-02-23"
+    } ]
+  }, {
+    "id" : 30035212,
+    "name" : "OPM - Rules Engine - Integrate with Web App Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Spring", "Drools" ],
+    "status" : "Completed",
+    "postingDate" : "2014-01-31",
+    "registrationEndDate" : "2014-02-02",
+    "submissionEndDate" : "2014-02-07",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 25,
+    "registrants" : [ {
+      "handle" : "Luca",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "congzb",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "roopats",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "forest84",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "nghi85",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "fabrizyo",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "dexy",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "srikkbhat",
+      "registrationDate" : "2014-01-31"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "rkumar084",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "_sushant_rathor",
+      "registrationDate" : "2014-02-01"
+    }, {
+      "handle" : "itkankan",
+      "registrationDate" : "2014-02-02"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Schpotsky",
+      "placement" : 1,
+      "score" : 90.05,
+      "submissionDate" : "2014-02-06"
+    }, {
+      "handle" : "woodjhon",
+      "placement" : 2,
+      "score" : 89.94,
+      "submissionDate" : "2014-02-06"
+    }, {
+      "handle" : "yedtoss",
+      "placement" : 3,
+      "score" : 88.91,
+      "submissionDate" : "2014-02-06"
+    } ]
+  }, {
+    "id" : 30038955,
+    "name" : "Repost - OPM - Frontend - Account Module Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "J2EE", "Java", "Spring", "JQuery" ],
+    "status" : "Completed",
+    "postingDate" : "2014-01-11",
+    "registrationEndDate" : "2014-01-13",
+    "submissionEndDate" : "2014-01-16",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 27,
+    "registrants" : [ {
+      "handle" : "Standlove",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "devmodugu",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "michael_tang",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "dexy",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "nouachi",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "shaheen90",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "kernelknowledge",
+      "registrationDate" : "2014-01-13"
+    }, {
+      "handle" : "bannie2492",
+      "registrationDate" : "2014-01-13"
+    }, {
+      "handle" : "vinoh",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "RaitoShum",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-01-11"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2014-01-12"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2014-01-13"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2014-01-13"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "bannie2492",
+      "placement" : 1,
+      "score" : 85.88,
+      "submissionDate" : "2014-01-16"
+    } ]
+  }, {
+    "id" : 30034351,
+    "name" : "OPM - Specification Contest - App and Role Requirements",
+    "type" : "DEVELOP",
+    "subType" : "SPECIFICATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2013-06-07",
+    "registrationEndDate" : "2013-06-10",
+    "submissionEndDate" : "2013-06-19",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "sri02",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2013-06-07"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-06-08"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2013-06-08"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2013-06-09"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-06-09"
+    }, {
+      "handle" : "delight",
+      "registrationDate" : "2013-06-09"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "AleaActaEst",
+      "placement" : 1,
+      "score" : 83.0,
+      "submissionDate" : "2013-06-18"
+    } ]
+  }, {
+    "id" : 30033493,
+    "name" : "OPM - Improve Existing Legacy App - Examples of Other Applications - Idea Generation Contest - Part 7",
+    "type" : "DEVELOP",
+    "subType" : "CONCEPTUALIZATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2013-03-29",
+    "registrationEndDate" : "2013-04-03",
+    "submissionEndDate" : "2013-04-03",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 123,
+    "registrants" : [ {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "MaNIaC2009",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "SchrodingazCat",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "student.zeina",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "selassi",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "brickgao",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "yosagar",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "daff",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "FrenkyB",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "wireframeguru",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "nicky02",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "kanhuCD",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "igdima",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "lisa.starnes",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "Fyre",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "puki_180894",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "balbasaur",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "SSSHALINI",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "webwidgets",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "neo.subrata",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "Hamzawy",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "svshenoy",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "elenashutova",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "K.CSE13",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "akashg",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "domelife",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "d_jash",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "naimish_randeri",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "charp",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "rkrdolnx",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "khaledcoder",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "Diluka",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "av.dubey",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "dingov_20",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "kymowind",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "Lozy",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "kedkod",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "lrgoyal",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "improper4",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "gopaltirupur",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "msoori",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "stiffler",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "AjJi",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "kalavacharla",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "nrupayshah007",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "vijayswarnkar",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "code_ankur",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "TheSpecialOne",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "html5",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "ashwinixar",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "abhijit_shri",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "Anup07",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "dhil",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "skjindal93",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "pankaj_kumar90",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "mamdad",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "t.subramanian80",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "nitish.mehrotra",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "sach129606",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "j3_guile",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "Birlax",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "vijender4",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "vyvakz",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "FOlaYinka0607",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "saisashankh",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "vinaygaba",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "seriyvolk83",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "daniel-levin",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "Ahmed_Mohsen",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "NotImplemented",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "dario-dsa",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "alokamme",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "MGTHEBOSS",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "SDBIT",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "aravinthc",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "shriddha_rajat",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "dhivya.it",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "nagcse7",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "supercharger",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "elza.68",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "erlv5241",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "vinothmanoharan",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "Kuhan",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "evsprathap",
+      "registrationDate" : "2013-03-30"
+    }, {
+      "handle" : "tgmontoya",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "danbgray",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "prady",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "Skipper04",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "lzzhang07",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "cyberbolt",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "kyerise",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "antonio081014",
+      "registrationDate" : "2013-03-31"
+    }, {
+      "handle" : "pbassut",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "ashokkumar.fun",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "NirmalaDevaraja",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "a6627651",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "kaitian521",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "yuanjc",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "FMX",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "intelled",
+      "registrationDate" : "2013-04-01"
+    }, {
+      "handle" : "tuandigital",
+      "registrationDate" : "2013-04-02"
+    }, {
+      "handle" : "laoji",
+      "registrationDate" : "2013-04-02"
+    }, {
+      "handle" : "bkavita",
+      "registrationDate" : "2013-04-02"
+    }, {
+      "handle" : "me551ah",
+      "registrationDate" : "2013-04-03"
+    }, {
+      "handle" : "maverickreclci",
+      "registrationDate" : "2013-04-02"
+    }, {
+      "handle" : "Anuradha_Mandal",
+      "registrationDate" : "2013-04-02"
+    }, {
+      "handle" : "cdjindia",
+      "registrationDate" : "2013-04-02"
+    }, {
+      "handle" : "allformani",
+      "registrationDate" : "2013-04-03"
+    }, {
+      "handle" : "phonechen",
+      "registrationDate" : "2013-04-03"
+    }, {
+      "handle" : "200701174",
+      "registrationDate" : "2013-04-03"
+    }, {
+      "handle" : "krampus",
+      "registrationDate" : "2013-04-03"
+    } ],
+    "numSubmitters" : 8,
+    "submitters" : [ {
+      "handle" : "AleaActaEst",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2013-04-03"
+    }, {
+      "handle" : "SchrodingazCat",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2013-04-03"
+    }, {
+      "handle" : "naimish_randeri",
+      "placement" : 3,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-29"
+    }, {
+      "handle" : "Lozy",
+      "placement" : 6,
+      "score" : 10.0,
+      "submissionDate" : "2013-04-03"
+    }, {
+      "handle" : "j3_guile",
+      "placement" : 4,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-31"
+    }, {
+      "handle" : "Kuhan",
+      "placement" : 7,
+      "score" : 10.0,
+      "submissionDate" : "2013-04-03"
+    }, {
+      "handle" : "phonechen",
+      "placement" : 8,
+      "score" : 10.0,
+      "submissionDate" : "2013-04-03"
+    }, {
+      "handle" : "MGTHEBOSS",
+      "placement" : 5,
+      "score" : 10.0,
+      "submissionDate" : "2013-04-02"
+    } ]
+  }, {
+    "id" : 30033130,
+    "name" : "OPM - Improve Existing Legacy App - Receivables Technician - Idea Generation Contest - Part 5",
+    "type" : "DEVELOP",
+    "subType" : "CONCEPTUALIZATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2013-03-24",
+    "registrationEndDate" : "2013-03-31",
+    "submissionEndDate" : "2013-03-31",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "ManS",
+      "registrationDate" : "2013-03-24"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-03-24"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "elenashutova",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "SchrodingazCat",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "ashersyed",
+      "registrationDate" : "2013-03-26"
+    }, {
+      "handle" : "Lozy",
+      "registrationDate" : "2013-03-26"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-03-26"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2013-03-26"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2013-03-27"
+    }, {
+      "handle" : "delight",
+      "registrationDate" : "2013-03-27"
+    }, {
+      "handle" : "kalavacharla",
+      "registrationDate" : "2013-03-27"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-03-28"
+    }, {
+      "handle" : "sreejith_suresh",
+      "registrationDate" : "2013-03-29"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2013-03-31"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "lukashov",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2013-03-31"
+    }, {
+      "handle" : "swengko",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2013-03-31"
+    }, {
+      "handle" : "Lozy",
+      "placement" : 5,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-31"
+    }, {
+      "handle" : "ashersyed",
+      "placement" : 4,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-31"
+    }, {
+      "handle" : "dfn",
+      "placement" : 3,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-30"
+    } ]
+  }, {
+    "id" : 30033129,
+    "name" : "OPM - Improve Existing Legacy App - Funds Management Supervisor - Idea Generation Contest - Part 4",
+    "type" : "DEVELOP",
+    "subType" : "CONCEPTUALIZATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2013-03-22",
+    "registrationEndDate" : "2013-03-27",
+    "submissionEndDate" : "2013-03-27",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "mutakubwa",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "gwty93",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "SACHeffner",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "SchrodingazCat",
+      "registrationDate" : "2013-03-24"
+    }, {
+      "handle" : "elenashutova",
+      "registrationDate" : "2013-03-24"
+    }, {
+      "handle" : "Lozy",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2013-03-25"
+    }, {
+      "handle" : "ashersyed",
+      "registrationDate" : "2013-03-26"
+    }, {
+      "handle" : "cdjindia",
+      "registrationDate" : "2013-03-27"
+    } ],
+    "numSubmitters" : 8,
+    "submitters" : [ {
+      "handle" : "lukashov",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2013-03-27"
+    }, {
+      "handle" : "AleaActaEst",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2013-03-27"
+    }, {
+      "handle" : "ashersyed",
+      "placement" : 3,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-25"
+    }, {
+      "handle" : "SACHeffner",
+      "placement" : 6,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-27"
+    }, {
+      "handle" : "gwty93",
+      "placement" : 4,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-26"
+    }, {
+      "handle" : "dfn",
+      "placement" : 5,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-27"
+    }, {
+      "handle" : "elenashutova",
+      "placement" : 7,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-27"
+    }, {
+      "handle" : "swengko",
+      "placement" : 8,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-27"
+    } ]
+  }, {
+    "id" : 30032989,
+    "name" : "OPM - Improve Existing Legacy App - Customer Service Supervisor - Idea Generation Contest - Part 2",
+    "type" : "DEVELOP",
+    "subType" : "CONCEPTUALIZATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2013-03-18",
+    "registrationEndDate" : "2013-03-24",
+    "submissionEndDate" : "2013-03-24",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 32,
+    "registrants" : [ {
+      "handle" : "ashersyed",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "ManS",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "FeliuGroup",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "SchrodingazCat",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "vlbthambawita",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "elenashutova",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "raj88iitr",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "S_Bright",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "tarikub",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "youlingyouhe",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "delight",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "SACHeffner",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "rtriv",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "svidyuk",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "eversmiling",
+      "registrationDate" : "2013-03-21"
+    }, {
+      "handle" : "cdjindia",
+      "registrationDate" : "2013-03-21"
+    }, {
+      "handle" : "ecnu_haozi",
+      "registrationDate" : "2013-03-21"
+    }, {
+      "handle" : "thelastbadboy",
+      "registrationDate" : "2013-03-21"
+    }, {
+      "handle" : "jonad",
+      "registrationDate" : "2013-03-21"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2013-03-22"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2013-03-23"
+    }, {
+      "handle" : "mutakubwa",
+      "registrationDate" : "2013-03-23"
+    } ],
+    "numSubmitters" : 9,
+    "submitters" : [ {
+      "handle" : "vlbthambawita",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2013-03-24"
+    }, {
+      "handle" : "lukashov",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2013-03-24"
+    }, {
+      "handle" : "dfn",
+      "placement" : 4,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-24"
+    }, {
+      "handle" : "tarikub",
+      "placement" : 3,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    }, {
+      "handle" : "elenashutova",
+      "placement" : 6,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-24"
+    }, {
+      "handle" : "SACHeffner",
+      "placement" : 5,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-24"
+    }, {
+      "handle" : "swengko",
+      "placement" : 7,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-24"
+    }, {
+      "handle" : "cdjindia",
+      "placement" : 8,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-24"
+    }, {
+      "handle" : "AleaActaEst",
+      "placement" : 9,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-24"
+    } ]
+  }, {
+    "id" : 30032988,
+    "name" : "OPM - Improve Existing Legacy App - Customer Service Specialist - Idea Generation Contest - Part 1",
+    "type" : "DEVELOP",
+    "subType" : "CONCEPTUALIZATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2013-03-14",
+    "registrationEndDate" : "2013-03-20",
+    "submissionEndDate" : "2013-03-20",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 265,
+    "registrants" : [ {
+      "handle" : "jansobocinski",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "icypher",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "surendrand",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "t.lin.wan",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "curran736",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "supercharger",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "utsav1984",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "Lozy",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "shriddha_rajat",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "ibraaaa",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "Diluka",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "venkatraghavang",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "abynel",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "aminehajyoussef",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "garethdown44",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "monixis",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "prachiagrawal",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "laconic_p",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "delight",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "ciok",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "aniruddha_das",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "turbowars",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "mtully",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "jdolds",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "patrick0425",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "sankha93",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "pradeasty",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "alinaqvi",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "njananinair",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "daff",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "yosagar",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "dantheman2865",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "BRUNOJORDAO",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "Vikram_Tiwari",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "Stayh0t",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "ahmed_jolani",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "optimiser",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "kdeeii",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "kalavacharla",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "rahul_chaudhary",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "charlotte26",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "meiyisi",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "NBE-42",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "manishiitj",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "victorgonz",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "vanditk",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "pajawale",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "livelikeabhi",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "maapu",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "anandut2001",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "Codytrey",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "dgorelik",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "erkfel",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "allankarlus",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "mashutka",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "sebastiantc",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "SethHoyt",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "Zandri",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "ombocorp",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "iceyu",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "mnicosia99",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "cwijebandara",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "picard",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "Elinaldo",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "jivkoss",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "elenashutova",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "sharada129",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "aztek56",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "tdgeorge25",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "bzii",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "SchrodingazCat",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "lu8890",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "feira",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "nosight",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "xindoo",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "gursharan001",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "edwarde",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "corleone13",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "wangshijin",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "kkbs",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Leviev",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "varunshenoyk",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Sumudu",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "abhijit_shri",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "zzxyyx_2",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "ahelbabl",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "innocent_avi",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "d_jash",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "sarveshkumarv",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "saumil",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "jitendrabisht",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "margello",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "tuandigital",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "ashersyed",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "singashutosh",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "vlbthambawita",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "hacktocrack",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "albusdumbledore",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "pillars92",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "MaNIaC2009",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "FeliuGroup",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "yiban",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "vnair",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "aldoboyzzz",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "pavma",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "dilhacky",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "himemeizhi",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "shubham16",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "utkarshdvd",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "custos",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "V.K.Singh",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "kisor.biswal",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "zstu_wangrui",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "shiyuankongbu",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "ChenXiaoTemp",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "keshavsourav",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "tjain1",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "thanuj",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "hopelight",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "huangweiqiang",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "sanjiv5aug",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "wogkszla",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "NirmalaDevaraja",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "smshahidraza",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Burhan363",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "badamrr",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "allformani",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "sherwin911",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "HitTigerTonight",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "nobody0702",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "sourabhjakhar",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "BrainDeveloper",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "harsha1857",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "surajrungta",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "return_pi",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "avinrox",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "saketuec",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "s_kannikkatt",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Chong3D",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "anwinsenp",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "tco12",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "balaji1980",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "popurisaiganesh",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "me551ah",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Imrul",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "OIStar",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "khsanjeet",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "kahini.wadhawan",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "surya1singh",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "cdjindia",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "ruslan_russev",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "tkrajesh",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Seamlyit",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Molly725",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "rrshetty",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "crambola",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Sanoob",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "shiv_gupta",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "dhwoodward",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "AltoRare",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "yeomanly",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "berXpert",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "alansysu",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "yash-coreis.us",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "eak65",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "aayushchugh07",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "shubh2336",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "sandeep_eminenc",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "another1",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "skynet_14",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "LionSka",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "akt08akt1991",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "saianudeepm",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "karthikbr82",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "yatindra_rao",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "bukanajay ",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "rohitranjan1994",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "srikanthko",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "jamesssun",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "whatever_S",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "rtshmittl",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "ankit.tolia",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "sreejithrks",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "coarpder",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "noblewb",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "AzeemZaheer",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "nalvarez28",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "w4r10rd",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "shaikh74",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "Carl_Platt",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "virneo",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "burnthedevil",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "sangam",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "ktgcoder",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "tarikub",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "TheVikO_o",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "ctk41",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "whitico",
+      "registrationDate" : "2013-03-16"
+    }, {
+      "handle" : "SACHeffner",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "alizee",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "Repentinus",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "AMengtech",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "praveenks",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "arpan16",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "svnay",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "manish_mca7",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "UsefulMan",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "jhyry",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "amar.punja",
+      "registrationDate" : "2013-03-17"
+    }, {
+      "handle" : "amallah",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "chn10dn014",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "srinivasaenergy",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "nkhanna23",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "sarbx",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "snelluri",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "pothead",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "abhicseiit",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "Kuhan",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "venkhatapriya",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "xiangjun",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "rajaron",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "marcosdaniel",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "stillmoreinfo",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "Rabindra123",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "dslavens",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "jcthomasj",
+      "registrationDate" : "2013-03-18"
+    }, {
+      "handle" : "stramz",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "p.singh",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "suvo",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "webwidgets",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "wasifhossain",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "raj88iitr",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "eddu",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "thelastbadboy",
+      "registrationDate" : "2013-03-19"
+    }, {
+      "handle" : "pablo98",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "S_Bright",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "meem",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "virajith",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "brev",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "youlingyouhe",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "manutdli",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "skam123",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "abhishek.sharan",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "arupsarkar",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "Prabhakar9885",
+      "registrationDate" : "2013-03-20"
+    }, {
+      "handle" : "raymondelferink",
+      "registrationDate" : "2013-03-14"
+    }, {
+      "handle" : "shahjalal",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "Alethor",
+      "registrationDate" : "2013-03-15"
+    }, {
+      "handle" : "0gravity",
+      "registrationDate" : "2013-03-16"
+    } ],
+    "numSubmitters" : 15,
+    "submitters" : [ {
+      "handle" : "lukashov",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2013-03-19"
+    }, {
+      "handle" : "jcthomasj",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2013-03-19"
+    }, {
+      "handle" : "whitico",
+      "placement" : 6,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-18"
+    }, {
+      "handle" : "vlbthambawita",
+      "placement" : 7,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-19"
+    }, {
+      "handle" : "cdjindia",
+      "placement" : 8,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-19"
+    }, {
+      "handle" : "ashersyed",
+      "placement" : 4,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-17"
+    }, {
+      "handle" : "tarikub",
+      "placement" : 3,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-16"
+    }, {
+      "handle" : "FeliuGroup",
+      "placement" : 5,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-18"
+    }, {
+      "handle" : "thelastbadboy",
+      "placement" : 9,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    }, {
+      "handle" : "AleaActaEst",
+      "placement" : 15,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    }, {
+      "handle" : "elenashutova",
+      "placement" : 10,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    }, {
+      "handle" : "dfn",
+      "placement" : 11,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    }, {
+      "handle" : "manutdli",
+      "placement" : 12,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    }, {
+      "handle" : "SACHeffner",
+      "placement" : 13,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    }, {
+      "handle" : "swengko",
+      "placement" : 14,
+      "score" : 10.0,
+      "submissionDate" : "2013-03-20"
+    } ]
+  }, {
+    "id" : 30031863,
+    "name" : "OPM - Legacy Application VM PoC Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "VB.NET" ],
+    "status" : "Completed",
+    "postingDate" : "2012-12-17",
+    "registrationEndDate" : "2012-12-20",
+    "submissionEndDate" : "2012-12-26",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "padegal12",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "Happy_Myers",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "lintc",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-12-17"
+    }, {
+      "handle" : "qdottbm",
+      "registrationDate" : "2012-12-18"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-12-18"
+    }, {
+      "handle" : "sas analyst",
+      "registrationDate" : "2012-12-18"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-12-18"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-12-19"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "lukashov",
+      "placement" : 1,
+      "score" : 99.17,
+      "submissionDate" : "2012-12-25"
+    } ]
+  }, {
+    "id" : 30031566,
+    "name" : "System Assembly - FSMA fsScan fsReport fsDiff Tools Update Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C" ],
+    "status" : "Completed",
+    "postingDate" : "2012-11-29",
+    "registrationEndDate" : "2012-12-01",
+    "submissionEndDate" : "2012-12-04",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-11-29"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-11-29"
+    }, {
+      "handle" : "haipt81",
+      "registrationDate" : "2012-11-29"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "dweng",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "premvijay",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-11-30"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-12-01"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "haipt81",
+      "placement" : 1,
+      "score" : 92.4,
+      "submissionDate" : "2012-12-04"
+    } ]
+  }, {
+    "id" : 30030904,
+    "name" : "OPM - Track 1 - Decompose Existing App - Web Application Stored Procedures Specification",
+    "type" : "DEVELOP",
+    "subType" : "SPECIFICATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2012-11-18",
+    "registrationEndDate" : "2012-11-20",
+    "submissionEndDate" : "2012-11-23",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 19,
+    "registrants" : [ {
+      "handle" : "BLE",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "yyne",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "xiancai",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "AE-86",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "Seamlyit",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "codedoc",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "ombocorp",
+      "registrationDate" : "2012-11-18"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2012-11-19"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2012-11-19"
+    }, {
+      "handle" : "awtar",
+      "registrationDate" : "2012-11-19"
+    }, {
+      "handle" : "Kuhan",
+      "registrationDate" : "2012-11-19"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-11-19"
+    }, {
+      "handle" : "cxinice",
+      "registrationDate" : "2012-11-19"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2012-11-19"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "lukashov",
+      "placement" : 1,
+      "score" : 95.78,
+      "submissionDate" : "2012-11-21"
+    }, {
+      "handle" : "BLE",
+      "placement" : 2,
+      "score" : 94.44,
+      "submissionDate" : "2012-11-22"
+    }, {
+      "handle" : "AE-86",
+      "placement" : 3,
+      "score" : 93.56,
+      "submissionDate" : "2012-11-21"
+    }, {
+      "handle" : "cxinice",
+      "placement" : 4,
+      "score" : 83.44,
+      "submissionDate" : "2012-11-21"
+    } ]
+  }, {
+    "id" : 30030824,
+    "name" : "OPM - Track 2 - Service Credit System High Level Conceptualization",
+    "type" : "DEVELOP",
+    "subType" : "CONCEPTUALIZATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2012-11-05",
+    "registrationEndDate" : "2012-11-10",
+    "submissionEndDate" : "2012-11-18",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 23,
+    "registrants" : [ {
+      "handle" : "ANASS",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "premvijay",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "rainforest",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "chuxy111",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "kameshree",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-11-05"
+    }, {
+      "handle" : "mastraho",
+      "registrationDate" : "2012-11-06"
+    }, {
+      "handle" : "vangavroche",
+      "registrationDate" : "2012-11-06"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-11-06"
+    }, {
+      "handle" : "danyu",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "Indemar",
+      "registrationDate" : "2012-11-07"
+    }, {
+      "handle" : "d_jash",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "vgoog",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "qu4n",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "az1989",
+      "registrationDate" : "2012-11-08"
+    }, {
+      "handle" : "opiette",
+      "registrationDate" : "2012-11-10"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "Indemar",
+      "placement" : 1,
+      "score" : 96.34,
+      "submissionDate" : "2012-11-18"
+    }, {
+      "handle" : "mastraho",
+      "placement" : 2,
+      "score" : 86.42,
+      "submissionDate" : "2012-11-13"
+    }, {
+      "handle" : "ANASS",
+      "placement" : 3,
+      "score" : 77.55,
+      "submissionDate" : "2012-11-18"
+    }, {
+      "handle" : "lukashov",
+      "placement" : 4,
+      "score" : 64.63,
+      "submissionDate" : "2012-11-18"
+    } ]
+  }, {
+    "id" : 30030821,
+    "name" : "OPM - Track 1 - Decompose Existing App - Batch Stored Procedures Specification",
+    "type" : "DEVELOP",
+    "subType" : "SPECIFICATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2012-10-25",
+    "registrationEndDate" : "2012-10-28",
+    "submissionEndDate" : "2012-11-03",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "chuxy111",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "awtar",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "nirmalrock",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "coderwong",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "tcpcoder",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "codedoc",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "maruius",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "yyne",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "liumei",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "cxinice",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "BLE",
+      "registrationDate" : "2012-10-27"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "BLE",
+      "placement" : 1,
+      "score" : 94.42,
+      "submissionDate" : "2012-11-02"
+    }, {
+      "handle" : "lukashov",
+      "placement" : 2,
+      "score" : 86.92,
+      "submissionDate" : "2012-11-02"
+    } ]
+  }, {
+    "id" : 30030557,
+    "name" : "Windows API for Desktop Integration - Integration2 Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", ".NET 3.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-10-20",
+    "registrationEndDate" : "2012-10-22",
+    "submissionEndDate" : "2012-10-26",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 28,
+    "registrants" : [ {
+      "handle" : "mostafaizz",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "NKolotey",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "vijay_0801",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "bugcoder",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "pownarthi",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "mln",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "haipt81",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "tavbert",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "Mr.DDDAlKilanny",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-10-20"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "colonialforlife",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "Anna_Esseker",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "Dweeberly",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "Binary_Fire",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "dineshhere",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "arpit1585",
+      "registrationDate" : "2012-10-21"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-10-22"
+    }, {
+      "handle" : "faith2426",
+      "registrationDate" : "2012-10-21"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "DrAhmed",
+      "placement" : 1,
+      "score" : 96.89,
+      "submissionDate" : "2012-10-25"
+    }, {
+      "handle" : "mln",
+      "placement" : 2,
+      "score" : 87.22,
+      "submissionDate" : "2012-10-26"
+    }, {
+      "handle" : "tavbert",
+      "placement" : 3,
+      "score" : 83.86,
+      "submissionDate" : "2012-10-25"
+    }, {
+      "handle" : "Mr.DDDAlKilanny",
+      "placement" : 4,
+      "score" : 79.25,
+      "submissionDate" : "2012-10-25"
+    }, {
+      "handle" : "Binary_Fire",
+      "placement" : 5,
+      "score" : 74.91,
+      "submissionDate" : "2012-10-25"
+    } ]
+  }, {
+    "id" : 30030556,
+    "name" : "Windows API for Desktop Integration - UI Automation Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C#", ".NET 3.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-10-03",
+    "registrationEndDate" : "2012-10-09",
+    "submissionEndDate" : "2012-10-11",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 36,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-10-03"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-10-03"
+    }, {
+      "handle" : "shaheen90",
+      "registrationDate" : "2012-10-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-10-03"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-10-03"
+    }, {
+      "handle" : "crackme",
+      "registrationDate" : "2012-10-06"
+    }, {
+      "handle" : "matvict",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "cjie888_tc",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "Sethard",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "sravenkande",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "amazingpig",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "mastraho",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "marlogger",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "coderwong",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "MiG-29",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "sabbirhs",
+      "registrationDate" : "2012-10-05"
+    }, {
+      "handle" : "AJSolutions2012",
+      "registrationDate" : "2012-10-04"
+    }, {
+      "handle" : "salah101",
+      "registrationDate" : "2012-10-05"
+    }, {
+      "handle" : "sampath01",
+      "registrationDate" : "2012-10-05"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-10-05"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-10-05"
+    }, {
+      "handle" : "brain_cn",
+      "registrationDate" : "2012-10-06"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2012-10-06"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2012-10-06"
+    }, {
+      "handle" : "lukashov",
+      "registrationDate" : "2012-10-06"
+    }, {
+      "handle" : "yz",
+      "registrationDate" : "2012-10-06"
+    }, {
+      "handle" : "Jack1207",
+      "registrationDate" : "2012-10-07"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-10-08"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2012-10-08"
+    }, {
+      "handle" : "r1cs1",
+      "registrationDate" : "2012-10-09"
+    }, {
+      "handle" : "umer-skk",
+      "registrationDate" : "2012-10-09"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2012-10-05"
+    }, {
+      "handle" : "bugcoder",
+      "registrationDate" : "2012-10-07"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "DrAhmed",
+      "placement" : 1,
+      "score" : 98.59,
+      "submissionDate" : "2012-10-10"
+    }, {
+      "handle" : "shen75",
+      "placement" : 2,
+      "score" : 97.61,
+      "submissionDate" : "2012-10-10"
+    } ]
+  } ]
+}

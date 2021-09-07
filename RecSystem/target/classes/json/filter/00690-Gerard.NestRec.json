@@ -1,0 +1,2284 @@
+{
+  "id" : 690,
+  "handle" : "Gerard.NestRec",
+  "countHistoryTasks" : 19,
+  "historyTasks" : [ {
+    "id" : 30053859,
+    "name" : "Hercules Brotli SquashFS - Linux 3.18.29 kernel patch and bootchart",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C" ],
+    "status" : "Completed",
+    "postingDate" : "2016-04-22",
+    "registrationEndDate" : "2016-04-26",
+    "submissionEndDate" : "2016-04-26",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2016-04-22"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2016-04-22"
+    }, {
+      "handle" : "lanchongyizu",
+      "registrationDate" : "2016-04-23"
+    }, {
+      "handle" : "adolia",
+      "registrationDate" : "2016-04-23"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2016-04-24"
+    }, {
+      "handle" : "sanfu",
+      "registrationDate" : "2016-04-25"
+    }, {
+      "handle" : "Bisunday",
+      "registrationDate" : "2016-04-25"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2016-04-25"
+    }, {
+      "handle" : "lavinnix",
+      "registrationDate" : "2016-04-25"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2016-04-23"
+    } ]
+  }, {
+    "id" : 30053835,
+    "name" : "Hercules Brotli SquashFS - Linux 4.5.2 kernel patch and Raspberry Pi2",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C" ],
+    "status" : "Completed",
+    "postingDate" : "2016-04-20",
+    "registrationEndDate" : "2016-04-24",
+    "submissionEndDate" : "2016-04-24",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2016-04-20"
+    }, {
+      "handle" : "dirkb",
+      "registrationDate" : "2016-04-20"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2016-04-20"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2016-04-20"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2016-04-20"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2016-04-21"
+    }, {
+      "handle" : "lordzuko",
+      "registrationDate" : "2016-04-21"
+    }, {
+      "handle" : "Jordan_Braynt",
+      "registrationDate" : "2016-04-21"
+    }, {
+      "handle" : "lanchongyizu",
+      "registrationDate" : "2016-04-21"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2016-04-21"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2016-04-22"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2016-04-21"
+    }, {
+      "handle" : "lordzuko",
+      "placement" : 2,
+      "score" : 76.25,
+      "submissionDate" : "2016-04-24"
+    } ]
+  }, {
+    "id" : 30053667,
+    "name" : "Hercules Brotli SquashFS - Linux 3.18.29 kernel patch and Raspberry Pi2",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C++", "C" ],
+    "status" : "Completed",
+    "postingDate" : "2016-04-06",
+    "registrationEndDate" : "2016-04-12",
+    "submissionEndDate" : "2016-04-12",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 26,
+    "registrants" : [ {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "Sky_",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "adolia",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "LeapMonth",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "yhfudev",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "RevelationNow",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2016-04-06"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2016-04-07"
+    }, {
+      "handle" : "lanchongyizu",
+      "registrationDate" : "2016-04-07"
+    }, {
+      "handle" : "lordzuko",
+      "registrationDate" : "2016-04-07"
+    }, {
+      "handle" : "greymonkey",
+      "registrationDate" : "2016-04-07"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2016-04-07"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2016-04-07"
+    }, {
+      "handle" : "elonas829",
+      "registrationDate" : "2016-04-07"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2016-04-08"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2016-04-08"
+    }, {
+      "handle" : "tcdevels",
+      "registrationDate" : "2016-04-08"
+    }, {
+      "handle" : "vinoh",
+      "registrationDate" : "2016-04-08"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2016-04-09"
+    }, {
+      "handle" : "republic82",
+      "registrationDate" : "2016-04-10"
+    }, {
+      "handle" : "code_now",
+      "registrationDate" : "2016-04-10"
+    }, {
+      "handle" : "dirkb",
+      "registrationDate" : "2016-04-11"
+    }, {
+      "handle" : "lavinnix",
+      "registrationDate" : "2016-04-11"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2016-04-11"
+    }, {
+      "handle" : "deedee",
+      "placement" : 2,
+      "score" : 78.75,
+      "submissionDate" : "2016-04-11"
+    }, {
+      "handle" : "lordzuko",
+      "placement" : 3,
+      "score" : 76.25,
+      "submissionDate" : "2016-04-11"
+    }, {
+      "handle" : "adolia",
+      "placement" : 4,
+      "score" : 76.25,
+      "submissionDate" : "2016-04-11"
+    }, {
+      "handle" : "testXuSanping",
+      "placement" : 5,
+      "score" : 76.25,
+      "submissionDate" : "2016-04-11"
+    } ]
+  }, {
+    "id" : 30053393,
+    "name" : "Hercules Brotli SquashFS - Boot from brotli compressed volume",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C" ],
+    "status" : "Completed",
+    "postingDate" : "2016-03-21",
+    "registrationEndDate" : "2016-03-27",
+    "submissionEndDate" : "2016-03-27",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 32,
+    "registrants" : [ {
+      "handle" : "wcheung",
+      "registrationDate" : "2016-03-24"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2016-03-22"
+    }, {
+      "handle" : "danielbakyono",
+      "registrationDate" : "2016-03-22"
+    }, {
+      "handle" : "GFalcon",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "binit92",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "lanchongyizu",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "dirkb",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "sfaxiano",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "Acyn",
+      "registrationDate" : "2016-03-21"
+    }, {
+      "handle" : "rajgupta85",
+      "registrationDate" : "2016-03-22"
+    }, {
+      "handle" : "Rushikesh.Deshp",
+      "registrationDate" : "2016-03-22"
+    }, {
+      "handle" : "Erona",
+      "registrationDate" : "2016-03-22"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2016-03-22"
+    }, {
+      "handle" : "wsobolewski",
+      "registrationDate" : "2016-03-22"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2016-03-23"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2016-03-23"
+    }, {
+      "handle" : "jakymoon",
+      "registrationDate" : "2016-03-23"
+    }, {
+      "handle" : "Hafiz08",
+      "registrationDate" : "2016-03-23"
+    }, {
+      "handle" : "TheLoneRanger14",
+      "registrationDate" : "2016-03-23"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2016-03-23"
+    }, {
+      "handle" : "vinoh",
+      "registrationDate" : "2016-03-25"
+    }, {
+      "handle" : "tarlou.gd",
+      "registrationDate" : "2016-03-27"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2016-03-26"
+    }, {
+      "handle" : "rosstex",
+      "registrationDate" : "2016-03-27"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2016-03-27"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "dirkb",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2016-03-27"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "placement" : 2,
+      "score" : 96.25,
+      "submissionDate" : "2016-03-24"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 3,
+      "score" : 73.75,
+      "submissionDate" : "2016-03-27"
+    }, {
+      "handle" : "testXuSanping",
+      "placement" : 4,
+      "score" : 68.75,
+      "submissionDate" : "2016-03-26"
+    } ]
+  }, {
+    "id" : 30053009,
+    "name" : "The Gates Foundation - C Application for Matrix Transposition",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C", "Data Science" ],
+    "status" : "Completed",
+    "postingDate" : "2016-02-26",
+    "registrationEndDate" : "2016-03-04",
+    "submissionEndDate" : "2016-03-17",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 154,
+    "registrants" : [ {
+      "handle" : "sergeyfeldman",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "suniil",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "Sabreil",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "gthedreamer",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "k3d61",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "kubapb",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "Wes.Gilliland",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "IhRlaeh1",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "pvmagacho",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "albantor30",
+      "registrationDate" : "2016-02-26"
+    }, {
+      "handle" : "gondzo",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "ernanhughes",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "Shizhouxing",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "hazegirl",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "cjalmeida",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "susiak",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "michael3lyb",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "Shadrach",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "Ktakuya",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "ananthhh",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "daga_sumit",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "ChenXiaoTemp",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "saksham44",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "Amerterasu",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "imnishantg",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "billsedison",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "qwer_zcc",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "vinoh",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "anurag.narang",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "WeirdThinker15",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "deas",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "rawatsandeep40",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "Acyn",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "wsobolewski",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "lanchongyizu",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "gfhuertac",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "m.emin",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "_adhoc",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "Colossalfy",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "paulocezar",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "WileTheCoyote",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "asr1986",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "jiguorui2",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "shangjingbo",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "miken22",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "jakehuesman",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "peide",
+      "registrationDate" : "2016-02-27"
+    }, {
+      "handle" : "PeterBest",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "DoublePointer",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "sheldonrobinson",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "bluetiger12",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "Joy834",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "chenlianMT",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "chrbau2711",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "sgawande1994",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "klo86min",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "poletaev",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "KudaChinyemba",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "mpanga",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "Crowlinfear",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "tjpotenza",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "sapila",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "net_buster",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "Sosoicy",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "mohamed_sala7",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "Shunox",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "semhaul",
+      "registrationDate" : "2016-02-28"
+    }, {
+      "handle" : "ML08",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "dchaseb23",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "solokop",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "mprieto",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "sribharathi1427",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "Evil.Ghost",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "moshu",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "zaixiang",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "sri02",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "pharic",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "xiufei",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "Arashdeep",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "erhanuman9010",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "karthsharma",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "simeon.d",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "sidthekid",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "farhatlatrach",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "dshackerc",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "TheLoneRanger14",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "henriqdp",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "biggunsv",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "qiuosier",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "Marstar",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "chiwakii",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "[Mirza555]",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "anoophallur",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "Reflect",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "mz213",
+      "registrationDate" : "2016-02-29"
+    }, {
+      "handle" : "v.anand.786",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "manavender.623",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "lianqu1990",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "Lawgical",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "xiaomi.mao",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "JonNRb",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "rshankar939",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "g_andreea",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "StanL",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "beekalam",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "chandan047",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "rakesh1994",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "c0dezer0",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "voalge",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "osamir",
+      "registrationDate" : "2016-03-01"
+    }, {
+      "handle" : "w47chm4k3r",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "upbod",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "VincentX2016",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "Matt_sjtu",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "ankit_shukla1",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "yadav.ghanshyam",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "WTrei",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "srija_p",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "republic82",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "Alan.Brooks",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "alkant",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "shane.kirkbride",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "gfnation",
+      "registrationDate" : "2016-03-02"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "nh104622",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "gopskris",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "jhc2120",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "InGlOrIuSBaStRd",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "birdxue",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "sdynerow",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "linuxgeek",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "harie.br",
+      "registrationDate" : "2016-03-03"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2016-03-04"
+    }, {
+      "handle" : "gowth08",
+      "registrationDate" : "2016-03-04"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2016-03-04"
+    }, {
+      "handle" : "whois.cris",
+      "registrationDate" : "2016-03-04"
+    }, {
+      "handle" : "K.B.",
+      "registrationDate" : "2016-03-04"
+    }, {
+      "handle" : "lichao0x7cc",
+      "registrationDate" : "2016-03-04"
+    } ],
+    "numSubmitters" : 27,
+    "submitters" : [ {
+      "handle" : "cjalmeida",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2016-03-03"
+    }, {
+      "handle" : "klo86min",
+      "placement" : 2,
+      "score" : 98.75,
+      "submissionDate" : "2016-03-02"
+    }, {
+      "handle" : "Reflect",
+      "placement" : 24,
+      "score" : 96.25,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "lanchongyizu",
+      "placement" : 3,
+      "score" : 96.25,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "alkant",
+      "placement" : 5,
+      "score" : 95.0,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "placement" : 4,
+      "score" : 95.0,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "qiuosier",
+      "placement" : 6,
+      "score" : 93.75,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "Alan.Brooks",
+      "placement" : 9,
+      "score" : 91.25,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "IhRlaeh1",
+      "placement" : 7,
+      "score" : 91.25,
+      "submissionDate" : "2016-03-01"
+    }, {
+      "handle" : "mpanga",
+      "placement" : 8,
+      "score" : 91.25,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "asr1986",
+      "placement" : 11,
+      "score" : 88.75,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "xiufei",
+      "placement" : 10,
+      "score" : 88.75,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "jakehuesman",
+      "placement" : 12,
+      "score" : 88.75,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "biggunsv",
+      "placement" : 13,
+      "score" : 87.5,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "Shadrach",
+      "placement" : 15,
+      "score" : 86.25,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "sheldonrobinson",
+      "placement" : 14,
+      "score" : 86.25,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "StanL",
+      "placement" : 17,
+      "score" : 85.0,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "Evil.Ghost",
+      "placement" : 16,
+      "score" : 85.0,
+      "submissionDate" : "2016-03-03"
+    }, {
+      "handle" : "Ktakuya",
+      "placement" : 18,
+      "score" : 80.0,
+      "submissionDate" : "2016-03-02"
+    }, {
+      "handle" : "Sosoicy",
+      "placement" : 19,
+      "score" : 76.25,
+      "submissionDate" : "2016-03-02"
+    }, {
+      "handle" : "Shizhouxing",
+      "placement" : 20,
+      "score" : 76.25,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "xiaomi.mao",
+      "placement" : 21,
+      "score" : 72.5,
+      "submissionDate" : "2016-03-01"
+    }, {
+      "handle" : "Shunox",
+      "placement" : 22,
+      "score" : 67.5,
+      "submissionDate" : "2016-03-03"
+    }, {
+      "handle" : "sdynerow",
+      "placement" : 25,
+      "score" : 60.0,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "simeon.d",
+      "placement" : 23,
+      "score" : 60.0,
+      "submissionDate" : "2016-03-01"
+    }, {
+      "handle" : "testXuSanping",
+      "placement" : 26,
+      "score" : 54.38,
+      "submissionDate" : "2016-03-04"
+    }, {
+      "handle" : "michael3lyb",
+      "placement" : 27,
+      "score" : 23.75,
+      "submissionDate" : "2016-03-04"
+    } ]
+  }, {
+    "id" : 30053205,
+    "name" : "Hercules Brotli SquashFS - Initial Proof of Concept",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C" ],
+    "status" : "Completed",
+    "postingDate" : "2016-03-09",
+    "registrationEndDate" : "2016-03-16",
+    "submissionEndDate" : "2016-03-16",
+    "prizes" : [ 1300.0, 650.0 ],
+    "numRegistrants" : 41,
+    "registrants" : [ {
+      "handle" : "tuxing",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "Shadrach",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "michael3lyb",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "Shizhouxing",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "sribharathi1427",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "ChenXiaoTemp",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "yadav.ghanshyam",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "lanchongyizu",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "TiTrias",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2016-03-09"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2016-03-10"
+    }, {
+      "handle" : "WeirdThinker15",
+      "registrationDate" : "2016-03-10"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2016-03-10"
+    }, {
+      "handle" : "billsedison",
+      "registrationDate" : "2016-03-10"
+    }, {
+      "handle" : "deas",
+      "registrationDate" : "2016-03-10"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2016-03-10"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2016-03-10"
+    }, {
+      "handle" : "Erona",
+      "registrationDate" : "2016-03-11"
+    }, {
+      "handle" : "vimrc",
+      "registrationDate" : "2016-03-11"
+    }, {
+      "handle" : "sheldonrobinson",
+      "registrationDate" : "2016-03-11"
+    }, {
+      "handle" : "wsobolewski",
+      "registrationDate" : "2016-03-11"
+    }, {
+      "handle" : "appbead",
+      "registrationDate" : "2016-03-11"
+    }, {
+      "handle" : "cuongnqc",
+      "registrationDate" : "2016-03-11"
+    }, {
+      "handle" : "mac007",
+      "registrationDate" : "2016-03-11"
+    }, {
+      "handle" : "rajgupta85",
+      "registrationDate" : "2016-03-12"
+    }, {
+      "handle" : "henriqdp",
+      "registrationDate" : "2016-03-12"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2016-03-12"
+    }, {
+      "handle" : "basus",
+      "registrationDate" : "2016-03-13"
+    }, {
+      "handle" : "shreen19",
+      "registrationDate" : "2016-03-13"
+    }, {
+      "handle" : "Sun.Bo",
+      "registrationDate" : "2016-03-14"
+    }, {
+      "handle" : "dirkb",
+      "registrationDate" : "2016-03-14"
+    }, {
+      "handle" : "kuchiki14",
+      "registrationDate" : "2016-03-15"
+    } ],
+    "numSubmitters" : 7,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 2,
+      "score" : 99.38,
+      "submissionDate" : "2016-03-15"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 1,
+      "score" : 99.38,
+      "submissionDate" : "2016-03-14"
+    }, {
+      "handle" : "dirkb",
+      "placement" : 3,
+      "score" : 98.75,
+      "submissionDate" : "2016-03-15"
+    }, {
+      "handle" : "Erona",
+      "placement" : 5,
+      "score" : 97.5,
+      "submissionDate" : "2016-03-15"
+    }, {
+      "handle" : "lanchongyizu",
+      "placement" : 4,
+      "score" : 97.5,
+      "submissionDate" : "2016-03-14"
+    }, {
+      "handle" : "appbead",
+      "placement" : 6,
+      "score" : 93.75,
+      "submissionDate" : "2016-03-14"
+    }, {
+      "handle" : "michael3lyb",
+      "placement" : 7,
+      "score" : 27.5,
+      "submissionDate" : "2016-03-12"
+    } ]
+  }, {
+    "id" : 30048846,
+    "name" : "DTN Neighbor Discovery - ION IPND Implementation Assembly Part 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C" ],
+    "status" : "Completed",
+    "postingDate" : "2015-04-27",
+    "registrationEndDate" : "2015-05-01",
+    "submissionEndDate" : "2015-05-04",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 30,
+    "registrants" : [ {
+      "handle" : "TRashmi",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "Zyan",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "patka",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "bluenet",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "f0rc0d3r",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-04-27"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "dianluxiaozi",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "shyamsudhir",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "Wada",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "jbgeddes3",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2015-04-28"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "rrv",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2015-04-29"
+    }, {
+      "handle" : "brucardoso2",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2015-04-30"
+    }, {
+      "handle" : "dexy",
+      "registrationDate" : "2015-05-01"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 94.23,
+      "submissionDate" : "2015-05-04"
+    } ]
+  }, {
+    "id" : 30048845,
+    "name" : "DTN Neighbor Discovery - Python IPND Proof of Concept Assembly 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Python" ],
+    "status" : "Completed",
+    "postingDate" : "2015-04-06",
+    "registrationEndDate" : "2015-04-10",
+    "submissionEndDate" : "2015-04-14",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 33,
+    "registrants" : [ {
+      "handle" : "roarky",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "afrhu",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "m8",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2015-04-06"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "cjalmeida",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "caoweiquan322",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2015-04-07"
+    }, {
+      "handle" : "dexy",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "amanforindia",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "elielzamora",
+      "registrationDate" : "2015-04-08"
+    }, {
+      "handle" : "Anthony.Eden",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "chok68",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "soe",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-04-09"
+    }, {
+      "handle" : "linuxgeek",
+      "registrationDate" : "2015-04-10"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 92.82,
+      "submissionDate" : "2015-04-14"
+    }, {
+      "handle" : "caoweiquan322",
+      "placement" : 2,
+      "score" : 92.34,
+      "submissionDate" : "2015-04-14"
+    } ]
+  }, {
+    "id" : 30049594,
+    "name" : "DTN Neighbor Discovery - DTN Network Setup Using Docker",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Python" ],
+    "status" : "Completed",
+    "postingDate" : "2015-04-03",
+    "registrationEndDate" : "2015-04-07",
+    "submissionEndDate" : "2015-04-07",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "yjyfrombnu",
+      "registrationDate" : "2015-04-03"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2015-04-03"
+    }, {
+      "handle" : "jbgeddes3",
+      "registrationDate" : "2015-04-03"
+    }, {
+      "handle" : "vkstechnoguru",
+      "registrationDate" : "2015-04-03"
+    }, {
+      "handle" : "cjalmeida",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "an_ant",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "afrhu",
+      "registrationDate" : "2015-04-04"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2015-04-05"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-04-07"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "cjalmeida",
+      "placement" : 1,
+      "score" : 93.75,
+      "submissionDate" : "2015-04-06"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "placement" : 2,
+      "score" : 85.0,
+      "submissionDate" : "2015-04-07"
+    }, {
+      "handle" : "yjyfrombnu",
+      "placement" : 3,
+      "score" : 81.25,
+      "submissionDate" : "2015-04-05"
+    } ]
+  }, {
+    "id" : 30049350,
+    "name" : "DTN Neighbor Discovery - Python IPND Proof of Concept Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Python" ],
+    "status" : "Completed",
+    "postingDate" : "2015-03-24",
+    "registrationEndDate" : "2015-03-27",
+    "submissionEndDate" : "2015-03-30",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 36,
+    "registrants" : [ {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "Safadurimo",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "dexy",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "freegod",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "I_Igor",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "Minwei_ji",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "samsundar88",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2015-03-24"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "ifox",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "bluenet",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "jbgeddes3",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "dima_pp",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "lnk.anton",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "afrhu",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "vkstechnoguru",
+      "registrationDate" : "2015-03-25"
+    }, {
+      "handle" : "narenaryan",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "VenLee",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "linuxgeek",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "patka",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "cjalmeida",
+      "registrationDate" : "2015-03-26"
+    }, {
+      "handle" : "t-8ch",
+      "registrationDate" : "2015-03-27"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 94.51,
+      "submissionDate" : "2015-03-30"
+    }, {
+      "handle" : "cjalmeida",
+      "placement" : 2,
+      "score" : 84.54,
+      "submissionDate" : "2015-03-30"
+    } ]
+  }, {
+    "id" : 30049228,
+    "name" : "Operation NGINX - Support HTTPS Streams",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C++", "HTML", "HTTP", "C", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2015-03-06",
+    "registrationEndDate" : "2015-03-11",
+    "submissionEndDate" : "2015-03-11",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "maniek",
+      "registrationDate" : "2015-03-06"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2015-03-06"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-03-06"
+    }, {
+      "handle" : "antslag",
+      "registrationDate" : "2015-03-06"
+    }, {
+      "handle" : "jzh08",
+      "registrationDate" : "2015-03-07"
+    }, {
+      "handle" : "genuineabhinav",
+      "registrationDate" : "2015-03-07"
+    }, {
+      "handle" : "RazvanPascalau",
+      "registrationDate" : "2015-03-07"
+    }, {
+      "handle" : "sylar",
+      "registrationDate" : "2015-03-09"
+    }, {
+      "handle" : "xin135",
+      "registrationDate" : "2015-03-10"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-03-10"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-03-10"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 91.25,
+      "submissionDate" : "2015-03-11"
+    }, {
+      "handle" : "antslag",
+      "placement" : 2,
+      "score" : 80.0,
+      "submissionDate" : "2015-03-10"
+    } ]
+  }, {
+    "id" : 30048899,
+    "name" : "Operation NGINX  - Safari Switches and Fixes",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C++", "HTML", "HTTP", "C", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2015-02-10",
+    "registrationEndDate" : "2015-02-15",
+    "submissionEndDate" : "2015-02-16",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "mulish",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "ofakher",
+      "registrationDate" : "2015-02-10"
+    }, {
+      "handle" : "akovski",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "michaelpog",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "RazvanPascalau",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "georgizoo",
+      "registrationDate" : "2015-02-11"
+    }, {
+      "handle" : "tuudug",
+      "registrationDate" : "2015-02-12"
+    }, {
+      "handle" : "ssp555",
+      "registrationDate" : "2015-02-12"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-02-13"
+    }, {
+      "handle" : "Magina",
+      "registrationDate" : "2015-02-13"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2015-02-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-02-13"
+    }, {
+      "handle" : "atry",
+      "registrationDate" : "2015-02-14"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-02-14"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 83.75,
+      "submissionDate" : "2015-02-15"
+    } ]
+  }, {
+    "id" : 30048512,
+    "name" : "Operation NGINX - Transcode to Progressive-MP4 Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "HTTP", "C", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2015-01-25",
+    "registrationEndDate" : "2015-01-27",
+    "submissionEndDate" : "2015-01-30",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "pfilippi",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-01-25"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2015-01-25"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2015-01-25"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-01-25"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2015-01-25"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "tgkokk",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2015-01-26"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2015-01-26"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 90.19,
+      "submissionDate" : "2015-01-30"
+    } ]
+  }, {
+    "id" : 30048429,
+    "name" : "Operation Nginx - Unit Tests",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C++", "HTTP", "C", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2015-01-15",
+    "registrationEndDate" : "2015-01-20",
+    "submissionEndDate" : "2015-01-22",
+    "prizes" : [ 600.0, 150.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "chicapi",
+      "registrationDate" : "2015-01-16"
+    }, {
+      "handle" : "bosszhang",
+      "registrationDate" : "2015-01-16"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2015-01-16"
+    }, {
+      "handle" : "gthedreamer",
+      "registrationDate" : "2015-01-16"
+    }, {
+      "handle" : "amitpal101",
+      "registrationDate" : "2015-01-16"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-01-16"
+    }, {
+      "handle" : "priyankgarg28",
+      "registrationDate" : "2015-01-16"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-01-19"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 88.75,
+      "submissionDate" : "2015-01-22"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 2,
+      "score" : 85.0,
+      "submissionDate" : "2015-01-22"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 3,
+      "score" : 23.75,
+      "submissionDate" : "2015-01-22"
+    } ]
+  }, {
+    "id" : 30048045,
+    "name" : "Operation NGINX - Enhanced Logging",
+    "type" : "DEVELOP",
+    "subType" : "FIRST_2_FINISH",
+    "technologies" : [ "C++", "HTTP", "C" ],
+    "status" : "Completed",
+    "postingDate" : "2014-12-16",
+    "registrationEndDate" : "2015-01-15",
+    "submissionEndDate" : "2015-01-15",
+    "prizes" : [ 200.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "gmagniez",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "kevinwern",
+      "registrationDate" : "2014-12-17"
+    }, {
+      "handle" : "phaniram",
+      "registrationDate" : "2014-12-17"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2014-12-17"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2014-12-18"
+    }, {
+      "handle" : "planetkeeper",
+      "registrationDate" : "2014-12-18"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-12-19"
+    }, {
+      "handle" : "dhanvantharim",
+      "registrationDate" : "2014-12-19"
+    }, {
+      "handle" : "Leewings",
+      "registrationDate" : "2014-12-22"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2014-12-22"
+    }, {
+      "handle" : "VenLee",
+      "registrationDate" : "2014-12-22"
+    }, {
+      "handle" : "kkidd",
+      "registrationDate" : "2014-12-23"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2014-12-22"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 0.0,
+      "submissionDate" : "2014-12-22"
+    } ]
+  }, {
+    "id" : 30048323,
+    "name" : "Repost - Chemical Indexing Project Objects Retrieving and Saving locally",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Java", "Python" ],
+    "status" : "Completed",
+    "postingDate" : "2015-01-06",
+    "registrationEndDate" : "2015-01-11",
+    "submissionEndDate" : "2015-01-11",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 50,
+    "registrants" : [ {
+      "handle" : "arpit2438735",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "general7078",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "SamOkure",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "gvir",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "Nithingupta",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "jimurick",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "Raphael.Stroe",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "Ajith20",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "amz3",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "vinoh",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "chok68",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "bannie2492",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "sri02",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "Jun.Feng",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "r2007",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "Towhid",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "Curapiket",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "172rahul",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "WeirdThinker15",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "arber.qoku",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "joningi",
+      "registrationDate" : "2015-01-07"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2015-01-08"
+    }, {
+      "handle" : "twds",
+      "registrationDate" : "2015-01-08"
+    }, {
+      "handle" : "gkpooja93",
+      "registrationDate" : "2015-01-08"
+    }, {
+      "handle" : "schmoel",
+      "registrationDate" : "2015-01-08"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2015-01-08"
+    }, {
+      "handle" : "denim2x",
+      "registrationDate" : "2015-01-08"
+    }, {
+      "handle" : "samsundar88",
+      "registrationDate" : "2015-01-08"
+    }, {
+      "handle" : "feynman_canon",
+      "registrationDate" : "2015-01-09"
+    }, {
+      "handle" : "linuxgeek",
+      "registrationDate" : "2015-01-09"
+    }, {
+      "handle" : "Yuvaraj Ravi",
+      "registrationDate" : "2015-01-09"
+    }, {
+      "handle" : "Austin.P",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "dhrub",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "eias",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "ranjanshailesh1",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "munendra",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "frogger",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2015-01-10"
+    }, {
+      "handle" : "TheNightPhoenix",
+      "registrationDate" : "2015-01-11"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 85.0,
+      "submissionDate" : "2015-01-11"
+    }, {
+      "handle" : "amz3",
+      "placement" : 2,
+      "score" : 77.5,
+      "submissionDate" : "2015-01-10"
+    }, {
+      "handle" : "chok68",
+      "placement" : 3,
+      "score" : 75.0,
+      "submissionDate" : "2015-01-11"
+    } ]
+  }, {
+    "id" : 30048215,
+    "name" : "Operation NGINX - File Clean Up",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C++", "HTTP", "C", "REST" ],
+    "status" : "Completed",
+    "postingDate" : "2015-01-02",
+    "registrationEndDate" : "2015-01-07",
+    "submissionEndDate" : "2015-01-07",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "mo.sehsah",
+      "registrationDate" : "2015-01-02"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2015-01-02"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2015-01-03"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2015-01-03"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2015-01-03"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2015-01-03"
+    }, {
+      "handle" : "klo86min",
+      "registrationDate" : "2015-01-03"
+    }, {
+      "handle" : "phaniram",
+      "registrationDate" : "2015-01-03"
+    }, {
+      "handle" : "mike1995",
+      "registrationDate" : "2015-01-03"
+    }, {
+      "handle" : "amanforindia",
+      "registrationDate" : "2015-01-04"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2015-01-04"
+    }, {
+      "handle" : "Thrain",
+      "registrationDate" : "2015-01-06"
+    }, {
+      "handle" : "vvstdung89",
+      "registrationDate" : "2015-01-07"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 86.25,
+      "submissionDate" : "2015-01-07"
+    } ]
+  }, {
+    "id" : 30048022,
+    "name" : "FAST! Operation NGINX- Pseudo-HLS tweaks.",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "C" ],
+    "status" : "Completed",
+    "postingDate" : "2014-12-15",
+    "registrationEndDate" : "2014-12-17",
+    "submissionEndDate" : "2014-12-17",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "agh",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "ForceLogic",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "2012ankitkmr",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "gmagniez",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2014-12-16"
+    }, {
+      "handle" : "chok68",
+      "registrationDate" : "2014-12-16"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Gerard.NestRec",
+      "placement" : 1,
+      "score" : 93.75,
+      "submissionDate" : "2014-12-16"
+    } ]
+  }, {
+    "id" : 30046226,
+    "name" : "PoC Assembly - Network Anomaly Detection Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "C", "Other" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-19",
+    "registrationEndDate" : "2014-10-21",
+    "submissionEndDate" : "2014-10-24",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 25,
+    "registrants" : [ {
+      "handle" : "Safadurimo",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "gondzo",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2014-10-19"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "testXuSanping",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "alfiya_Zi",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "mouchtaris",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "OlinaRuan",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "samlighty",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "registrationDate" : "2014-10-20"
+    }, {
+      "handle" : "planetkeeper",
+      "registrationDate" : "2014-10-21"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-10-21"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2014-10-21"
+    }, {
+      "handle" : "yedtoss",
+      "registrationDate" : "2014-10-21"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-10-21"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "gondzo",
+      "placement" : 1,
+      "score" : 94.75,
+      "submissionDate" : "2014-10-24"
+    }, {
+      "handle" : "Gerard.NestRec",
+      "placement" : 2,
+      "score" : 89.28,
+      "submissionDate" : "2014-10-24"
+    }, {
+      "handle" : "planetkeeper",
+      "placement" : 3,
+      "score" : 72.01,
+      "submissionDate" : "2014-10-22"
+    } ]
+  } ]
+}

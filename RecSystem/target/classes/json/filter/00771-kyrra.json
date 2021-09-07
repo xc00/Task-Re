@@ -1,0 +1,975 @@
+{
+  "id" : 771,
+  "handle" : "kyrra",
+  "countHistoryTasks" : 5,
+  "historyTasks" : [ {
+    "id" : 30046618,
+    "name" : "Simple IMAP Proxy Server for Google Apps and Thunderbird (support minimum commands) Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Go" ],
+    "status" : "Completed",
+    "postingDate" : "2014-11-02",
+    "registrationEndDate" : "2014-11-04",
+    "submissionEndDate" : "2014-11-08",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 26,
+    "registrants" : [ {
+      "handle" : "panoptimum",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "nier_123",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "kyrra",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "johnie_sheng",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "ahmed.seddiq",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "caoweiquan322",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "abelli",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "orirmi",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "gmagniez",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "bolts",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "halbcoder",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "ruby_ninja",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2014-11-04"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "caoweiquan322",
+      "placement" : 1,
+      "score" : 94.17,
+      "submissionDate" : "2014-11-08"
+    }, {
+      "handle" : "kyrra",
+      "placement" : 2,
+      "score" : 93.33,
+      "submissionDate" : "2014-11-07"
+    }, {
+      "handle" : "orirmi",
+      "placement" : 3,
+      "score" : 90.0,
+      "submissionDate" : "2014-11-08"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 4,
+      "score" : 70.0,
+      "submissionDate" : "2014-11-08"
+    } ]
+  }, {
+    "id" : 30046621,
+    "name" : "Simple POP Proxy Server for Google Apps and Thunderbird (support minimum commands) Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Go" ],
+    "status" : "Completed",
+    "postingDate" : "2014-11-02",
+    "registrationEndDate" : "2014-11-04",
+    "submissionEndDate" : "2014-11-08",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 29,
+    "registrants" : [ {
+      "handle" : "chicapi",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "nier_123",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "wcheung",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "kyrra",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "domel911",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "codingdrone",
+      "registrationDate" : "2014-11-02"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "caoweiquan322",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "abelli",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "SPChoria",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "orirmi",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "mulish",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "gmagniez",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "halbcoder",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "alecn2002",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2014-11-03"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "ahmed.seddiq",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "ruby_ninja",
+      "registrationDate" : "2014-11-04"
+    }, {
+      "handle" : "krisjen",
+      "registrationDate" : "2014-11-04"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "caoweiquan322",
+      "placement" : 1,
+      "score" : 96.67,
+      "submissionDate" : "2014-11-08"
+    }, {
+      "handle" : "chicapi",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2014-11-08"
+    } ]
+  }, {
+    "id" : 30046224,
+    "name" : "Go Learning Challenge - Simple Web-API Server with OAuth2 authentication",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Go" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-23",
+    "registrationEndDate" : "2014-10-27",
+    "submissionEndDate" : "2014-10-27",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 25,
+    "registrants" : [ {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "kyrra",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "bryfry",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "jorje.b",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "eric_zj",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "hnuljy",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "abelli",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "domel911",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "SPChoria",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "Kavu",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "alecn2002",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "hariharan-uno",
+      "registrationDate" : "2014-10-23"
+    }, {
+      "handle" : "rwifeng",
+      "registrationDate" : "2014-10-24"
+    }, {
+      "handle" : "f0rc0d3r",
+      "registrationDate" : "2014-10-24"
+    }, {
+      "handle" : "sunny_fable",
+      "registrationDate" : "2014-10-24"
+    }, {
+      "handle" : "michaeljkw",
+      "registrationDate" : "2014-10-25"
+    }, {
+      "handle" : "mouchtaris",
+      "registrationDate" : "2014-10-25"
+    }, {
+      "handle" : "fox000002",
+      "registrationDate" : "2014-10-25"
+    }, {
+      "handle" : "Tkreativ",
+      "registrationDate" : "2014-10-25"
+    }, {
+      "handle" : "johnie_sheng",
+      "registrationDate" : "2014-10-26"
+    }, {
+      "handle" : "iCare",
+      "registrationDate" : "2014-10-26"
+    } ],
+    "numSubmitters" : 8,
+    "submitters" : [ {
+      "handle" : "kyrra",
+      "placement" : 2,
+      "score" : 98.33,
+      "submissionDate" : "2014-10-26"
+    }, {
+      "handle" : "johnie_sheng",
+      "placement" : 1,
+      "score" : 98.33,
+      "submissionDate" : "2014-10-26"
+    }, {
+      "handle" : "sunny_fable",
+      "placement" : 3,
+      "score" : 92.5,
+      "submissionDate" : "2014-10-26"
+    }, {
+      "handle" : "alecn2002",
+      "placement" : 4,
+      "score" : 86.67,
+      "submissionDate" : "2014-10-26"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 5,
+      "score" : 82.5,
+      "submissionDate" : "2014-10-26"
+    }, {
+      "handle" : "abelli",
+      "placement" : 6,
+      "score" : 80.0,
+      "submissionDate" : "2014-10-26"
+    }, {
+      "handle" : "hnuljy",
+      "placement" : 7,
+      "score" : 79.17,
+      "submissionDate" : "2014-10-26"
+    }, {
+      "handle" : "michaeljkw",
+      "placement" : 8,
+      "score" : 78.33,
+      "submissionDate" : "2014-10-26"
+    } ]
+  }, {
+    "id" : 30046225,
+    "name" : "Go Learning Challenge - Simple Cache Server",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Go" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-15",
+    "registrationEndDate" : "2014-10-20",
+    "submissionEndDate" : "2014-10-20",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 37,
+    "registrants" : [ {
+      "handle" : "chris75898",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "fox000002",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "kyrra",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "vectorijk",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "abelli",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "planetkeeper",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "wsuncle",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "vlad_D",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "mayank8888",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "5ud0",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "domel911",
+      "registrationDate" : "2014-10-15"
+    }, {
+      "handle" : "harisamin",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "jorje.b",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "joe.yia",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "ycqiaowork",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "genycopedison",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "ozanyildiz",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "callmekatootie",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "bolts",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "SPChoria",
+      "registrationDate" : "2014-10-16"
+    }, {
+      "handle" : "pbruna",
+      "registrationDate" : "2014-10-17"
+    }, {
+      "handle" : "partychen",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "natebrennand",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "hmmdar",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "sunny_fable",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "alecn2002",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "michaeljkw",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "mouchtaris",
+      "registrationDate" : "2014-10-18"
+    }, {
+      "handle" : "satefan",
+      "registrationDate" : "2014-10-19"
+    } ],
+    "numSubmitters" : 16,
+    "submitters" : [ {
+      "handle" : "bolts",
+      "placement" : 1,
+      "score" : 96.25,
+      "submissionDate" : "2014-10-16"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 3,
+      "score" : 95.0,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "kyrra",
+      "placement" : 2,
+      "score" : 95.0,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "abelli",
+      "placement" : 6,
+      "score" : 94.38,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "sunny_fable",
+      "placement" : 5,
+      "score" : 94.38,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "partychen",
+      "placement" : 4,
+      "score" : 94.38,
+      "submissionDate" : "2014-10-18"
+    }, {
+      "handle" : "michaeljkw",
+      "placement" : 7,
+      "score" : 93.75,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "mouchtaris",
+      "placement" : 8,
+      "score" : 93.75,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "natebrennand",
+      "placement" : 9,
+      "score" : 91.88,
+      "submissionDate" : "2014-10-18"
+    }, {
+      "handle" : "alecn2002",
+      "placement" : 10,
+      "score" : 89.38,
+      "submissionDate" : "2014-10-19"
+    }, {
+      "handle" : "ycqiaowork",
+      "placement" : 11,
+      "score" : 81.88,
+      "submissionDate" : "2014-10-16"
+    }, {
+      "handle" : "SPChoria",
+      "placement" : 12,
+      "score" : 81.88,
+      "submissionDate" : "2014-10-18"
+    }, {
+      "handle" : "harisamin",
+      "placement" : 13,
+      "score" : 80.0,
+      "submissionDate" : "2014-10-18"
+    }, {
+      "handle" : "planetkeeper",
+      "placement" : 15,
+      "score" : 79.38,
+      "submissionDate" : "2014-10-18"
+    }, {
+      "handle" : "mayank8888",
+      "placement" : 14,
+      "score" : 79.38,
+      "submissionDate" : "2014-10-15"
+    }, {
+      "handle" : "wsuncle",
+      "placement" : 16,
+      "score" : 78.13,
+      "submissionDate" : "2014-10-15"
+    } ]
+  }, {
+    "id" : 30046011,
+    "name" : "Go Learning Challenge - Simple Web-API Server",
+    "type" : "DEVELOP",
+    "subType" : "CODE",
+    "technologies" : [ "Go" ],
+    "status" : "Completed",
+    "postingDate" : "2014-10-07",
+    "registrationEndDate" : "2014-10-14",
+    "submissionEndDate" : "2014-10-14",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 66,
+    "registrants" : [ {
+      "handle" : "vlad_D",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "sunbinbrother",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "hnuljy",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "blu3fox",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "roarky",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "jorje.b",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "5ud0",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "vectorijk",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "CaptainChrno",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "abelli",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "mayank8888",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "fantasticfears",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "alecn2002",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "savon_cn",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "jeevaniith",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "renqingwei123",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "callmekatootie",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "Kumar210894",
+      "registrationDate" : "2014-10-07"
+    }, {
+      "handle" : "sunny_fable",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "wsuncle",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "rliu054",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "domel911",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "giginim",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "kyrra",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "johnie_sheng",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "creack",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "maumercado",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "satefan",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "shelakel",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "billhathaway",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "Artemiche",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "chicapi",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "Kavu",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "gcapell",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "toqueteos",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "mewmew",
+      "registrationDate" : "2014-10-08"
+    }, {
+      "handle" : "ewalk153",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "ttakasu_tc",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "jker",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "hariharan-uno",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "andreicalin",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "littleboy",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "michaeljkw",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "tuxing",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "hmmdar",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "ozanyildiz",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "OneOfOne",
+      "registrationDate" : "2014-10-09"
+    }, {
+      "handle" : "bryfry",
+      "registrationDate" : "2014-10-10"
+    }, {
+      "handle" : "adriansosa",
+      "registrationDate" : "2014-10-10"
+    }, {
+      "handle" : "bolts",
+      "registrationDate" : "2014-10-10"
+    }, {
+      "handle" : "howeyc",
+      "registrationDate" : "2014-10-11"
+    }, {
+      "handle" : "agus.mw",
+      "registrationDate" : "2014-10-12"
+    }, {
+      "handle" : "totocaca",
+      "registrationDate" : "2014-10-12"
+    }, {
+      "handle" : "herodolphin",
+      "registrationDate" : "2014-10-12"
+    }, {
+      "handle" : "penpo",
+      "registrationDate" : "2014-10-12"
+    }, {
+      "handle" : "njern",
+      "registrationDate" : "2014-10-12"
+    }, {
+      "handle" : "kirschwasser",
+      "registrationDate" : "2014-10-12"
+    }, {
+      "handle" : "limoges",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "viclei",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2014-10-13"
+    }, {
+      "handle" : "natebrennand",
+      "registrationDate" : "2014-10-14"
+    } ],
+    "numSubmitters" : 39,
+    "submitters" : [ {
+      "handle" : "kyrra",
+      "placement" : 1,
+      "score" : 96.25,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "Kavu",
+      "placement" : 2,
+      "score" : 94.58,
+      "submissionDate" : "2014-10-09"
+    }, {
+      "handle" : "giginim",
+      "placement" : 3,
+      "score" : 93.75,
+      "submissionDate" : "2014-10-08"
+    }, {
+      "handle" : "njern",
+      "placement" : 4,
+      "score" : 93.33,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "satefan",
+      "placement" : 5,
+      "score" : 93.33,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "johnie_sheng",
+      "placement" : 7,
+      "score" : 92.92,
+      "submissionDate" : "2014-10-09"
+    }, {
+      "handle" : "bryfry",
+      "placement" : 6,
+      "score" : 92.92,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "OneOfOne",
+      "placement" : 9,
+      "score" : 92.08,
+      "submissionDate" : "2014-10-09"
+    }, {
+      "handle" : "bolts",
+      "placement" : 10,
+      "score" : 92.08,
+      "submissionDate" : "2014-10-10"
+    }, {
+      "handle" : "andreicalin",
+      "placement" : 8,
+      "score" : 92.08,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "natebrennand",
+      "placement" : 12,
+      "score" : 90.42,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "billhathaway",
+      "placement" : 13,
+      "score" : 90.42,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "abelli",
+      "placement" : 11,
+      "score" : 90.42,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "dfn",
+      "placement" : 14,
+      "score" : 90.0,
+      "submissionDate" : "2014-10-11"
+    }, {
+      "handle" : "hariharan-uno",
+      "placement" : 17,
+      "score" : 89.17,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "muzehyun",
+      "placement" : 16,
+      "score" : 89.17,
+      "submissionDate" : "2014-10-10"
+    }, {
+      "handle" : "ewalk153",
+      "placement" : 15,
+      "score" : 89.17,
+      "submissionDate" : "2014-10-08"
+    }, {
+      "handle" : "kirschwasser",
+      "placement" : 18,
+      "score" : 88.75,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "hmmdar",
+      "placement" : 19,
+      "score" : 87.5,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "littleboy",
+      "placement" : 20,
+      "score" : 87.08,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "wsuncle",
+      "placement" : 21,
+      "score" : 85.0,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "sunny_fable",
+      "placement" : 22,
+      "score" : 85.0,
+      "submissionDate" : "2014-10-10"
+    }, {
+      "handle" : "toqueteos",
+      "placement" : 24,
+      "score" : 84.58,
+      "submissionDate" : "2014-10-09"
+    }, {
+      "handle" : "CaptainChrno",
+      "placement" : 23,
+      "score" : 84.58,
+      "submissionDate" : "2014-10-11"
+    }, {
+      "handle" : "alecn2002",
+      "placement" : 25,
+      "score" : 83.33,
+      "submissionDate" : "2014-10-09"
+    }, {
+      "handle" : "mewmew",
+      "placement" : 26,
+      "score" : 82.92,
+      "submissionDate" : "2014-10-08"
+    }, {
+      "handle" : "creack",
+      "placement" : 27,
+      "score" : 81.67,
+      "submissionDate" : "2014-10-08"
+    }, {
+      "handle" : "Artemiche",
+      "placement" : 28,
+      "score" : 80.83,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "michaeljkw",
+      "placement" : 29,
+      "score" : 78.75,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "howeyc",
+      "placement" : 30,
+      "score" : 77.5,
+      "submissionDate" : "2014-10-11"
+    }, {
+      "handle" : "jorje.b",
+      "placement" : 31,
+      "score" : 77.08,
+      "submissionDate" : "2014-10-13"
+    }, {
+      "handle" : "chicapi",
+      "placement" : 32,
+      "score" : 76.25,
+      "submissionDate" : "2014-10-10"
+    }, {
+      "handle" : "Kumar210894",
+      "placement" : 33,
+      "score" : 75.83,
+      "submissionDate" : "2014-10-07"
+    }, {
+      "handle" : "totocaca",
+      "placement" : 34,
+      "score" : 75.42,
+      "submissionDate" : "2014-10-12"
+    }, {
+      "handle" : "vectorijk",
+      "placement" : 35,
+      "score" : 75.0,
+      "submissionDate" : "2014-10-08"
+    }, {
+      "handle" : "5ud0",
+      "placement" : 36,
+      "score" : 70.0,
+      "submissionDate" : "2014-10-08"
+    }, {
+      "handle" : "mayank8888",
+      "placement" : 37,
+      "score" : 67.08,
+      "submissionDate" : "2014-10-09"
+    }, {
+      "handle" : "hnuljy",
+      "placement" : 38,
+      "score" : 65.83,
+      "submissionDate" : "2014-10-09"
+    }, {
+      "handle" : "ttakasu_tc",
+      "placement" : 39,
+      "score" : 25.0,
+      "submissionDate" : "2014-10-08"
+    } ]
+  } ]
+}

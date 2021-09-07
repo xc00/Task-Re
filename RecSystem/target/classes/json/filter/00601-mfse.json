@@ -1,0 +1,1880 @@
+{
+  "id" : 601,
+  "handle" : "mfse",
+  "countHistoryTasks" : 20,
+  "historyTasks" : [ {
+    "id" : 30000811,
+    "name" : "UML Tool Actions - Auxiliary Elements Actions",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2007-02-01",
+    "registrationEndDate" : "2007-02-04",
+    "submissionEndDate" : "2007-02-08",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "albertwang",
+      "registrationDate" : "2007-02-02"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2007-02-02"
+    }, {
+      "handle" : "myxgyy",
+      "registrationDate" : "2007-02-03"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2007-02-03"
+    }, {
+      "handle" : "amit_pundir",
+      "registrationDate" : "2007-02-03"
+    }, {
+      "handle" : "xOberon",
+      "registrationDate" : "2007-02-04"
+    }, {
+      "handle" : "arabinda",
+      "registrationDate" : "2007-02-04"
+    }, {
+      "handle" : "dybowskjr",
+      "registrationDate" : "2007-02-04"
+    }, {
+      "handle" : "victorsam",
+      "registrationDate" : "2007-02-04"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "albertwang",
+      "placement" : 1,
+      "score" : 94.35,
+      "submissionDate" : "2007-02-08"
+    }, {
+      "handle" : "biotrail",
+      "placement" : 2,
+      "score" : 92.05,
+      "submissionDate" : "2007-02-07"
+    } ]
+  }, {
+    "id" : 30000752,
+    "name" : "UML Tool Actions - Diagram Actions",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-27",
+    "registrationEndDate" : "2007-01-30",
+    "submissionEndDate" : "2007-01-31",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "tingyifang",
+      "registrationDate" : "2007-01-28"
+    }, {
+      "handle" : "temptemp",
+      "registrationDate" : "2007-01-27"
+    }, {
+      "handle" : "itsp",
+      "registrationDate" : "2007-01-27"
+    }, {
+      "handle" : "lazycow",
+      "registrationDate" : "2007-01-28"
+    }, {
+      "handle" : "Stratocoder",
+      "registrationDate" : "2007-01-28"
+    }, {
+      "handle" : "restarter",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "topalps",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "albertwang",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "meeta",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "bbskill",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "skeebz",
+      "registrationDate" : "2007-01-29"
+    }, {
+      "handle" : "cyzsbuaa",
+      "registrationDate" : "2007-01-30"
+    }, {
+      "handle" : "theMADscientist",
+      "registrationDate" : "2007-01-28"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "bbskill",
+      "placement" : 1,
+      "score" : 98.71,
+      "submissionDate" : "2007-01-31"
+    }, {
+      "handle" : "biotrail",
+      "placement" : 2,
+      "score" : 96.0,
+      "submissionDate" : "2007-01-30"
+    }, {
+      "handle" : "albertwang",
+      "placement" : 3,
+      "score" : 89.13,
+      "submissionDate" : "2007-01-31"
+    }, {
+      "handle" : "lazycow",
+      "placement" : 4,
+      "score" : 84.42,
+      "submissionDate" : "2007-01-31"
+    } ]
+  }, {
+    "id" : 30000697,
+    "name" : "RSS Syndication Plugin",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "J2EE", "Java", "Servlet", "HTML", "HTTP" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-18",
+    "registrationEndDate" : "2007-01-21",
+    "submissionEndDate" : "2007-01-25",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "beGoodCoder",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "sjremy",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "hefeng",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "j2ee.solutions",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "okoi80",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "jezrdna",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "myxgyy",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2007-01-19"
+    }, {
+      "handle" : "mittu",
+      "registrationDate" : "2007-01-20"
+    }, {
+      "handle" : "TICKET_42303",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "anand_nalya",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "dancer",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "gets0ul",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "mike_deakins",
+      "registrationDate" : "2007-01-21"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2007-01-21"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "biotrail",
+      "placement" : 1,
+      "score" : 98.16,
+      "submissionDate" : "2007-01-25"
+    }, {
+      "handle" : "hefeng",
+      "placement" : 2,
+      "score" : 91.12,
+      "submissionDate" : "2007-01-25"
+    }, {
+      "handle" : "okoi80",
+      "placement" : 3,
+      "score" : 83.8,
+      "submissionDate" : "2007-01-25"
+    }, {
+      "handle" : "flytoj2ee",
+      "placement" : 4,
+      "score" : 80.62,
+      "submissionDate" : "2007-01-25"
+    }, {
+      "handle" : "sjremy",
+      "placement" : -1,
+      "score" : 62.15,
+      "submissionDate" : "2007-01-25"
+    } ]
+  }, {
+    "id" : 30000618,
+    "name" : "TreeTable Model",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-11",
+    "registrationEndDate" : "2007-01-14",
+    "submissionEndDate" : "2007-01-18",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "mishagam",
+      "registrationDate" : "2007-01-11"
+    }, {
+      "handle" : "fskimm",
+      "registrationDate" : "2007-01-12"
+    }, {
+      "handle" : "edemairy",
+      "registrationDate" : "2007-01-13"
+    }, {
+      "handle" : "wang_liang",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "j2ee.solutions",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "humblefool",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "real_vg",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "FireIce",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "Xuchen",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "maone",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "nomadicsun",
+      "registrationDate" : "2007-01-13"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "humblefool",
+      "placement" : 1,
+      "score" : 80.7,
+      "submissionDate" : "2007-01-18"
+    }, {
+      "handle" : "fskimm",
+      "placement" : 2,
+      "score" : 80.03,
+      "submissionDate" : "2007-01-18"
+    }, {
+      "handle" : "wang_liang",
+      "placement" : 3,
+      "score" : 78.49,
+      "submissionDate" : "2007-01-18"
+    }, {
+      "handle" : "nomadicsun",
+      "placement" : -1,
+      "score" : 67.83,
+      "submissionDate" : "2007-01-17"
+    } ]
+  }, {
+    "id" : 30000617,
+    "name" : "OpenDocument Fonts",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-11",
+    "registrationEndDate" : "2007-01-14",
+    "submissionEndDate" : "2007-01-18",
+    "prizes" : [ 0.0, 0.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "FireIce",
+      "registrationDate" : "2007-01-13"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "zmij",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "icto1sipibrl",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "tushak",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "finrod",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "kinzz",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "smallka",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "sql_lall",
+      "registrationDate" : "2007-01-14"
+    }, {
+      "handle" : "merlinlain",
+      "registrationDate" : "2007-01-12"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "tushak",
+      "placement" : 1,
+      "score" : 88.31,
+      "submissionDate" : "2007-01-16"
+    }, {
+      "handle" : "FireIce",
+      "placement" : 2,
+      "score" : 88.09,
+      "submissionDate" : "2007-01-17"
+    }, {
+      "handle" : "smallka",
+      "placement" : 3,
+      "score" : 86.29,
+      "submissionDate" : "2007-01-17"
+    } ]
+  }, {
+    "id" : 30000610,
+    "name" : "Service Engine",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-05",
+    "registrationEndDate" : "2007-01-08",
+    "submissionEndDate" : "2007-01-13",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "fastprogrammer",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "adic",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "disorder",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "DanNguyen",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "ilovewii",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "duner",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "maone",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "tushak",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "bramandia",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2007-01-06"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "maone",
+      "placement" : 1,
+      "score" : 83.35,
+      "submissionDate" : "2007-01-12"
+    } ]
+  }, {
+    "id" : 30000599,
+    "name" : "Chat Contact Manager",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2007-01-05",
+    "registrationEndDate" : "2007-01-08",
+    "submissionEndDate" : "2007-01-13",
+    "prizes" : [ 0.0, 0.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "Rica",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "code4rajesh",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "qiucx0161",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "mpaulse",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2007-01-06"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "j2ee.solutions",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "Mafy",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "suyife",
+      "registrationDate" : "2007-01-07"
+    }, {
+      "handle" : "Wendell",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "King_Bette",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "Xuchen",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "codedoc",
+      "registrationDate" : "2007-01-08"
+    }, {
+      "handle" : "tushak",
+      "registrationDate" : "2007-01-07"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "Standlove",
+      "placement" : 1,
+      "score" : 94.6,
+      "submissionDate" : "2007-01-09"
+    }, {
+      "handle" : "Wendell",
+      "placement" : 2,
+      "score" : 92.49,
+      "submissionDate" : "2007-01-09"
+    }, {
+      "handle" : "tushak",
+      "placement" : 3,
+      "score" : 87.36,
+      "submissionDate" : "2007-01-12"
+    } ]
+  }, {
+    "id" : 30000542,
+    "name" : "OpenDocument Interface",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2006-12-28",
+    "registrationEndDate" : "2006-12-31",
+    "submissionEndDate" : "2007-01-05",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "mpaulse",
+      "registrationDate" : "2006-12-28"
+    }, {
+      "handle" : "humblefool",
+      "registrationDate" : "2006-12-28"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2006-12-28"
+    }, {
+      "handle" : "j2ee.solutions",
+      "registrationDate" : "2006-12-28"
+    }, {
+      "handle" : "enefem21",
+      "registrationDate" : "2006-12-28"
+    }, {
+      "handle" : "sql_lall",
+      "registrationDate" : "2006-12-29"
+    }, {
+      "handle" : "tushak",
+      "registrationDate" : "2006-12-29"
+    }, {
+      "handle" : "gemy21ce",
+      "registrationDate" : "2006-12-30"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-12-30"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-12-30"
+    }, {
+      "handle" : "crackme",
+      "registrationDate" : "2006-12-31"
+    }, {
+      "handle" : "yid0",
+      "registrationDate" : "2006-12-31"
+    }, {
+      "handle" : "merlinlain",
+      "registrationDate" : "2006-12-29"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-12-31"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "sql_lall",
+      "placement" : 1,
+      "score" : 91.75,
+      "submissionDate" : "2007-01-05"
+    }, {
+      "handle" : "humblefool",
+      "placement" : 2,
+      "score" : 81.58,
+      "submissionDate" : "2007-01-05"
+    }, {
+      "handle" : "tushak",
+      "placement" : 3,
+      "score" : 80.01,
+      "submissionDate" : "2007-01-05"
+    }, {
+      "handle" : "crackme",
+      "placement" : -1,
+      "score" : 73.32,
+      "submissionDate" : "2007-01-05"
+    } ]
+  }, {
+    "id" : 30000449,
+    "name" : "XMI Reader Diagram Interchange Plugin",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-12-14",
+    "registrationEndDate" : "2006-12-17",
+    "submissionEndDate" : "2006-12-21",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "sabkuchh",
+      "registrationDate" : "2006-12-14"
+    }, {
+      "handle" : "lovingcs",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "guntaka",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "coolsheep",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "invader_eki",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "mulawin",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "Aeth",
+      "registrationDate" : "2006-12-17"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-12-17"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "biotrail",
+      "placement" : 1,
+      "score" : 98.08,
+      "submissionDate" : "2006-12-19"
+    } ]
+  }, {
+    "id" : 30000448,
+    "name" : "UML Tool Actions - Activity Elements Actions",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-12-14",
+    "registrationEndDate" : "2006-12-17",
+    "submissionEndDate" : "2006-12-21",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "dybowskjr",
+      "registrationDate" : "2006-12-14"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-12-14"
+    }, {
+      "handle" : "xbull",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "debugger123",
+      "registrationDate" : "2006-12-15"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "Mateusz",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "zmij",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "evilisneo",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "kanishkkunal",
+      "registrationDate" : "2006-12-16"
+    }, {
+      "handle" : "kaqi072821",
+      "registrationDate" : "2006-12-17"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2006-12-17"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "biotrail",
+      "placement" : 1,
+      "score" : 92.86,
+      "submissionDate" : "2006-12-21"
+    }, {
+      "handle" : "evilisneo",
+      "placement" : 2,
+      "score" : 86.06,
+      "submissionDate" : "2006-12-20"
+    }, {
+      "handle" : "kanishkkunal",
+      "placement" : 3,
+      "score" : 84.8,
+      "submissionDate" : "2006-12-21"
+    }, {
+      "handle" : "kaqi072821",
+      "placement" : 4,
+      "score" : 82.52,
+      "submissionDate" : "2006-12-21"
+    }, {
+      "handle" : "zmij",
+      "placement" : -1,
+      "score" : 64.02,
+      "submissionDate" : "2006-12-21"
+    } ]
+  }, {
+    "id" : 30000227,
+    "name" : "UML Tool Actions - Diagram Elements Actions",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-11-30",
+    "registrationEndDate" : "2006-12-03",
+    "submissionEndDate" : "2006-12-11",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "Stratocoder",
+      "registrationDate" : "2006-11-30"
+    }, {
+      "handle" : "kaqi072821",
+      "registrationDate" : "2006-12-01"
+    }, {
+      "handle" : "zsu_bear",
+      "registrationDate" : "2006-12-01"
+    }, {
+      "handle" : "xbull",
+      "registrationDate" : "2006-12-01"
+    }, {
+      "handle" : "artpro",
+      "registrationDate" : "2006-12-02"
+    }, {
+      "handle" : "kosmo73",
+      "registrationDate" : "2006-12-02"
+    }, {
+      "handle" : "zmij",
+      "registrationDate" : "2006-12-02"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-12-03"
+    }, {
+      "handle" : "pgs121",
+      "registrationDate" : "2006-12-03"
+    }, {
+      "handle" : "cnhzgb",
+      "registrationDate" : "2006-12-03"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "zsu_bear",
+      "placement" : 1,
+      "score" : 95.73,
+      "submissionDate" : "2006-12-08"
+    }, {
+      "handle" : "mfse",
+      "placement" : 2,
+      "score" : 94.23,
+      "submissionDate" : "2006-12-11"
+    }, {
+      "handle" : "kaqi072821",
+      "placement" : 3,
+      "score" : 93.07,
+      "submissionDate" : "2006-12-11"
+    }, {
+      "handle" : "zmij",
+      "placement" : 4,
+      "score" : 91.67,
+      "submissionDate" : "2006-12-06"
+    }, {
+      "handle" : "artpro",
+      "placement" : 5,
+      "score" : 86.73,
+      "submissionDate" : "2006-12-11"
+    }, {
+      "handle" : "cnhzgb",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-12-11"
+    } ]
+  }, {
+    "id" : 30000144,
+    "name" : "Action Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-11-16",
+    "registrationEndDate" : "2006-11-20",
+    "submissionEndDate" : "2006-11-23",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 31,
+    "registrants" : [ {
+      "handle" : "fantasydog",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "sharper",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "abelli",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "kiler",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "Philya",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "wang_liang",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "ly",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "restarter",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "treeroot",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "mishagam",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "kvin",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "biotrail",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "fanse",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "myxgyy",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "zmij",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "thambie1",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "stylecheck",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "KLW",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "tactoth",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "artpro",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "SunLiuyi",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "masterwujiang",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "yuli98110146",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "uhmateush",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "vilain",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "mzhaom",
+      "registrationDate" : "2006-11-18"
+    } ],
+    "numSubmitters" : 9,
+    "submitters" : [ {
+      "handle" : "biotrail",
+      "placement" : 1,
+      "score" : 99.16,
+      "submissionDate" : "2006-11-21"
+    }, {
+      "handle" : "abelli",
+      "placement" : 2,
+      "score" : 94.38,
+      "submissionDate" : "2006-11-22"
+    }, {
+      "handle" : "artpro",
+      "placement" : 3,
+      "score" : 92.52,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "restarter",
+      "placement" : 4,
+      "score" : 86.71,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "zmij",
+      "placement" : 5,
+      "score" : 85.21,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "fanse",
+      "placement" : 6,
+      "score" : 84.47,
+      "submissionDate" : "2006-11-21"
+    }, {
+      "handle" : "vilain",
+      "placement" : 7,
+      "score" : 82.8,
+      "submissionDate" : "2006-11-22"
+    }, {
+      "handle" : "wang_liang",
+      "placement" : 8,
+      "score" : 79.67,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "mfse",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-22"
+    } ]
+  }, {
+    "id" : 30000142,
+    "name" : "UML Model Manager",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-11-16",
+    "registrationEndDate" : "2006-11-20",
+    "submissionEndDate" : "2006-11-23",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 40,
+    "registrants" : [ {
+      "handle" : "wallop",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "disorder",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "kitiara",
+      "registrationDate" : "2006-11-16"
+    }, {
+      "handle" : "yoitsfrancis",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "wrox",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "yangjunkai",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "ly",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "jorsef",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "KLW",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "hotdev",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "FireIce",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "radium",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "victorsam",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "Stratocoder",
+      "registrationDate" : "2006-11-17"
+    }, {
+      "handle" : "kosmo73",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "yuhai820111",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "samuelchow",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "stylecheck",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "mzhaom",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "xbull",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "sridhar87",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "kshatriyan",
+      "registrationDate" : "2006-11-18"
+    }, {
+      "handle" : "tactoth",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "markgan",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "xiexueyan",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "Hacker_QC",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "frueyang",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "hanno",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "xxiyy",
+      "registrationDate" : "2006-11-19"
+    }, {
+      "handle" : "treeroot",
+      "registrationDate" : "2006-11-20"
+    }, {
+      "handle" : "cspc",
+      "registrationDate" : "2006-11-20"
+    }, {
+      "handle" : "nemo_kaz",
+      "registrationDate" : "2006-11-20"
+    }, {
+      "handle" : "ebozoky",
+      "registrationDate" : "2006-11-20"
+    }, {
+      "handle" : "cactu5",
+      "registrationDate" : "2006-11-20"
+    }, {
+      "handle" : "tcs_test",
+      "registrationDate" : "2006-11-21"
+    }, {
+      "handle" : "tianniu",
+      "registrationDate" : "2006-11-21"
+    }, {
+      "handle" : "FrankJ",
+      "registrationDate" : "2006-11-21"
+    } ],
+    "numSubmitters" : 19,
+    "submitters" : [ {
+      "handle" : "radium",
+      "placement" : 1,
+      "score" : 97.76,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "KLW",
+      "placement" : 3,
+      "score" : 96.99,
+      "submissionDate" : "2006-11-22"
+    }, {
+      "handle" : "victorsam",
+      "placement" : 2,
+      "score" : 96.99,
+      "submissionDate" : "2006-11-19"
+    }, {
+      "handle" : "kshatriyan",
+      "placement" : 4,
+      "score" : 96.51,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "disorder",
+      "placement" : 5,
+      "score" : 95.99,
+      "submissionDate" : "2006-11-19"
+    }, {
+      "handle" : "FireIce",
+      "placement" : 6,
+      "score" : 95.36,
+      "submissionDate" : "2006-11-21"
+    }, {
+      "handle" : "tactoth",
+      "placement" : 7,
+      "score" : 93.77,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "hanno",
+      "placement" : 8,
+      "score" : 93.16,
+      "submissionDate" : "2006-11-20"
+    }, {
+      "handle" : "stylecheck",
+      "placement" : 9,
+      "score" : 92.94,
+      "submissionDate" : "2006-11-21"
+    }, {
+      "handle" : "Hacker_QC",
+      "placement" : 10,
+      "score" : 91.13,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "tianniu",
+      "placement" : 11,
+      "score" : 89.96,
+      "submissionDate" : "2006-11-22"
+    }, {
+      "handle" : "kosmo73",
+      "placement" : 12,
+      "score" : 89.53,
+      "submissionDate" : "2006-11-22"
+    }, {
+      "handle" : "kitiara",
+      "placement" : 13,
+      "score" : 88.03,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "hotdev",
+      "placement" : 14,
+      "score" : 86.95,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "tingyifang",
+      "placement" : 15,
+      "score" : 86.49,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "wrox",
+      "placement" : 16,
+      "score" : 79.05,
+      "submissionDate" : "2006-11-23"
+    }, {
+      "handle" : "frueyang",
+      "placement" : 17,
+      "score" : 78.59,
+      "submissionDate" : "2006-11-22"
+    }, {
+      "handle" : "jorsef",
+      "placement" : 18,
+      "score" : 78.22,
+      "submissionDate" : "2006-11-18"
+    }, {
+      "handle" : "wallop",
+      "placement" : -1,
+      "score" : 71.91,
+      "submissionDate" : "2006-11-23"
+    } ]
+  }, {
+    "id" : 30000099,
+    "name" : "UML Tool Actions - Project Actions",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-11-09",
+    "registrationEndDate" : "2006-11-12",
+    "submissionEndDate" : "2006-11-16",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 36,
+    "registrants" : [ {
+      "handle" : "bilcos90",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "fantasydog",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "whubird",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "biaochen",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "AstroNox",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "kiler",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "marchthirteenth",
+      "registrationDate" : "2006-11-09"
+    }, {
+      "handle" : "bruce_zhang",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "kats",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "Chuande",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "m4risU",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "jorsef",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "Rossen",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "RachaelLCook",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "zmij",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "victorsam",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "xbull",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "supun",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "fskimm",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "mzhaom",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "evilisneo",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "monstercloud",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "mercury_m",
+      "registrationDate" : "2006-11-11"
+    }, {
+      "handle" : "li_jun",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "Hacker_QC",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "indifferent",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "uhmateush",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "tianniu",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "frueyang",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "Stratocoder",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "dmytro",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2006-11-12"
+    }, {
+      "handle" : "AndreiRO",
+      "registrationDate" : "2006-11-10"
+    }, {
+      "handle" : "crazypigs",
+      "registrationDate" : "2006-11-12"
+    } ],
+    "numSubmitters" : 7,
+    "submitters" : [ {
+      "handle" : "evilisneo",
+      "placement" : 1,
+      "score" : 95.81,
+      "submissionDate" : "2006-11-15"
+    }, {
+      "handle" : "RachaelLCook",
+      "placement" : 2,
+      "score" : 94.18,
+      "submissionDate" : "2006-11-15"
+    }, {
+      "handle" : "victorsam",
+      "placement" : 3,
+      "score" : 91.35,
+      "submissionDate" : "2006-11-16"
+    }, {
+      "handle" : "crazypigs",
+      "placement" : 4,
+      "score" : 89.81,
+      "submissionDate" : "2006-11-16"
+    }, {
+      "handle" : "mercury_m",
+      "placement" : 5,
+      "score" : 89.14,
+      "submissionDate" : "2006-11-16"
+    }, {
+      "handle" : "frueyang",
+      "placement" : 6,
+      "score" : 80.75,
+      "submissionDate" : "2006-11-16"
+    }, {
+      "handle" : "uhmateush",
+      "placement" : 7,
+      "score" : 76.44,
+      "submissionDate" : "2006-11-16"
+    } ]
+  }, {
+    "id" : 24539155,
+    "name" : "UML Model - Common Behavior",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-11-02",
+    "registrationEndDate" : "2006-11-06",
+    "submissionEndDate" : "2006-11-09",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "Philya",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Rossen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "justjoined",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zmij",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "telly12",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "wang_liang",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "80x86",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "zjq",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "marchthirteenth",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "bonzer",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "DutMan",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "Zulander",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "evilisneo",
+      "registrationDate" : "2006-11-05"
+    } ],
+    "numSubmitters" : 9,
+    "submitters" : [ {
+      "handle" : "zjq",
+      "placement" : 1,
+      "score" : 99.16,
+      "submissionDate" : "2006-11-09"
+    }, {
+      "handle" : "evilisneo",
+      "placement" : 2,
+      "score" : 96.14,
+      "submissionDate" : "2006-11-09"
+    }, {
+      "handle" : "Philya",
+      "placement" : 3,
+      "score" : 94.45,
+      "submissionDate" : "2006-11-07"
+    }, {
+      "handle" : "justjoined",
+      "placement" : 4,
+      "score" : 92.45,
+      "submissionDate" : "2006-11-08"
+    }, {
+      "handle" : "wang_liang",
+      "placement" : 5,
+      "score" : 91.66,
+      "submissionDate" : "2006-11-08"
+    }, {
+      "handle" : "80x86",
+      "placement" : 6,
+      "score" : 89.12,
+      "submissionDate" : "2006-11-05"
+    }, {
+      "handle" : "tingyifang",
+      "placement" : 7,
+      "score" : 88.24,
+      "submissionDate" : "2006-11-06"
+    }, {
+      "handle" : "zmij",
+      "placement" : 8,
+      "score" : 82.19,
+      "submissionDate" : "2006-11-09"
+    }, {
+      "handle" : "marchthirteenth",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-09"
+    } ]
+  }, {
+    "id" : 24538947,
+    "name" : "UML Model - Core Auxiliary Elements",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2006-11-02",
+    "registrationEndDate" : "2006-11-06",
+    "submissionEndDate" : "2006-11-09",
+    "prizes" : [ 300.0, 150.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "Cagi",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "BennyT",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mpaulse",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hohosky",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Barrett",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "rainday",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "Jascon",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "cs02rm0",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "zjq",
+      "registrationDate" : "2006-11-04"
+    }, {
+      "handle" : "steedfly",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "marchthirteenth",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "invader_eki",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "Achilles_2005",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "coolzhao",
+      "registrationDate" : "2006-11-05"
+    }, {
+      "handle" : "rem",
+      "registrationDate" : "2006-11-05"
+    } ],
+    "numSubmitters" : 10,
+    "submitters" : [ {
+      "handle" : "zjq",
+      "placement" : 1,
+      "score" : 99.4,
+      "submissionDate" : "2006-11-09"
+    }, {
+      "handle" : "mpaulse",
+      "placement" : 2,
+      "score" : 98.01,
+      "submissionDate" : "2006-11-09"
+    }, {
+      "handle" : "hohosky",
+      "placement" : 3,
+      "score" : 94.15,
+      "submissionDate" : "2006-11-07"
+    }, {
+      "handle" : "BennyT",
+      "placement" : 4,
+      "score" : 91.84,
+      "submissionDate" : "2006-11-08"
+    }, {
+      "handle" : "invader_eki",
+      "placement" : 5,
+      "score" : 88.51,
+      "submissionDate" : "2006-11-07"
+    }, {
+      "handle" : "marchthirteenth",
+      "placement" : 6,
+      "score" : 88.17,
+      "submissionDate" : "2006-11-07"
+    }, {
+      "handle" : "Jascon",
+      "placement" : 7,
+      "score" : 77.82,
+      "submissionDate" : "2006-11-09"
+    }, {
+      "handle" : "cs02rm0",
+      "placement" : 8,
+      "score" : 76.28,
+      "submissionDate" : "2006-11-08"
+    }, {
+      "handle" : "rainday",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-09"
+    }, {
+      "handle" : "rem",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-06"
+    } ]
+  }, {
+    "id" : 24447510,
+    "name" : "RSS Generator",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2006-10-26",
+    "registrationEndDate" : "2006-10-29",
+    "submissionEndDate" : "2006-11-06",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 31,
+    "registrants" : [ {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ecspike",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Rossen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dmytro",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "debugger123",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "colesbury",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "magicpig",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "80x86",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Nitinkumar",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "littlebull",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "evilisneo",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "j2ee.solutions",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fanse",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "supun",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "jphantom",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kosmo73",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "crosswinds",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "BLE",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "yuli98110146",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "uhmateush",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "gets0ul",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "wang_liang",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Softway",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "bonzer",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cspc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "BennyT",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kaqi072821",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "KLW",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "jasoncb",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "marchthirteenth",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "colesbury",
+      "placement" : 1,
+      "score" : 92.48,
+      "submissionDate" : "2006-11-06"
+    }, {
+      "handle" : "gets0ul",
+      "placement" : 2,
+      "score" : 76.93,
+      "submissionDate" : "2006-11-06"
+    }, {
+      "handle" : "evilisneo",
+      "placement" : 3,
+      "score" : 76.8,
+      "submissionDate" : "2006-11-06"
+    }, {
+      "handle" : "crosswinds",
+      "placement" : -1,
+      "score" : 60.94,
+      "submissionDate" : "2006-11-06"
+    } ]
+  }, {
+    "id" : 24331153,
+    "name" : "Sliding Tile Puzzle",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "HTML", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2006-10-19",
+    "registrationEndDate" : "2006-10-22",
+    "submissionEndDate" : "2006-10-26",
+    "prizes" : [ 700.0, 350.0 ],
+    "numRegistrants" : 22,
+    "registrants" : [ {
+      "handle" : "RachaelLCook",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mercury_m",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kats",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Rossen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mercoz",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "WishMaster",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Philya",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "80x86",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "BenWang",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tuan",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "gets0ul",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "steedfly",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "celestine",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "fantasydog",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kzam",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "bonzer",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "artpro",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "princeofpersia",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "buffonxl",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "RachaelLCook",
+      "placement" : 1,
+      "score" : 89.35,
+      "submissionDate" : "2006-11-03"
+    }, {
+      "handle" : "kats",
+      "placement" : 2,
+      "score" : 75.44,
+      "submissionDate" : "2006-11-03"
+    }, {
+      "handle" : "gets0ul",
+      "placement" : -1,
+      "score" : 74.58,
+      "submissionDate" : "2006-11-03"
+    }, {
+      "handle" : "artpro",
+      "placement" : -1,
+      "score" : 73.94,
+      "submissionDate" : "2006-11-03"
+    }, {
+      "handle" : "mercury_m",
+      "placement" : -1,
+      "score" : 73.26,
+      "submissionDate" : "2006-11-03"
+    } ]
+  }, {
+    "id" : 15315282,
+    "name" : "SAML 2 Identity Provider Server",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2005-07-06",
+    "registrationEndDate" : "2005-07-09",
+    "submissionEndDate" : "2005-07-15",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "TAG",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "smell",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "aaronsc",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kr00tki",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "syntaxglitch",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "bmi",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "token77",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "redduke",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "aaronsc",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 15218561,
+    "name" : "SAML 2 Schema",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "XML" ],
+    "status" : "Completed",
+    "postingDate" : "2005-06-22",
+    "registrationEndDate" : "2005-06-25",
+    "submissionEndDate" : "2005-06-29",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "MaceWindu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "matmis",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "duner",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "wiedzmin",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "relic",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "rameshbabu",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "bose_java",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "radhagopala",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "mfse",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "token77",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "reubo",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "matmis",
+      "placement" : 1,
+      "score" : 80.46,
+      "submissionDate" : "2006-11-02"
+    } ]
+  } ]
+}

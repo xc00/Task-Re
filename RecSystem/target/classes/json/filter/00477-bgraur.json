@@ -1,0 +1,2868 @@
+{
+  "id" : 477,
+  "handle" : "bgraur",
+  "countHistoryTasks" : 31,
+  "historyTasks" : [ {
+    "id" : 30029317,
+    "name" : "Module Assembly - Styx Mobile App Android Assembly 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "HTML", "JavaScript", "Android 2.2" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-07",
+    "registrationEndDate" : "2012-08-09",
+    "submissionEndDate" : "2012-08-13",
+    "prizes" : [ 2250.0, 1125.0 ],
+    "numRegistrants" : 22,
+    "registrants" : [ {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-08-07"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-08-07"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-08-07"
+    }, {
+      "handle" : "pvmagacho",
+      "registrationDate" : "2012-08-07"
+    }, {
+      "handle" : "chrislee8",
+      "registrationDate" : "2012-08-07"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-08-07"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-08-07"
+    }, {
+      "handle" : "Lotnok",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "Ghost_141",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "lillysun",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "cjie888_tc",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "mastraho",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "gabyja",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "cmax",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2012-08-09"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2012-08-09"
+    }, {
+      "handle" : "crackme",
+      "registrationDate" : "2012-08-09"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-08"
+    }, {
+      "handle" : "selvaa89",
+      "registrationDate" : "2012-08-08"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "bgraur",
+      "placement" : 1,
+      "score" : 76.15,
+      "submissionDate" : "2012-08-13"
+    } ]
+  }, {
+    "id" : 30029294,
+    "name" : "Module Assembly - Styx Mobile App iOS TVR 60 Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "HTML", "HTTP", "JavaScript", "Objective C", "iOS 4.0", "iOS 5.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-08-04",
+    "registrationEndDate" : "2012-08-06",
+    "submissionEndDate" : "2012-08-11",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "MiG-29",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "gabyja",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "YeGGo",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "pvmagacho",
+      "registrationDate" : "2012-08-04"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-08-05"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-08-05"
+    }, {
+      "handle" : "Lotnok",
+      "registrationDate" : "2012-08-05"
+    }, {
+      "handle" : "copperybean",
+      "registrationDate" : "2012-08-05"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-08-05"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-08-06"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "pvmagacho",
+      "placement" : 1,
+      "score" : 87.66,
+      "submissionDate" : "2012-08-11"
+    } ]
+  }, {
+    "id" : 30029034,
+    "name" : "Hercules Player HTML5 iOS Proof of Concept",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C", "iOS 4.0", "iOS 5.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-07-24",
+    "registrationEndDate" : "2012-07-26",
+    "submissionEndDate" : "2012-07-29",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "mohamede1945",
+      "registrationDate" : "2012-07-24"
+    }, {
+      "handle" : "bonifatio",
+      "registrationDate" : "2012-07-24"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-07-24"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-07-24"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-07-24"
+    }, {
+      "handle" : "heweyj",
+      "registrationDate" : "2012-07-24"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "cmax",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "muzehyun",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "haipt81",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "lofzcx",
+      "registrationDate" : "2012-07-25"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-07-26"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "lofzcx",
+      "placement" : 1,
+      "score" : 99.11,
+      "submissionDate" : "2012-07-28"
+    }, {
+      "handle" : "shen75",
+      "placement" : 2,
+      "score" : 97.03,
+      "submissionDate" : "2012-07-28"
+    }, {
+      "handle" : "mohamede1945",
+      "placement" : 3,
+      "score" : 96.51,
+      "submissionDate" : "2012-07-27"
+    } ]
+  }, {
+    "id" : 30028442,
+    "name" : "ATS Content Plugin Module Architecture",
+    "type" : "DEVELOP",
+    "subType" : "ARCHITECTURE",
+    "technologies" : [ "XML", "HTTP", "C" ],
+    "status" : "Completed",
+    "postingDate" : "2012-07-12",
+    "registrationEndDate" : "2012-07-15",
+    "submissionEndDate" : "2012-07-17",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2012-07-12"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-07-12"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-07-12"
+    }, {
+      "handle" : "kurtrips",
+      "registrationDate" : "2012-07-12"
+    }, {
+      "handle" : "Kuhan",
+      "registrationDate" : "2012-07-12"
+    }, {
+      "handle" : "the_best",
+      "registrationDate" : "2012-07-12"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "haipt81",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "dweng",
+      "registrationDate" : "2012-07-13"
+    }, {
+      "handle" : "swengko",
+      "registrationDate" : "2012-07-14"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "the_best",
+      "placement" : 1,
+      "score" : 91.28,
+      "submissionDate" : "2012-07-16"
+    } ]
+  }, {
+    "id" : 30024030,
+    "name" : "Release Assembly - InSPIRE Zero Robotics Enhancement 2 Part 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2012-06-22",
+    "registrationEndDate" : "2012-06-24",
+    "submissionEndDate" : "2012-06-27",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "cjie888_tc",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "grubio",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "sampath01",
+      "registrationDate" : "2012-06-24"
+    }, {
+      "handle" : "deepsolo9",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-06-22"
+    }, {
+      "handle" : "leonzhou",
+      "registrationDate" : "2012-06-23"
+    }, {
+      "handle" : "morehappiness",
+      "registrationDate" : "2012-06-23"
+    }, {
+      "handle" : "sweetu",
+      "registrationDate" : "2012-06-23"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2012-06-24"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-06-24"
+    }, {
+      "handle" : "duxiaoyang",
+      "registrationDate" : "2012-06-24"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "morehappiness",
+      "placement" : 1,
+      "score" : 98.13,
+      "submissionDate" : "2012-06-27"
+    } ]
+  }, {
+    "id" : 30027862,
+    "name" : "Quality Index Computation Idea Generation",
+    "type" : "DEVELOP",
+    "subType" : "CONCEPTUALIZATION",
+    "technologies" : [ ],
+    "status" : "Completed",
+    "postingDate" : "2012-06-04",
+    "registrationEndDate" : "2012-06-07",
+    "submissionEndDate" : "2012-06-10",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 30,
+    "registrants" : [ {
+      "handle" : "mastraho",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "Psyho",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "faeton",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "dfn",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "mercoz",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "hello-c",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "kaygee",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "DrAhmed",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "Mloody2000",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "vvvvv810505",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "iSpartan",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "sakar2003",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "JacoCronje",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "tardislvr",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "utsav1984",
+      "registrationDate" : "2012-06-06"
+    }, {
+      "handle" : "sah2ed",
+      "registrationDate" : "2012-06-06"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2012-06-06"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-06-06"
+    }, {
+      "handle" : "nishant2110",
+      "registrationDate" : "2012-06-06"
+    }, {
+      "handle" : "delight",
+      "registrationDate" : "2012-06-06"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-06-07"
+    }, {
+      "handle" : "zsudraco",
+      "registrationDate" : "2012-06-04"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "Mloody2000",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-06-10"
+    }, {
+      "handle" : "dfn",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2012-06-10"
+    }, {
+      "handle" : "mastraho",
+      "placement" : 4,
+      "score" : 80.0,
+      "submissionDate" : "2012-06-08"
+    }, {
+      "handle" : "zsudraco",
+      "placement" : 3,
+      "score" : 80.0,
+      "submissionDate" : "2012-06-06"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 5,
+      "score" : 80.0,
+      "submissionDate" : "2012-06-10"
+    } ]
+  }, {
+    "id" : 30027786,
+    "name" : "Proof of Concept Assembly - Qpid Management Tool Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "C#", ".NET 4.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-06-02",
+    "registrationEndDate" : "2012-06-06",
+    "submissionEndDate" : "2012-06-08",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 14,
+    "registrants" : [ {
+      "handle" : "Gando19850304",
+      "registrationDate" : "2012-06-02"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-06-02"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-06-02"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-06-02"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-06-03"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "guolibin",
+      "registrationDate" : "2012-06-04"
+    }, {
+      "handle" : "Yeung",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "wsobolewski",
+      "registrationDate" : "2012-06-05"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-06-02"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "Yeung",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-06-07"
+    }, {
+      "handle" : "TAG",
+      "placement" : 2,
+      "score" : 82.66,
+      "submissionDate" : "2012-06-07"
+    } ]
+  }, {
+    "id" : 30027166,
+    "name" : "Module Assembly - Styx Mobile App Phone Gap Prototype Conversion Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "HTML", "JavaScript", "iOS 4.0", "iOS 5.0" ],
+    "status" : "Completed",
+    "postingDate" : "2012-05-06",
+    "registrationEndDate" : "2012-05-08",
+    "submissionEndDate" : "2012-05-11",
+    "prizes" : [ 1400.0, 700.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "sjtu_pigoneand",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "sampath01",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-05-06"
+    }, {
+      "handle" : "mastraho",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "elkhawajah",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "supercharger",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-05-07"
+    }, {
+      "handle" : "Zulander",
+      "registrationDate" : "2012-05-06"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Zulander",
+      "placement" : 1,
+      "score" : 86.61,
+      "submissionDate" : "2012-05-10"
+    } ]
+  }, {
+    "id" : 30025349,
+    "name" : "Release Assembly - Cpp Subset Engine Hercules Receiver HTML5 Lite Profile Release Assembly 2",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2012-01-16",
+    "registrationEndDate" : "2012-01-19",
+    "submissionEndDate" : "2012-01-24",
+    "prizes" : [ 2000.0, 1000.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "billthu",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "KennyAlive",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "crackme",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-01-17"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2012-01-17"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2012-01-17"
+    }, {
+      "handle" : "moonli",
+      "registrationDate" : "2012-01-16"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "KennyAlive",
+      "placement" : 1,
+      "score" : 86.09,
+      "submissionDate" : "2012-01-23"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 2,
+      "score" : 83.85,
+      "submissionDate" : "2012-01-23"
+    } ]
+  }, {
+    "id" : 30025327,
+    "name" : "Subset Engine Hercules Receiver Asteroids Game Test",
+    "type" : "DEVELOP",
+    "subType" : "UI_PROTOTYPE_COMPETITION",
+    "technologies" : [ "HTML", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2012-01-14",
+    "registrationEndDate" : "2012-01-16",
+    "submissionEndDate" : "2012-01-19",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "progloco",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "frozenfx",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "Braincrck",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "rajjoshi",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "carbonfish",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "dweng",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "leafjungle",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "wsobolewski",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "zxdong262",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "JackFruit",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "virose",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2012-01-16"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2012-01-14"
+    }, {
+      "handle" : "jasonr",
+      "registrationDate" : "2012-01-15"
+    }, {
+      "handle" : "Sparrow",
+      "registrationDate" : "2012-01-16"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "frozenfx",
+      "placement" : 1,
+      "score" : 100.0,
+      "submissionDate" : "2012-01-18"
+    }, {
+      "handle" : "dweng",
+      "placement" : 2,
+      "score" : 98.22,
+      "submissionDate" : "2012-01-18"
+    }, {
+      "handle" : "carbonfish",
+      "placement" : 3,
+      "score" : 81.78,
+      "submissionDate" : "2012-01-18"
+    } ]
+  }, {
+    "id" : 30024759,
+    "name" : "Module Assembly - Healthcheck Monitoring Script",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Other" ],
+    "status" : "Completed",
+    "postingDate" : "2011-12-06",
+    "registrationEndDate" : "2011-12-08",
+    "submissionEndDate" : "2011-12-11",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 18,
+    "registrants" : [ {
+      "handle" : "Fanazhe",
+      "registrationDate" : "2011-12-06"
+    }, {
+      "handle" : "pshd",
+      "registrationDate" : "2011-12-06"
+    }, {
+      "handle" : "jayacdm",
+      "registrationDate" : "2011-12-06"
+    }, {
+      "handle" : "LieutenantRoger",
+      "registrationDate" : "2011-12-06"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-12-06"
+    }, {
+      "handle" : "evilisneo",
+      "registrationDate" : "2011-12-06"
+    }, {
+      "handle" : "kit1980",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "sandaruwang",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "nagrav",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-12-07"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2011-12-08"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-12-08"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-12-08"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2011-12-06"
+    } ],
+    "numSubmitters" : 5,
+    "submitters" : [ {
+      "handle" : "evilisneo",
+      "placement" : 1,
+      "score" : 94.22,
+      "submissionDate" : "2011-12-11"
+    }, {
+      "handle" : "sandaruwang",
+      "placement" : 2,
+      "score" : 93.96,
+      "submissionDate" : "2011-12-09"
+    }, {
+      "handle" : "progloco",
+      "placement" : 3,
+      "score" : 90.63,
+      "submissionDate" : "2011-12-11"
+    }, {
+      "handle" : "CaDenza",
+      "placement" : 4,
+      "score" : 89.53,
+      "submissionDate" : "2011-12-10"
+    }, {
+      "handle" : "LieutenantRoger",
+      "placement" : 5,
+      "score" : 67.24,
+      "submissionDate" : "2011-12-11"
+    } ]
+  }, {
+    "id" : 30024747,
+    "name" : "Module Assembly - Cpp Subset Engine Hercules Receiver Windows Port Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-28",
+    "registrationEndDate" : "2011-12-01",
+    "submissionEndDate" : "2011-12-04",
+    "prizes" : [ 2400.0, 1200.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-11-28"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "supercharger",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "jayacdm",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "pshd",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "vvvvv810505",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "glin0728",
+      "registrationDate" : "2011-12-01"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "yext",
+      "placement" : 1,
+      "score" : 89.17,
+      "submissionDate" : "2011-12-04"
+    } ]
+  }, {
+    "id" : 30024750,
+    "name" : "Module Assembly - Cpp Subset Engine Hercules Receiver OS X Port Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-28",
+    "registrationEndDate" : "2011-12-01",
+    "submissionEndDate" : "2011-12-04",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-11-28"
+    }, {
+      "handle" : "vvvvv810505",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "supercharger",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "shen75",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-11-29"
+    }, {
+      "handle" : "glin0728",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-11-30"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2011-12-01"
+    }, {
+      "handle" : "zlxwd",
+      "registrationDate" : "2011-11-29"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "yext",
+      "placement" : 1,
+      "score" : 97.5,
+      "submissionDate" : "2011-12-04"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 2,
+      "score" : 97.5,
+      "submissionDate" : "2011-12-04"
+    }, {
+      "handle" : "shen75",
+      "placement" : 3,
+      "score" : 75.31,
+      "submissionDate" : "2011-12-04"
+    } ]
+  }, {
+    "id" : 30024489,
+    "name" : "Proof of Concept Assembly - Split Large DNA Sequence File",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-22",
+    "registrationEndDate" : "2011-11-24",
+    "submissionEndDate" : "2011-11-26",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 37,
+    "registrants" : [ {
+      "handle" : "vvvvv810505",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "MarcoFarrier",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "hanshuai",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "andresduque",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "roado",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "DerWonder",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "arch_angel",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "CHBuie",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "7realm",
+      "registrationDate" : "2011-11-22"
+    }, {
+      "handle" : "real_vg",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "Beijing2008",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "omb",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "KeSyren",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "lin_ux",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "ohyan07",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "proxi",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "Cagi",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "wsobolewski",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "thientri",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "mercoz",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2011-11-24"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-11-23"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2011-11-23"
+    } ],
+    "numSubmitters" : 6,
+    "submitters" : [ {
+      "handle" : "7realm",
+      "placement" : 1,
+      "score" : 96.5,
+      "submissionDate" : "2011-11-26"
+    }, {
+      "handle" : "proxi",
+      "placement" : 2,
+      "score" : 95.64,
+      "submissionDate" : "2011-11-25"
+    }, {
+      "handle" : "andresduque",
+      "placement" : 3,
+      "score" : 92.23,
+      "submissionDate" : "2011-11-26"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 4,
+      "score" : 84.06,
+      "submissionDate" : "2011-11-26"
+    }, {
+      "handle" : "roado",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-11-25"
+    }, {
+      "handle" : "tongkunvwang",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-11-26"
+    } ]
+  }, {
+    "id" : 30024528,
+    "name" : "Module Assembly - Cpp Subset Engine Hercules Receiver QT and OpenGL Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "HTML", "HTTP", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-11",
+    "registrationEndDate" : "2011-11-14",
+    "submissionEndDate" : "2011-11-19",
+    "prizes" : [ 2600.0, 1300.0 ],
+    "numRegistrants" : 10,
+    "registrants" : [ {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-11-11"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-12"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2011-11-13"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-11-14"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "yext",
+      "placement" : 1,
+      "score" : 83.91,
+      "submissionDate" : "2011-11-17"
+    } ]
+  }, {
+    "id" : 30024456,
+    "name" : "Module Assembly - Cpp Subset Engine Hercules Receiver Asteroids Game Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "HTTP", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-07",
+    "registrationEndDate" : "2011-11-10",
+    "submissionEndDate" : "2011-11-13",
+    "prizes" : [ 1800.0, 900.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "ManS",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2011-11-08"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-11-09"
+    }, {
+      "handle" : "sandaruwang",
+      "registrationDate" : "2011-11-10"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2011-11-10"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-08"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "yext",
+      "placement" : 1,
+      "score" : 99.53,
+      "submissionDate" : "2011-11-13"
+    }, {
+      "handle" : "sandaruwang",
+      "placement" : 2,
+      "score" : 90.0,
+      "submissionDate" : "2011-11-13"
+    } ]
+  }, {
+    "id" : 30024404,
+    "name" : "Proof of Concept - Android Phone Gap and Axis Video Camera Proof of Concept Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JavaScript", "Android 2.2" ],
+    "status" : "Completed",
+    "postingDate" : "2011-11-04",
+    "registrationEndDate" : "2011-11-07",
+    "submissionEndDate" : "2011-11-10",
+    "prizes" : [ 1700.0, 850.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "good2study",
+      "registrationDate" : "2011-11-04"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-11-04"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-11-04"
+    }, {
+      "handle" : "romanoTC",
+      "registrationDate" : "2011-11-04"
+    }, {
+      "handle" : "yaric_om",
+      "registrationDate" : "2011-11-04"
+    }, {
+      "handle" : "ManS",
+      "registrationDate" : "2011-11-04"
+    }, {
+      "handle" : "evilisneo",
+      "registrationDate" : "2011-11-04"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "Standlove",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "kr00tki",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-11-05"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-11-06"
+    }, {
+      "handle" : "jol",
+      "registrationDate" : "2011-11-06"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "yext",
+      "placement" : 1,
+      "score" : 96.98,
+      "submissionDate" : "2011-11-09"
+    }, {
+      "handle" : "evilisneo",
+      "placement" : 2,
+      "score" : 95.83,
+      "submissionDate" : "2011-11-09"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 3,
+      "score" : 95.52,
+      "submissionDate" : "2011-11-09"
+    }, {
+      "handle" : "yaric_om",
+      "placement" : 4,
+      "score" : 90.57,
+      "submissionDate" : "2011-11-08"
+    } ]
+  }, {
+    "id" : 30024063,
+    "name" : "Module Assembly - Hercules Android Receiver Command Parsing Performance Improvement Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JSON", "Android 2.2" ],
+    "status" : "Completed",
+    "postingDate" : "2011-10-17",
+    "registrationEndDate" : "2011-10-19",
+    "submissionEndDate" : "2011-10-23",
+    "prizes" : [ 1200.0, 600.0 ],
+    "numRegistrants" : 13,
+    "registrants" : [ {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "good2study",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "iRabbit",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "amassari",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "pvmagacho",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "akinwale",
+      "registrationDate" : "2011-10-17"
+    }, {
+      "handle" : "cmax",
+      "registrationDate" : "2011-10-18"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-10-18"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2011-10-18"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-10-19"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-10-17"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "amassari",
+      "placement" : 1,
+      "score" : 80.0,
+      "submissionDate" : "2011-10-21"
+    } ]
+  }, {
+    "id" : 30023282,
+    "name" : "Module Assembly - Hercules Android Receiver Animation Component Port Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Android 2.2" ],
+    "status" : "Completed",
+    "postingDate" : "2011-09-13",
+    "registrationEndDate" : "2011-09-16",
+    "submissionEndDate" : "2011-09-21",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-09-13"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2011-09-14"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-09-14"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-09-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-09-14"
+    }, {
+      "handle" : "kr00tki",
+      "registrationDate" : "2011-09-14"
+    }, {
+      "handle" : "minhu",
+      "registrationDate" : "2011-09-14"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2011-09-15"
+    }, {
+      "handle" : "elaineding",
+      "registrationDate" : "2011-09-15"
+    }, {
+      "handle" : "snguyen",
+      "registrationDate" : "2011-09-16"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-09-15"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "bgraur",
+      "placement" : 1,
+      "score" : 92.5,
+      "submissionDate" : "2011-09-20"
+    } ]
+  }, {
+    "id" : 30019815,
+    "name" : "Module Assembly - Hercules Android Receiver OpenGL Proof of Concept Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "Android 2.2" ],
+    "status" : "Completed",
+    "postingDate" : "2011-08-30",
+    "registrationEndDate" : "2011-09-03",
+    "submissionEndDate" : "2011-09-07",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "phead",
+      "registrationDate" : "2011-08-30"
+    }, {
+      "handle" : "billthu",
+      "registrationDate" : "2011-08-30"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-08-30"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-08-30"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "andresduque",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2011-08-31"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-09-01"
+    }, {
+      "handle" : "gjw99",
+      "registrationDate" : "2011-09-01"
+    }, {
+      "handle" : "antonio081014",
+      "registrationDate" : "2011-09-03"
+    }, {
+      "handle" : "shreenmohideen",
+      "registrationDate" : "2011-09-01"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "bgraur",
+      "placement" : 1,
+      "score" : 92.5,
+      "submissionDate" : "2011-09-07"
+    } ]
+  }, {
+    "id" : 30017966,
+    "name" : "Subset Engine Hercules Receiver Web GL HTML5 Lite Profile Test Suite",
+    "type" : "DEVELOP",
+    "subType" : "UI_PROTOTYPE_COMPETITION",
+    "technologies" : [ "HTML", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-06-13",
+    "registrationEndDate" : "2011-06-15",
+    "submissionEndDate" : "2011-06-19",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 12,
+    "registrants" : [ {
+      "handle" : "sunnysummer",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-06-13"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-06-14"
+    }, {
+      "handle" : "sandaruwang",
+      "registrationDate" : "2011-06-15"
+    }, {
+      "handle" : "JGeeks",
+      "registrationDate" : "2011-06-15"
+    }, {
+      "handle" : "snguyen",
+      "registrationDate" : "2011-06-15"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "sunnysummer",
+      "placement" : 1,
+      "score" : 96.44,
+      "submissionDate" : "2011-06-19"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 2,
+      "score" : 92.0,
+      "submissionDate" : "2011-06-19"
+    }, {
+      "handle" : "yext",
+      "placement" : 3,
+      "score" : 88.0,
+      "submissionDate" : "2011-06-19"
+    } ]
+  }, {
+    "id" : 30017754,
+    "name" : "JavascriptCore Subset Engine Hercules Receiver Performance",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-05-25",
+    "registrationEndDate" : "2011-05-27",
+    "submissionEndDate" : "2011-05-30",
+    "prizes" : [ 2500.0, 1250.0 ],
+    "numRegistrants" : 15,
+    "registrants" : [ {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-05-25"
+    }, {
+      "handle" : "dweng",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "CrazyGun",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "StarsWing",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "SePulTribe",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "sandaruwang",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "mydeen",
+      "registrationDate" : "2011-05-27"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-05-27"
+    }, {
+      "handle" : "LokiYang",
+      "registrationDate" : "2011-05-27"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-05-26"
+    }, {
+      "handle" : "shawn2008",
+      "registrationDate" : "2011-05-26"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "yext",
+      "placement" : 1,
+      "score" : 94.38,
+      "submissionDate" : "2011-05-30"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 2,
+      "score" : 92.5,
+      "submissionDate" : "2011-05-30"
+    } ]
+  }, {
+    "id" : 30017547,
+    "name" : "Module Assembly - Hercules Receiver CPP Subset Engine V8 and WebGL Merge Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-05-14",
+    "registrationEndDate" : "2011-05-16",
+    "submissionEndDate" : "2011-05-19",
+    "prizes" : [ 1500.0, 750.0 ],
+    "numRegistrants" : 11,
+    "registrants" : [ {
+      "handle" : "yext",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "sandaruwang",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "jayacdm",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "velorien",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-05-15"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2011-05-16"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-05-14"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-05-16"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "bgraur",
+      "placement" : 1,
+      "score" : 98.75,
+      "submissionDate" : "2011-05-18"
+    }, {
+      "handle" : "sandaruwang",
+      "placement" : 2,
+      "score" : 97.97,
+      "submissionDate" : "2011-05-16"
+    }, {
+      "handle" : "yext",
+      "placement" : 3,
+      "score" : 97.5,
+      "submissionDate" : "2011-05-19"
+    } ]
+  }, {
+    "id" : 30017340,
+    "name" : "C++ Subset Engine Hercules Receiver WebGL Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "C++", "HTML", "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-04-29",
+    "registrationEndDate" : "2011-05-03",
+    "submissionEndDate" : "2011-05-06",
+    "prizes" : [ 2500.0, 1250.0 ],
+    "numRegistrants" : 26,
+    "registrants" : [ {
+      "handle" : "mashuper",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "westine",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "chuchao333",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "cjie888_tc",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "bbxiong",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "Zulander",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "rajeshk87",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "dweng",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "real_vg",
+      "registrationDate" : "2011-04-29"
+    }, {
+      "handle" : "sandaruwang",
+      "registrationDate" : "2011-04-30"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-04-30"
+    }, {
+      "handle" : "hyckitty",
+      "registrationDate" : "2011-04-30"
+    }, {
+      "handle" : "HumbleSunflower",
+      "registrationDate" : "2011-04-30"
+    }, {
+      "handle" : "rtriv",
+      "registrationDate" : "2011-04-30"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-04-30"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2011-04-30"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-05-01"
+    }, {
+      "handle" : "fvillaf",
+      "registrationDate" : "2011-05-02"
+    }, {
+      "handle" : "shawn2008",
+      "registrationDate" : "2011-05-02"
+    }, {
+      "handle" : "CrazyGun",
+      "registrationDate" : "2011-05-03"
+    }, {
+      "handle" : "cosherx",
+      "registrationDate" : "2011-05-03"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-04-29"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "yext",
+      "placement" : 1,
+      "score" : 94.84,
+      "submissionDate" : "2011-05-05"
+    }, {
+      "handle" : "real_vg",
+      "placement" : 2,
+      "score" : 93.75,
+      "submissionDate" : "2011-05-06"
+    }, {
+      "handle" : "sandaruwang",
+      "placement" : 3,
+      "score" : 93.59,
+      "submissionDate" : "2011-05-06"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 4,
+      "score" : 83.59,
+      "submissionDate" : "2011-05-05"
+    } ]
+  }, {
+    "id" : 30017163,
+    "name" : "JavascriptCore WebGL Proof of Concept Assembly",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "JavaScript" ],
+    "status" : "Completed",
+    "postingDate" : "2011-04-14",
+    "registrationEndDate" : "2011-04-16",
+    "submissionEndDate" : "2011-04-21",
+    "prizes" : [ 2500.0, 1250.0 ],
+    "numRegistrants" : 32,
+    "registrants" : [ {
+      "handle" : "jayacdm",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "xianwenchen",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "tomaM",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "yext",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "Zulander",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "real_vg",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "wushooter",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "Shorty",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "elkhawajah",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "jmn",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "pirosl_tc",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "romanoTC",
+      "registrationDate" : "2011-04-14"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "dyyddwwd",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "UberMenzh",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "shawn2008",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "StarsWing",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "flyerfox",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "googlesmkm",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "Fanazhe",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "TAG",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "tongkunvwang",
+      "registrationDate" : "2011-04-15"
+    }, {
+      "handle" : "mumujava",
+      "registrationDate" : "2011-04-16"
+    }, {
+      "handle" : "Beijing2008",
+      "registrationDate" : "2011-04-16"
+    }, {
+      "handle" : "chuchao333",
+      "registrationDate" : "2011-04-16"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "real_vg",
+      "placement" : 1,
+      "score" : 93.49,
+      "submissionDate" : "2011-04-20"
+    } ]
+  }, {
+    "id" : 30017063,
+    "name" : "Stuck Phase Explanation",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-04-08",
+    "registrationEndDate" : "2011-04-10",
+    "submissionEndDate" : "2011-04-13",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 34,
+    "registrants" : [ {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "hkjacob",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "jaindsonvs",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "xiaoruby",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "jmn",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "chuchao333",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "Beijing2008",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "BlackMagic",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "qinxd",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "sach.in",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "clarkhe123",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "argolite",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-04-08"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "wushooter",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "smart_raghavan",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "caru",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "vad2",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "iSapphire",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "kangkangakak",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "ashutosh1986",
+      "registrationDate" : "2011-04-09"
+    }, {
+      "handle" : "mike_deakins",
+      "registrationDate" : "2011-04-10"
+    }, {
+      "handle" : "bingnam",
+      "registrationDate" : "2011-04-10"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2011-04-10"
+    }, {
+      "handle" : "ability2000",
+      "registrationDate" : "2011-04-10"
+    }, {
+      "handle" : "Wuu",
+      "registrationDate" : "2011-04-09"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "saarixx",
+      "placement" : 1,
+      "score" : 95.91,
+      "submissionDate" : "2011-04-12"
+    }, {
+      "handle" : "argolite",
+      "placement" : 2,
+      "score" : 82.35,
+      "submissionDate" : "2011-04-13"
+    } ]
+  }, {
+    "id" : 30016636,
+    "name" : "Regular Expression Generator",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-03-20",
+    "registrationEndDate" : "2011-03-23",
+    "submissionEndDate" : "2011-03-26",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 89,
+    "registrants" : [ {
+      "handle" : "selvaa89",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "dobavictor",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "bogrider",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "rdoggy",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "jaindsonvs",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "Bones_",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "Marcin1980",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "mercoz",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "selassi",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "panoptimum",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "lixiaopang",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "CaDenza",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "igalse",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "onsky",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "subook",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "mingshun",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "yuyan",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "ExpertMJCoder",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "Beijing2008",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "ztoa",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "spaghetti",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "phead",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "clarkhe123",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "wushooter",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "hkjacob",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "victor.juquila",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "xyjian",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "BlackMagic",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "vaa2804",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "vokie",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "haohao86",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "XaCaHaa",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "vasundar",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "zlxwd",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "NotBad",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "liuzehongtp",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "bingnam",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "xianwenchen",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "fivestarwy",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "nomo_kazza",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "xtm1989",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "D.R.MC",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "tingyifang",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "erd3erd3",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "TMALBONPH",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "kenny_xu",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "jason.rohman",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "bannie2492",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "Egor",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "sokol",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "tanxiuguang",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "vishalputta",
+      "registrationDate" : "2011-03-23"
+    }, {
+      "handle" : "izhari",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "wkozi",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "kangkangakak",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "zulo",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "iSapphire",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "backstreetlili",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "sjbr",
+      "registrationDate" : "2011-03-21"
+    }, {
+      "handle" : "Chen.Cao",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "codingdomino",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "11fingers",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "visuall",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "dezl",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "geoff.watson",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "vangavroche",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "xiaoruby",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "dma1982",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "lwitkowski",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "shubhamRocks",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "a_m_s",
+      "registrationDate" : "2011-03-22"
+    }, {
+      "handle" : "b3cta3",
+      "registrationDate" : "2011-03-23"
+    }, {
+      "handle" : "hello-c",
+      "registrationDate" : "2011-03-23"
+    }, {
+      "handle" : "Sundeep.techie",
+      "registrationDate" : "2011-03-23"
+    }, {
+      "handle" : "sivakumarc",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "faeton",
+      "registrationDate" : "2011-03-20"
+    }, {
+      "handle" : "yqw",
+      "registrationDate" : "2011-03-23"
+    } ],
+    "numSubmitters" : 15,
+    "submitters" : [ {
+      "handle" : "sparemax",
+      "placement" : 1,
+      "score" : 99.5,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "jaindsonvs",
+      "placement" : 2,
+      "score" : 98.47,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "sokol",
+      "placement" : 3,
+      "score" : 96.53,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "yqw",
+      "placement" : 4,
+      "score" : 94.63,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "D.R.MC",
+      "placement" : 5,
+      "score" : 93.77,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "BlackMagic",
+      "placement" : 6,
+      "score" : 92.96,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "xianwenchen",
+      "placement" : 7,
+      "score" : 90.72,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "phead",
+      "placement" : 8,
+      "score" : 89.63,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "microsky",
+      "placement" : 9,
+      "score" : 88.98,
+      "submissionDate" : "2011-03-25"
+    }, {
+      "handle" : "xyjian",
+      "placement" : 10,
+      "score" : 83.27,
+      "submissionDate" : "2011-03-24"
+    }, {
+      "handle" : "bgraur",
+      "placement" : 11,
+      "score" : 81.64,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "bogrider",
+      "placement" : 12,
+      "score" : 78.41,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "dobavictor",
+      "placement" : 13,
+      "score" : 71.58,
+      "submissionDate" : "2011-03-26"
+    }, {
+      "handle" : "bingnam",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-03-25"
+    }, {
+      "handle" : "XaCaHaa",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2011-03-23"
+    } ]
+  }, {
+    "id" : 30016635,
+    "name" : "Regular Expression Generator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-03-08",
+    "registrationEndDate" : "2011-03-10",
+    "submissionEndDate" : "2011-03-13",
+    "prizes" : [ 850.0, 425.0 ],
+    "numRegistrants" : 28,
+    "registrants" : [ {
+      "handle" : "akumariiit",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "hkjacob",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "jaindsonvs",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "vids_spring",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "codewarrier",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "bingnam",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "nhzp339",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "wushooter",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "volt",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "priya.narayanan",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "sare",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "pfilippi",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "smart_raghavan",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "chuchao333",
+      "registrationDate" : "2011-03-10"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-03-10"
+    }, {
+      "handle" : "Breusov",
+      "registrationDate" : "2011-03-10"
+    }, {
+      "handle" : "sokol",
+      "registrationDate" : "2011-03-10"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-03-09"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "nhzp339",
+      "placement" : 1,
+      "score" : 99.44,
+      "submissionDate" : "2011-03-13"
+    }, {
+      "handle" : "vids_spring",
+      "placement" : 2,
+      "score" : 87.86,
+      "submissionDate" : "2011-03-13"
+    } ]
+  }, {
+    "id" : 30016682,
+    "name" : "Late Deliverables Tracker",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java", "SQL" ],
+    "status" : "Completed",
+    "postingDate" : "2011-03-07",
+    "registrationEndDate" : "2011-03-09",
+    "submissionEndDate" : "2011-03-11",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 20,
+    "registrants" : [ {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "hkjacob",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "smart_raghavan",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "argolite",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "jaindsonvs",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "bingnam",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "luckvin",
+      "registrationDate" : "2011-03-07"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "mastraho",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "winstips",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2011-03-08"
+    }, {
+      "handle" : "mike_deakins",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "priya.narayanan",
+      "registrationDate" : "2011-03-09"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-03-09"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "saarixx",
+      "placement" : 1,
+      "score" : 96.56,
+      "submissionDate" : "2011-03-10"
+    }, {
+      "handle" : "argolite",
+      "placement" : 2,
+      "score" : 94.75,
+      "submissionDate" : "2011-03-11"
+    }, {
+      "handle" : "microsky",
+      "placement" : 3,
+      "score" : 82.46,
+      "submissionDate" : "2011-03-11"
+    } ]
+  }, {
+    "id" : 30016610,
+    "name" : "Configuration Manager",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-03-01",
+    "registrationEndDate" : "2011-03-03",
+    "submissionEndDate" : "2011-03-05",
+    "prizes" : [ 500.0, 250.0 ],
+    "numRegistrants" : 27,
+    "registrants" : [ {
+      "handle" : "caru",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "hkjacob",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "jaindsonvs",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "DanLazar",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "saarixx",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "liuliquan",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "bingnam",
+      "registrationDate" : "2011-03-01"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "flytoj2ee",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "wushooter",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "chuchao333",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "jmn",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "mike_deakins",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "andvp",
+      "registrationDate" : "2011-03-02"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "HumbleSunflower",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "visuall",
+      "registrationDate" : "2011-03-03"
+    }, {
+      "handle" : "hello-c",
+      "registrationDate" : "2011-03-01"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "saarixx",
+      "placement" : 1,
+      "score" : 97.71,
+      "submissionDate" : "2011-03-04"
+    }, {
+      "handle" : "liuliquan",
+      "placement" : 2,
+      "score" : 90.98,
+      "submissionDate" : "2011-03-05"
+    } ]
+  }, {
+    "id" : 30014195,
+    "name" : "DB2 Data Filler",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2011-02-14",
+    "registrationEndDate" : "2011-02-18",
+    "submissionEndDate" : "2011-02-20",
+    "prizes" : [ 750.0, 375.0 ],
+    "numRegistrants" : 33,
+    "registrants" : [ {
+      "handle" : "vids_spring",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "laura_p",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "hkjacob",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "microsky",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "jaindsonvs",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "rac_",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "vangavroche",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "fastprogrammer",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "sparemax",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "kalc",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "smart_raghavan",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "bgraur",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "mekanizumu",
+      "registrationDate" : "2011-02-14"
+    }, {
+      "handle" : "bingnam",
+      "registrationDate" : "2011-02-15"
+    }, {
+      "handle" : "AleaActaEst",
+      "registrationDate" : "2011-02-15"
+    }, {
+      "handle" : "chuchao333",
+      "registrationDate" : "2011-02-15"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2011-02-15"
+    }, {
+      "handle" : "SoftwareExpert",
+      "registrationDate" : "2011-02-15"
+    }, {
+      "handle" : "snoopybaba",
+      "registrationDate" : "2011-02-16"
+    }, {
+      "handle" : "Simon_Lee",
+      "registrationDate" : "2011-02-16"
+    }, {
+      "handle" : "crackme",
+      "registrationDate" : "2011-02-16"
+    }, {
+      "handle" : "priya.narayanan",
+      "registrationDate" : "2011-02-16"
+    }, {
+      "handle" : "HumbleSunflower",
+      "registrationDate" : "2011-02-16"
+    }, {
+      "handle" : "jmn",
+      "registrationDate" : "2011-02-16"
+    }, {
+      "handle" : "xiaoruby",
+      "registrationDate" : "2011-02-16"
+    }, {
+      "handle" : "wushooter",
+      "registrationDate" : "2011-02-18"
+    }, {
+      "handle" : "CrazyGun",
+      "registrationDate" : "2011-02-17"
+    }, {
+      "handle" : "nagesh3",
+      "registrationDate" : "2011-02-17"
+    }, {
+      "handle" : "isugarly",
+      "registrationDate" : "2011-02-17"
+    }, {
+      "handle" : "St.Max",
+      "registrationDate" : "2011-02-17"
+    }, {
+      "handle" : "winterflame",
+      "registrationDate" : "2011-02-17"
+    }, {
+      "handle" : "progloco",
+      "registrationDate" : "2011-02-18"
+    }, {
+      "handle" : "BeBetter",
+      "registrationDate" : "2011-02-18"
+    } ],
+    "numSubmitters" : 2,
+    "submitters" : [ {
+      "handle" : "mekanizumu",
+      "placement" : 1,
+      "score" : 95.56,
+      "submissionDate" : "2011-02-20"
+    }, {
+      "handle" : "vids_spring",
+      "placement" : 2,
+      "score" : 76.74,
+      "submissionDate" : "2011-02-20"
+    } ]
+  } ]
+}

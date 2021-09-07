@@ -1,0 +1,455 @@
+{
+  "id" : 673,
+  "handle" : "Shammah",
+  "countHistoryTasks" : 7,
+  "historyTasks" : [ {
+    "id" : 30031143,
+    "name" : "Release Assembly  - TC Registration Site 2 Bug Fix",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JSP", "JavaScript", "CSS", "SQL" ],
+    "status" : "Completed",
+    "postingDate" : "2012-11-01",
+    "registrationEndDate" : "2012-11-03",
+    "submissionEndDate" : "2012-11-05",
+    "prizes" : [ 600.0, 300.0 ],
+    "numRegistrants" : 16,
+    "registrants" : [ {
+      "handle" : "venkat_suneel",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "poundinc_tc",
+      "registrationDate" : "2012-11-01"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-11-01"
+    }, {
+      "handle" : "bugcoder",
+      "registrationDate" : "2012-11-01"
+    }, {
+      "handle" : "samshu",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "zhaocong89",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "notpad",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "oleggo",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "mhykol",
+      "registrationDate" : "2012-11-02"
+    }, {
+      "handle" : "Shammah",
+      "registrationDate" : "2012-11-03"
+    }, {
+      "handle" : "Veve",
+      "registrationDate" : "2012-11-03"
+    }, {
+      "handle" : "amanforindia",
+      "registrationDate" : "2012-11-03"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-11-02"
+    } ],
+    "numSubmitters" : 3,
+    "submitters" : [ {
+      "handle" : "notpad",
+      "placement" : 1,
+      "score" : 88.44,
+      "submissionDate" : "2012-11-04"
+    }, {
+      "handle" : "Shammah",
+      "placement" : 2,
+      "score" : 87.19,
+      "submissionDate" : "2012-11-04"
+    }, {
+      "handle" : "mhykol",
+      "placement" : 3,
+      "score" : 75.63,
+      "submissionDate" : "2012-11-04"
+    } ]
+  }, {
+    "id" : 30027472,
+    "name" : "Module Assembly - TC Cockpit Enterprise Dashboard Analysis 1",
+    "type" : "DEVELOP",
+    "subType" : "ASSEMBLY_COMPETITION",
+    "technologies" : [ "Java", "JSP", "Servlet", "JavaScript", "Spring", "AJAX", "Struts", "CSS", "EJB 3", "JPA", "SQL" ],
+    "status" : "Completed",
+    "postingDate" : "2012-10-25",
+    "registrationEndDate" : "2012-10-28",
+    "submissionEndDate" : "2012-11-02",
+    "prizes" : [ 1600.0, 800.0 ],
+    "numRegistrants" : 24,
+    "registrants" : [ {
+      "handle" : "venkat_suneel",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "Luca",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "GreatKevin",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "ZPetrovich",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "Schpotsky",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "bugcoder",
+      "registrationDate" : "2012-10-25"
+    }, {
+      "handle" : "codercat",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "sai-manoj",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "Lopige",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "phonechen",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "bugbuka",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "wuxinzhuang",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "csy2012",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "varunsharma",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "KJoe",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "bambook",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "deedee",
+      "registrationDate" : "2012-10-26"
+    }, {
+      "handle" : "sas analyst",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "Shammah",
+      "registrationDate" : "2012-10-27"
+    }, {
+      "handle" : "huangxiaoming",
+      "registrationDate" : "2012-10-28"
+    }, {
+      "handle" : "leo_lol",
+      "registrationDate" : "2012-10-28"
+    }, {
+      "handle" : "Ahmed.Esam",
+      "registrationDate" : "2012-10-28"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2012-10-28"
+    }, {
+      "handle" : "zhengli.cs",
+      "registrationDate" : "2012-10-28"
+    } ],
+    "numSubmitters" : 4,
+    "submitters" : [ {
+      "handle" : "GreatKevin",
+      "placement" : 1,
+      "score" : 89.17,
+      "submissionDate" : "2012-11-01"
+    }, {
+      "handle" : "ZPetrovich",
+      "placement" : 2,
+      "score" : 71.46,
+      "submissionDate" : "2012-11-01"
+    }, {
+      "handle" : "Shammah",
+      "placement" : 3,
+      "score" : 63.39,
+      "submissionDate" : "2012-11-01"
+    }, {
+      "handle" : "csy2012",
+      "placement" : 4,
+      "score" : 56.3,
+      "submissionDate" : "2012-11-01"
+    } ]
+  }, {
+    "id" : 10161111,
+    "name" : "Authorization",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2004-07-13",
+    "registrationEndDate" : "2004-07-16",
+    "submissionEndDate" : "2004-07-20",
+    "prizes" : [ 800.0, 400.0 ],
+    "numRegistrants" : 17,
+    "registrants" : [ {
+      "handle" : "nowellj",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ThinMan",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "preben",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "DaTwinkDaddy",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "kaos0xff",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "akhil_bansal",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Shammah",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "custos",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "waj",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "avax2020",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "newhjh",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "maheshd",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "woodjhon",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "bamboo_zy",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "colau",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "processor",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 8,
+    "submitters" : [ {
+      "handle" : "ThinMan",
+      "placement" : 1,
+      "score" : 89.61,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "akhil_bansal",
+      "placement" : 2,
+      "score" : 79.25,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "colau",
+      "placement" : 3,
+      "score" : 70.16,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "woodjhon",
+      "placement" : 4,
+      "score" : 58.14,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "ShindouHikaru",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "DaTwinkDaddy",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "Shammah",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    }, {
+      "handle" : "custos",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10140190,
+    "name" : "SQL92 Parser",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "JDBC" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2004-07-06",
+    "registrationEndDate" : "2004-07-09",
+    "submissionEndDate" : "2004-07-13",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 8,
+    "registrants" : [ {
+      "handle" : "nowellj",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Shammah",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "BryanChen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cnettel",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Buurzgoth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ripslider",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Codeo",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "cnettel",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10096908,
+    "name" : "Email Address Validator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Completed",
+    "postingDate" : "2004-06-24",
+    "registrationEndDate" : "2004-06-27",
+    "submissionEndDate" : "2004-07-01",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 9,
+    "registrants" : [ {
+      "handle" : "Reddmike",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Shammah",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cfeilong",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "zhen",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ankit_dube",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "pradnyadharia",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "naashak",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "tufail",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "harshagowda",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Shammah",
+      "placement" : 1,
+      "score" : 77.13,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10024051,
+    "name" : "SQL92 Parser",
+    "type" : "DEVELOP",
+    "subType" : "DEVELOPMENT",
+    "technologies" : [ "Java", "JDBC" ],
+    "status" : "Cancelled - Failed Screening",
+    "postingDate" : "2004-06-08",
+    "registrationEndDate" : "2004-06-11",
+    "submissionEndDate" : "2004-06-22",
+    "prizes" : [ 1000.0, 500.0 ],
+    "numRegistrants" : 7,
+    "registrants" : [ {
+      "handle" : "Shammah",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "elefth",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "waj",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "cnettel",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "ShindouHikaru",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "hauser",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "slion",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Shammah",
+      "placement" : -1,
+      "score" : 0.0,
+      "submissionDate" : "2006-11-02"
+    } ]
+  }, {
+    "id" : 10035616,
+    "name" : "Email Address Validator",
+    "type" : "DEVELOP",
+    "subType" : "DESIGN",
+    "technologies" : [ "Java" ],
+    "status" : "Cancelled - Failed Review",
+    "postingDate" : "2004-06-10",
+    "registrationEndDate" : "2004-06-13",
+    "submissionEndDate" : "2004-06-17",
+    "prizes" : [ 400.0, 200.0 ],
+    "numRegistrants" : 2,
+    "registrants" : [ {
+      "handle" : "eck_85",
+      "registrationDate" : "2006-11-03"
+    }, {
+      "handle" : "Shammah",
+      "registrationDate" : "2006-11-03"
+    } ],
+    "numSubmitters" : 1,
+    "submitters" : [ {
+      "handle" : "Shammah",
+      "placement" : 1,
+      "score" : 66.04,
+      "submissionDate" : "2006-11-02"
+    } ]
+  } ]
+}
